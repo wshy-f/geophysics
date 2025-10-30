@@ -1,0 +1,227 @@
+西藏荣那斑岩铜矿地质地球物理特征及找矿意义
+江少卿1,2jiangshaoqing83@163.com, 李彦波3, 冯军4, 李力4, 袁华山4, 王策1,2, 费凡1, 潘燕兵1, 李丽1,2     
+摘要：荣那铜矿床位于西藏班怒西段多龙斑岩铜矿集区，以往1：50000磁法和水系沉积物测量已经显示出荣那异常带具有寻找隐伏斑岩铜矿的潜力.为进一步查明该异常区的异常源属性和铜矿地质特征，对以往地质、物探等资料进行了综合研究，并投入了大比例尺磁法和电法测量等物探工作；在优选区内成矿有利部位的基础上，利用钻探施工进行异常查证.区内物探工作将荣那异常带进一步分解为两个次级异常区：在荣那异常区中心呈现低磁、低阻、高极化异常有利成矿区块，在荣那外围异常区呈现环状高磁、高阻、低极化异常环带.进一步在荣那异常区布设两条激电测深剖面，约150 m以深呈现钟状陡峭的低阻高极化异常.通过对该异常进行综合分析，在荣那异常区选定成矿有利部位施工ZK3204钻孔，86.83~1067.6 m进尺处揭露厚大铜矿体，连续穿矿厚度980.77 m，铜平均品位0.69%.矿体呈巨厚橄榄球状，矿石类型为黄铜矿、辉铜矿化、斑铜矿、黄铁矿化浸染状铜矿石.截止2015年末，探获332+333+334级别铜金属量1097.92万吨，平均品位0.53%.荣那铜矿勘查工作表明，该物探异常是由隐伏铜矿体引起，铜矿类型属斑岩型.阿里地区的铜矿勘查工作表明，青藏高原等高海拔地区高精度磁法和激电测量是经济有效快速圈定靶区的铜矿勘查手段.
+关键词：阿里    荣那    铜矿    磁异常    激电异常    地质特征    找矿意义    
+Geological, geophysics features and its exploration significance of Rongna cu deposit in Ngari county of Tibet, China
+JIANG Shao-qing1,2jiangshaoqing83@163.com , LI Yan-bo3 , FENG Jun4 , LI Li4 , YUAN Hua-shan4 , WANG Ce1,2 , FEI Fan1 , PAN Yan-bing1 , LI Li1,2     
+Abstract: Rongna copper deposit is located in Duolong porphyry copper ore-forming region, western of Bangongco-Nujiang suture zone, Tibet. Previous 1:50000 magnetic survey and water stream sediment survey have shown Rongna anomaly, and indicated its potential to find covered porphyry copper deposit. In order to verify the abnormal source properties and geological characteristics of Rongna anomaly, geological and geophysical data have been comprehensively researched, meanwhile both large-scale magnetic and induced-polarization (IP) geophysical survey are conducted. After delimited mineralize potential zone, dillholes have been operated to test the anomaly zone. Rongna geophysical anomaly can be further subdivided into two sub-anomalous areas:the center anomaly zone shows low magnetic, low resistance, high polarization, and favorable mineralization characters; the peripheral zone presents high magnetic, high resistance, and low polarization. Two IP sounding inversion profiles have been laid out in the center of Rongna anomaly, showing a steep low resistance and high polarization anomaly in bell shape. Through a comprehensive analysis of the anomalies, drillhole ZK3204 is operated in the center of Rongna anomaly, thick cooper orebody is unveiled between interval of 86.83~1067.6 m, with continuous bonanza thickness of 980.77m, and 0.69% copper grade on average. The orebody shows thick ellipsoidal shape. The ore type is disseminated copper ore, containing major minerals of chalcopyrite, chalcocite, bornite, and pyrite. The copper resource in 332+333+334 categories is 10, 979, 200 tons, with an average grade of 0.53%. The deposit type is porphyry. The exploration work in Ngari county indicates that both large scale magnetic method and induced polarization method are rapid cost-effective approaches to delineation of copper target in Tibet plateau.
+Key words: Ngari     Rongna     copper deposit     magnetic anomaly     induced polarization anomaly     geological character     exploration significance    
+0 引言
+西藏改则县荣那斑岩型矿床是我国目前发现世界级超大型斑岩型铜矿床之一，找矿过程中地球物理方法发挥了重要作用，研究和总结该矿床的物探找矿规律和经验，对在青藏高原高海拔地区主要成矿区带寻找斑岩铜矿具有重要意义.荣那磁异常是西藏多龙铜矿集区的组成部分①②，位于西藏阿里地区改则县物玛乡萨玛隆与扎多村境内.1998-1999年，中国国土资源部航空遥感中心开展了1:100万青藏高原中西部航磁概查，发现了多龙矿集区正磁异常，峰值为500 nT，范围约20 km2③.西藏地勘局地质五队等单位在该区开展矿产调查工作，圈定多个异常区，2005-2011年相继发现了波龙、多不杂、拿若等地表浅覆盖超大型斑岩铜矿，但由于高海拔地区自然环境和工程技术条件的限制，区内进一步寻找隐伏矿的勘查工作难以取得突破.在综合研究以往资料的基础上，2011年以来，西藏地质五队和中铝矿产资源有限公司通过磁法、电法等物探工作，发现荣那异常具有中心低磁、低阻、高极化，外围发育高磁、高阻、低极化环带，结合斑岩铜矿床蚀变分带特征，对荣那异常开展了较系统的铜矿勘查工作.2013-2014年通过钻探工程进行异常查证，揭露了荣那隐伏铜矿体，达到超大型规模，取得重大找矿进展.荣那地区的勘查工作为班公湖—怒江西段成矿带提供了勘查思路和找矿经验.
+
+①  陈红旗, 母兴民, 靳宝福等. 2008.西藏多龙1:50000物探报告[R].格尔木:西藏地勘局地质五队.
+
+②  陈红旗, 李玉昌, 王丽惠等. 2012.西藏多龙1:50000地质报告[R].格尔木:西藏地勘局地质五队.
+
+③  王平, 熊胜青, 王德发等. 2009. 1:1000000青藏高原及邻区航磁ΔT化极垂向导数等值线平面图[R].北京:国土资源航空物探遥感中心.
+
+1 区域与矿区地质
+荣那矿床位于多龙矿集区西北部，地处班公湖—怒江结合带北缘、南羌塘盆地.大地构造上位于羌塘—三江复合板片与冈底斯—念青唐古拉板片的结合部，即班公错—怒江缝合带 (Yin and Harrison, 2000；Kapp et al., 2003；曹圣华等，2006；Geng et al., 2009；耿全如等, 2011, 2012).主要出露地层有中侏罗统色哇组 (J2s) 复理石或类复理石沉积、下白垩统美日切错组 (K1m) 陆相中基性火山岩建造、渐新统康托组 (E3k) 河湖相碎屑岩沉积 (图 1).侏罗系色哇组变质 (长石) 石英砂岩和岩屑砂岩构成矿化主要围岩.北东向断裂构造F10为本区主要矿岩控矿构造.侵入岩主要为花岗闪长斑岩和花岗斑岩，为含矿斑岩，两者均未出露地表.
+
+点击查看原图	
+图 1 荣那铜矿床地质与工程部署简图①
+1—Q-第四系残坡积物；2—E3k-上渐新统康托组棕红色粘土及砂砾石层；3—K1m3-下白垩统美日切错组下段玄武岩；4—K1m2-下白垩统美日切错组中段安山岩；5—K1m1-下白垩统美日切错组上段火山角砾岩、集块岩；6—K1αμ-下白垩统安山玢岩；7—J2s3-中侏罗统色哇组上段灰白色变质 (长石) 石英砂岩；8—J2s2-中侏罗统色哇组二段：变质石英砂岩、变质 (长石) 石英砂岩夹深灰色粉砂质板岩；9—断层；10—矿体范围；11—钻孔剖面及范围；12—勘探线；13—钻孔；14—1:10000磁法测量范围；15—1:10000激电测量范围.
+Figure 1 Geology and project layout of Rongna Cu deposit①
+1—Q-Quaternary eluvial; 2—E3k-red-brown clay and gravel layers in the Upper Oligocene Kangtuo Formation; 3—K1m3-basalt in the 3rd Member of the Lower Cretaceous Meiriqiecuo Formation; 4—K1m2-andesite in the 2nd Member of the Lower Cretaceous Meiriqiecuo Formation; 5—K1m1-volcanic breccia and agglomerate in the 1st Member of the Lower Cretaceous Meiriqiecuo Formation; 6—K1αμ-andesitic porphyrite of the Lower Cretaceous; 7—J2s3-the 3rd Member of the Middle Jurassic Sewa Formation: grey white alternated (feldspathic-) quartz sandstone; 8—J2s2-the 2nd Member of the Middle Jurassic Sewa Formation: alternated quartz sandstone, alternated (feldspathic-) quartz sandstone interbedded with dark-gray silty slate; 9—fault; 10—orebody zone; 11—drillhole profile; 12—fencing lines; 13—drill holes; 14—Magnetic survey area in 1:10000 scale; 15—IP survey area in 1:10000 scale.
+①  陈红旗, 李彦波, 李玉彬等. 2014.西藏荣那2014年度详查报告[R].格尔木:西藏地勘局地质五队.
+
+2 地球物理特征
+2008年开展1:5万地面高精度磁测显示荣那地区与波龙、多不杂铜矿床具有相似的畸变磁异常特征 (江少卿等，2014)，此后荣那地区主要开展了大比例尺1:1万地面高精度磁法测量 (网度100×40 m)，1:1万激电中梯测量 (网度100×40 m) 等工作，同时在异常显著部位辅以激电中梯测深剖面工作，取得了较好找矿效果.磁法和电法测量结果如下：
+
+2.1 磁异常特征
+2.1.1 测量结果
+荣那区内磁异常分布特征可分为3部分：(1) 矿体外围弧形M1异常：矿体外侧半环形中高磁异常，由矿区北西侧半环形平稳中高磁异常和矿区南东侧半环形平稳高磁异常构成，异常值为33~187 nT；(2) 矿体中心M2号异常：矿区中部的高—低磁畸变异常区，呈现起伏跳跃的基本特征，该区域异常值变化梯度陡，即为荣那矿体异常分布区；(3) 矿体外围南西侧椭球状M3异常区：矿区南西的椭球形异常区.三者界线清楚，异常总体特征明显.
+
+通过对ΔT磁测曲线进行化极处理，显示其化极异常值总体呈现为正异常 (图 2)，对应三个异常区域的变化趋势为：(1) M1异常：矿体外侧半环形高磁异常更加明显，西侧弧状轮廓愈加清晰；(2) M2号异常：正负相伴特征更为显著，矿体位于正负相伴的畸变异常区域，以中低磁为主；(3) M3号异常：椭球状异常区呈现为正异常，负异常消失.
+
+点击查看原图	
+图 2 (a)1:1万磁法异常平面图；(b)1:1万磁法化极平面图；(c)1:1万磁法化极后上延300 m平面图
+白色框线为磁异常范围，红色框线为矿体范围.
+Figure 2 (a) Ground high-precision magnetic surmey map in 1:10000 scale; (b) Reduction-to-pole of magnetic data in 1:10000 scale; (c) 300 m upward-continuation field after reduction-to-pole in 1:10000 scale
+White frames mean magnetic anomaly zones; Red frame means orebody zone.
+通过对ΔT磁测曲线进行上延300 m处理：(1) M1号异常区域西北侧呈现低缓低磁弧形，南东侧呈现低缓高磁弧形；(2) M2号异常区域呈现正负相伴的低缓磁异常特征；(3) M3号异常区域呈现显著的高磁异常.
+
+2.1.2 地质解译
+M1号异常由斑岩铜矿化核心绢英岩化带外围的黄体矿化壳形成的环状异常，具有与美国Bingham斑岩铜矿床相似的环状磁异常 (Gruen et al., 2010；Landtwing et al., 2010；Redmond and Einaudi, 2010)，为斑岩铜矿的典型特征.M2号异常由矿体中心矿化部位绢英岩化带中黄铜矿、辉铜矿和斑铜矿引起的异常为主，黄铁矿含量相对较低，呈现正负相伴的低缓磁异常特征.M3号异常区高精度磁测和化极异常均以正异常为主，上延500 m后呈现显著的高磁异常，结合地表出现花岗闪长岩体，该处磁异常可能为岩体引起的异常.
+
+2.2 电法异常特征
+2013-2014年四川冶金地质勘查院在荣那矿区开展了1:1万激电中梯测量工作16.6 km2(网度100 m×40 m)，激电测深剖面两条 (共40个点，点距20 m)，在荣那矿区圈定激电异常8处，确定4个高极化异常JD1—JD4为矿致异常.
+
+2.2.1 岩矿石电物性特征
+电性特征反应了金属硫化物含量差异以及蚀变程度强弱.选取区内主要地质体，对矿体中部钻孔ZK1604和矿体边部钻孔ZK1613岩芯的物性参数进行测试.含矿花岗闪长斑岩中高极化—低阻特征明显 (表 1)，而地表广泛分布的安山岩、矿体主要围岩变质 (长石) 石英砂岩的极化率、电阻率均与含矿花岗闪长斑岩差异较大.松散孔雀石由于蚀变强烈，孔洞密布所以浸水之后富水性强，具有低阻特征，但其主要为氧化矿体，因此视极化率不高.
+
+点击查看表格内容	
+表 1 标本电性参数测定结果统计表
+Table 1 Geophysical data of samples
+矿化变质 (长石) 石英砂岩主要为黄铁矿化，少数具有伴生的铜矿化，极化率特征与含矿斑岩相似，但电阻率明显偏高，其在矿区内与铜矿体赋存紧密相关，黄铜矿常赋存于黄铁矿之中，在具有有利成矿地质条件的情况下，可作为找矿标志，指示铜矿体的存在.具有强黄铜矿化的花岗闪长斑岩视极化率范围为6.19%~12.76%，可作为激电找矿标志.
+
+通过极化率与电阻率特征可以有效区分矿体与围岩，研究区具有良好的地球物理差异条件，开展激电工作可以有效实现勘查目的.
+
+2.2.2 激电异常特征
+2.2.2.1 视电阻率异常推断与解释
+(1) 测量结果
+
+通常金属硫化物具有低阻特性，可以利用其变化特征辅助对矿体进行勘查；同时，由于视电阻率对破碎含水、构造、岩体具有较高敏感性，可以利用其变化趋势对矿区内构造、岩体等进行解释.
+
+区内视电阻率变化范围为74~8891 Ω·m，平均值为120 Ω·m.整体呈贯穿测区、走向NE、宽度较大低阻异常带展布特征，在此异常带内又可划分为4个北西、北东向构造异常带.不同地层视电阻率变化趋势为：不含矿色哇组变质 (长石) 石英砂岩>美日切错组安山岩>矿化色哇组变质 (长石) 石英砂岩.
+
+视电阻率异常呈现4个梯度带 (图 3)：DZ-1梯度带长2.4 km，宽177~271m，走向NE向；DZ-2梯度带长1.27 km，宽120~150 m，走向NE向；DZ-4梯度带长2.52 km，宽225~306 m，走向NW向；DZ-5梯度带长2.87 km，宽138~490 m，走向NW向.
+
+点击查看原图	
+图 3 荣那矿区视电阻率平面等值线图黑色虚线为根据视电阻率梯度带与低阻带推断的线性构造带；红色线框和圆点为矿体和钻孔.
+Figure 3 Apparent resistivity isogram of Rongna Black dash lines mean geological structures inferred by resistivity gradient belts and low resistivity belts; Red frame and dots mean orebody zone and drillholes respectively.
+(2) 地质解译
+
+DZ-1梯度带位于研究区北西，走向NE向，断续相连，为矿区总体视电阻率高值与低值的分界线，同时也是视极化率总体高低分区的分界线.此梯度带既与地质推测的F10断裂大致重合，也与美日切错组地层总体展布方向一致，其地貌特征呈现沟谷负地形，与F1断层交汇处可见断层泉出露，推测该梯度带为F10断裂的反映，所在位置地表无明显矿化痕迹.
+
+DZ-2梯度带位于研究区中部，走向NE向，局部发生扭转变形.地形特征主要是负地形，推断为F10断裂旁侧的次级构造.
+
+DZ-4低阻带位于研究区南西，走向NW向，与河流穿过的第四系覆盖区大致一致.低阻带较宽、影响范围较大.沿此低阻带视极化率分区特征明显，DZ-4大致将区内高极化区域分割开，且分割出南部条块与北部高极化团块边缘具有一定的对应性.此低阻带位于北西向构造F1通过位置，推断为北西向构造F1在研究区的表现.
+
+DZ-5梯度带位于研究区中部，走向NW向，视电阻率南西高、北东低，梯度带断续相连，局部缺失，但趋势性表现明显；此梯度带对DZ-2梯度带造成一定影响，两处异常交汇部位均形成团块状的低阻区；同时，也大致确定了荣那高视极化率区块的南西边界.
+
+2.2.2.2 视极化率异常推断与解释
+(1) 测量结果
+
+荣那矿床视极化率异常位置、形态、走向与区内控矿构造关系密切，视极化率异常分布规律为 (图 4)：高低极化率相对独立成块分布；大致以NE向F10断裂为界，南东高，北西低，形成沿F10串珠状分布的一组异常；同时又以NW向F1断裂为界，将高极化块分割开来，但仍表现NE高、SW低的特点，形成沿F1对称出现的一组异常.高极化块内，相对独立的强极化点状异常大致成环状分布，根据已知钻孔对矿体的揭露情况，强极化小团块异常与矿体关系较为密切.其中沿NE向断裂F10串珠状出现一组异常普遍具有面积较小、中心突出、梯度陡峭、形态近等轴状的特点.
+
+点击查看原图	
+图 4 荣那矿区激电中梯视极化率等值线异常平面图黑色虚线为推断的线性构造带；黑色线框为激电异常；红色线框和圆点为矿体和钻孔.
+Figure 4 Apparent chargeability isogram of Rongna Black dash lines mean inferred geological structures; Black frames mean chargeability anomaly zones; Red frame and dots mean orebody zone and drillholes respectively.
+视极化率异常呈现9个异常带JD1—JD9：JD1异常带走向NE向，呈近似等轴状，略具北东向，北东向长约800 m，北西向宽约550 m，面积约0.35 km2；JD2异常呈近似椭圆状，长轴北东向，长轴长约860 m，北西向宽度360~500 m，面积约0.35 km2；JD3异常带由两个紧邻的团块状异常组成，大致呈等轴状，略具南西—北东向延伸，东西长约600 m，南北宽约400 m，面积约0.24 km2；JD4异常近似呈圆形，直径约300 m，面积约0.1 km2；JD5异常带位于F1断裂南侧，呈椭圆形，长轴近北东东向约740 m，向西未封闭，南北宽约250 m，面积约0.2 km2；JD6、JD7两处异常均为面积较小的点状异常；JD8异常近似呈长椭圆形，长轴方向与断裂F1一致，东西长约1880 m，南北宽约530 m，面积约1 km2，向东、向北未封闭；JD9异常形态不规则，走向近东西向与F1一致，长约2000 m，南北宽约650 m，面积约1.2 km2，向东、向北未封闭.
+
+(2) 地质解译
+
+1. JD1—JD4异常
+
+JD1—JD4异常均为中高极化低阻异常，视极化率变化范围5%~15%，平均值为7.0%，总体表现平缓；视电阻率范围30~100 Ω·m，平均值49 Ω·m.异常中心突出，梯度明显，强度较大，幅值稳定.异常位于北东向控矿断裂F10与近东西向F1断裂交汇部位北侧的成矿有利地段.在异常边缘形成明显的梯度环带，为较厚板状或团块状高极化体异常.异常区地表出露下白垩统美日切组安山岩，异常峰值点位于其南西侧熔结角砾岩岩体位置，地表可见明显的“烧结矿”现象.
+
+2013-2014年在该异常部位布置钻孔对异常进行控制与验证，位于异常范围内的钻孔均见到厚大富铜矿体，通过钻孔控制的矿体主要赋存于变质 (长石) 石英砂岩、花岗斑岩和花岗闪长斑岩内，沿近东西向展布，走向长约1200 m，宽约800 m，见矿深度一般为100~250 m，其中ZK3204连续穿矿厚度达980.77 m，主矿体连续，矿体西部边界呈脉状分支.JD1异常与已知矿体吻合度最高，后续钻孔验证情况好，为矿致异常，可作为荣那铜矿床激电方法找矿的异常标志.
+
+2. JD5—JD7异常
+
+JD5—JD7异常与JD1异常具有一定相似性，总体表现为低阻高极化异常特征.视极化率平均值7%，视电阻率平均值65 Ω·m.异常中心突出，背景场平静，异常梯度较大.地表出露美日切错组安山岩.NE向控矿断裂F10自异常中部穿过，该异常位于控矿构造上.安山岩沿该断裂带呈北东向断续分布，与斑岩相伴产出，地表局部出露的熔结角砾岩说明热液活动强烈.多龙矿集区1:5万高精度磁测呈现低磁自封闭异常 (江少卿等，2014)，指示异常深部可能存在隐伏岩体，而激电工作反映该隐伏岩体具有一定金属硫化物富集，磁法、激电异常相互印证，推断存在隐伏的富集金属硫化物的矿体.
+
+3. JD8和JD9异常
+
+JD8、JD9两异常视极化率值均较稳定，介于6%~8%之间，平均值7%，视电阻率亦均呈平缓变化特点，介于100~300 Ω·m，表现为中高极化—中高阻特点.视极化率和视电阻率梯度较小，无明显指向性.
+
+异常沿F1断裂分布，均具有面积较大、异常宽缓、中心泛化、视极化率梯度不明显，该异常可能为F1断裂多期次活动与斑岩体侵入时期热液活动造成一定范围的金属矿化蚀变，造成多金属硫化物富集引起.
+
+2.2.2.3 激电测深异常推断与解释
+为进一步解剖激电中梯测量圈定的JD1异常，查明异常体空间形态与位置，在JD1异常中心布置两条激电测深十字剖面JD-1和JD-2，为钻孔布设提供依据.
+
+(1) JD-1激电测深剖面
+
+JD-1激电测深剖面沿地质勘探线32线呈南北向布设，共20个测深点，点距40 m，南北向贯穿JD1激电中梯异常的东部区域.
+
+对激电中梯剖面进行反演 (图 5) 可判断异常体具有高极化、中低阻特征，极化率曲线平滑，梯度变化较弱，显示异常体具有埋深较大、产状无明显倾向的特征，边界处视极化率陡增与JD1异常边界处的梯度值相对应.高极化异常体顶板埋深具有南浅北深、产状陡峭特征，而两侧的高极化率条带 (图 5b红线所示)，应为富集且连通性较好的黄铁矿化带引起.本区激电中梯和激电测深结果相互吻合.
+
+点击查看原图	
+图 5 32线JD-1激电测深剖面反演图
+(a) 激电中梯剖面图；(b) 激电测深反演视极化率图；(c) 激电测深反演视电阻率图；(d) 铜品位地质剖面图.
+Figure 5 No.JD-1 IP sounding inversion profile in line with No.32 fencing line
+(a) IP survey profile; (b) Apparent chargeability of IP survey; (c) Apparent resistivity of IP survey; (d) Geological profile with copper grade.
+后续ZK3205验证钻孔325 m以浅为安山岩盖层，对应激电剖面浅部为高阻低极化率；自325 m开始见黄铜矿、斑铜矿，直至终孔1137 m仍未穿透矿体，连续见矿厚度超过812 m，铜平均品位0.59%，矿体赋存于变质 (长石) 石英砂岩中，部分位于花岗闪长斑岩中，对应激电剖面浅部为低阻高极化率.ZK3213自123 m至终孔570 m，全孔见浸染状及细脉状黄铁矿，而浸染状黄铜矿呈不连续产出，正是引起激电测深剖面北侧高视极化率条带的原因.物探激电测深成果与钻孔验证情况较为吻合.
+
+(2) JD-2激电测深剖面
+
+JD-2激电测深剖面沿矿区05排测线呈东西向布设，共20个测深点，点距40 m，东西向贯穿JD1号激电异常进行深部解剖.
+
+对激电中梯剖面进行反演 (图 6)，可判断略呈向东倾、向西未封闭的厚大高极化异常体，埋深较浅，产状较陡，顶板自中间深、向两侧逐渐变浅.异常体厚度较大，视极化率异常向下不封闭，与钻孔验证的矿体具有相似特征.后续验证钻孔ZK1605、ZK2405、ZK3205，见矿厚度大，150~200 m以浅为安山岩盖层，以深均为变质 (长石) 石英砂岩，铜矿物呈星点状分布岩石中，与黄铁矿共生，呈稀疏浸染状分布于黄铁矿细脉中.物探结果与钻探验证情况相互吻合.
+
+点击查看原图	
+图 6 05排JD-2激电测深剖面反演图
+(a) 激电中梯剖面图；(b) 激电测深反演视极化率图；(c) 激电测深反演视电阻率图；(d) 铜品位地质剖面图.
+Figure 6 No. JD-1 IP sounding inversion profile in line with No.05 fencing line
+(a) IP survey profile; (b) Apparent chargeability of IP survey; (c) Apparent resistivity of IP survey; (d) Geological profile with copper grade.
+2.3 物探成果综合认识
+在1:5万高精度磁测和1:5万水系沉积物测量的基础上，发现了荣那铜异常区，为进一步缩小靶区，开展1:1万高精度磁法和1:1万激电测量，结果显示在荣那矿区中心呈现低磁、低阻、高极化异常有利区块，在中心有利区块的外围呈现环状高磁、高阻、低极化异常环带，进一步在矿区中心布设两条激电测深剖面呈现钟状陡峭的低阻高极化异常.结合钻探验证，矿区中心低阻高极化异常为斑岩铜矿绢英岩化带黄铜矿、斑铜矿及黄铁矿引起，该区域为矿体核心矿化部位；矿体外围高阻低极化异常环带，钻孔岩芯显示该环形区域存在少量脉状铜矿化，由斑岩铜矿外围青磐岩化带黄铁矿引起.
+
+矿区外围南西侧呈现梯度陡峭的低阻高极化异常，但磁法上延500 m呈现明显高磁，推测是由花岗闪长岩体造成；矿区东南侧呈现缓梯度的低阻高极化异常，推测是由矿区F1断裂多期次活动与花岗闪长斑岩侵入时期热液活动造成一定范围的金属矿化蚀变造成.
+
+3 矿床地质
+3.1 矿体特征
+2012年在磁法M2号异常和电法JD1异常上自西向东开展钻探工作发现荣那铜矿床，坚持“由已知向未知”的原则，沿见矿部位向外围布置钻孔逐步控制矿体.截止至2014年末矿区54个钻孔按200×200 m工程间距控制连续厚大铜矿体 (图 1、图 7a)，多数见矿钻孔终孔于矿体内.初步控制荣那铜矿体东西长2100 m，南北宽1200 m，主矿体呈隐伏厚大不规则橄榄球状 (图 7a)，钻孔控制最大见矿深度至1137.89 m仍未穿透矿体，截止2015年末，获得铜品位大于0.20%的332+333+334级别铜金属量和平均品位为1097.92万吨@0.53%；伴生金的金属量37.00吨，伴生银的金属量2609.29吨①.
+
+点击查看原图	
+图 7 铁格隆南铜矿体立体模型 (a) 和04排矿体垂直纵剖面图 (b)
+1—Q-第四系；2—K1m-美日切错组安山岩；α-安山岩；3—J2s-色哇组变质 (长石) 石英砂岩；4—斑岩体，rδπ-花岗闪长斑岩，γπ-花岗斑岩；5—Phl—黄铁绢英岩化带；6—Ms—泥化带；7—Prl—青磐岩化带；8—铜矿体；9—钻孔.
+Figure 7 Three-dimensional model of Rongna copper orebody (a) and No. 04 vertical section of Rongna deposit (b)
+1— Q-Quternary; 2—K1m-andesite of the Meiriqiecuo Formation; α-andesite; 3—J2s-alternated (feldspathic-) quartz sandstone of the Sewa Formation; 4—porphyritic body: rδπ-granodiorite-porphyry, γπ-granitic porphyry; 5—Phl—pyrite phyllic zone; 6—Ms—argillic zone; 7—Prl—propylitization rock belt; 8—Orebody; 9—drillholes.
+①  陈红旗, 李彦波, 李玉彬等. 2015.西藏荣那2015年度详查报告[R].格尔木:西藏地勘局地质五队.
+
+荣那矿床具有斑岩铜矿典型蚀变分带特征，根据钻孔验证结果主要存在黄铁绢英化、泥化和青盘岩化3个蚀变带，以钻孔ZK3204为中心 (图 7b)：(1) 垂向上：0~15 m为第四系松散堆积物，15~150 m为安山岩覆盖层，150~300 m主要为泥化带夹部分青磐岩化带，金属矿物主要为黄铜矿、黝铜矿、铜蓝、蓝辉铜矿、褐铁矿、赤铁矿等，脉石矿物主要为石英、绿泥石、绿帘石、明矾石、玉髓等.300~1200 m主要为黄铁绢英岩化带，高品位铜矿体多分布于该蚀变带，金属矿物以斑铜矿、黝铜矿、辉铜矿、铜蓝、磁铁矿等为主，脉石矿物主要为石英、绢云母、石膏、绿帘石、绿泥石、明矾石等.从浅部至深部呈现黄铜矿减少，斑铜矿、辉铜矿增多的趋势.(2) 平面上：矿体核部半径600 m范围内以黄铁绢英岩化带为主，连续厚大的工业矿体分布于该区域内，矿化较均匀，铜平均品位>0.5%，矿体核部以外600~1200 m范围内以泥化带为主夹部分青磐岩化带；矿体核部1200~1600 m发育以黄铁矿化为主的硫化物脉体.黄铁绢英岩化蚀变期是最重要的成矿时期，目前钻孔工程控制1200 m深度范围仍未发现钾化带.
+
+3.2 矿石组构
+荣那铜矿体赋存在花岗斑岩、花岗闪长斑岩体及外接触带的变长石石英砂岩中.围岩为变质 (长石) 石英砂岩.矿体与围岩为渐变接触关系.矿石矿物成分中的主要有用矿物为黄铁矿、黄铜矿、辉铜矿、斑铜矿、黝铜矿，其次为赤铁矿、磁铁矿、磁黄铁矿等，所含脉石矿物为石英、方解石、斜长石、迪开石、明矾石、高岭石、绢云母、绿泥石、硬石膏等.表生氧化矿体氧化程度较低，有用矿物主要有孔雀石、赤铁矿，其次为黄铁矿、褐铁矿，脉石矿物主要为石英、高岭石、绢云母、黑云母、长石、碳酸盐等.矿石构造主要为浸染状—细脉浸染状构造.
+
+4 探讨与结论
+4.1 探讨
+目前，我国矿产勘查正面临着“难识别、难发现、难利用”的三大难题 (朱训，2015).中国国内铜储量严重不足, 对外依存度高达70%，而我国浅表矿渐少，接替资源严重不足，需要进一步攻深找盲 (翟裕生, 2007, 2014；李华等，2016).因此，在地质工作较为薄弱的中国西部重点成矿区带寻找隐伏矿体已成为当前以及今后相当长一段时间内矿产勘查的重点和难点之一 (秦克章等，2006；莫宣学，2010).斑岩铜矿是世界主要的铜矿床类型之一，目前有待发现的铜矿床部分位于较厚的覆盖区下 (Sillitoe, 1972, 1997, 2010; Cooke et al., 2005; Laznicka, 2006)，尤其是在青藏高原等高海拔地区，采用磁法和电法测量圈定靶区即经济又高效 (张洪瑞等，2009；唐菊兴等，2014).
+
+多龙矿集区物化探异常显著，铜矿资源潜力巨大，但是该区铜矿位于高海拔地区、埋藏深度大、勘查风险较大、找矿成本亦较大；因此，找矿过程中需要多种找矿方法相互补充.传统物探方法在勘查隐伏矿体等方面起到了重要作用 (陈毓川和朱裕生，1993；Liu et al., 2003; 刘光鼎等，2015), 将高精度磁测和激电测量等地球物理方法联合应用可有效指导区内铜矿的勘查工作 (成秋明等，2012)，并使用磁力和电法数据进行有效反演建模 (Bosch and McGaughey, 2001)，多龙矿集区荣那斑岩铜矿床的发现就是应用了这一原则.
+
+然而，笔者在该区多年来的铜矿勘查工作中发现，对已有物探资料反演工作和综合研究水平略显不足，仍然需要进一步改进.因此，在斑岩铜矿勘查过程中，建议在钻孔施工之前，首先充分了解区域地质成矿背景，结合斑岩铜矿蚀变分带特征，最大程度地解译已有的物探数据，并加强综合研究.
+
+4.2 结论
+(1) 通过对改则县荣那异常区铜矿的勘查工作充分证实了荣那异常是由深部隐伏的铜矿体引起.该异常区铜矿体赋存于中侏罗统色哇组中，矿体呈橄榄球状.铜矿石主要为浸染状黄铁矿、黄铜矿变质 (长石) 石英砂岩，矿石磁性和电性明显.矿体内部偶见夹石及花岗闪长斑岩、花岗斑岩等岩脉.
+
+(2) 荣那异常区覆盖层厚度为150~320 m，异常区呈现低磁、低阻、高极化异常有利成矿区块，在荣那外围异常区呈现环状高磁、高阻、低极化异常环带，异常区总体走向为近东西向，异常长度约2000 km，平均宽度约1500 km，与钻探验证铜矿体平面上分布特征近似，铜矿体累计厚度为1100 m，探获332+333+334级别铜金属量1097.92万吨，平均品位0.53%.
+
+(3) 改则荣那铜矿床的发现是根据邻区拿若和波龙铜矿勘查工作和以往地质成果不断积累的基础上取得的重大找矿进展.荣那矿区磁法和电法异常总体具有埋藏深度较大、异常规模大、强度高、梯度较缓等特征，与荣那隐伏斑岩铜矿床蚀变分带特征相互吻合.同时，区内矿产勘查工作也表明，磁法和电法测量是区内最重要的铜矿勘查手段，激电测深异常是区内的重要找矿手段之一.
+
+致谢 感谢审稿专家提出的修改意见和编辑部的大力支持！
+参考文献
+Bosch M, McGaughey J. 2001. Joint inversion of gravity and magnetic data under lithologic constraints[J]. The Leading Edge, 20(8): 877–881. DOI:10.1190/1.1487299
+Cao S H, Deng S Q, Xiao Z J, et al. 2006. The archipelagic arc tectonic evolution of the Meso-Tethys in the western part of the Bangong Lake-Nujiang suture zone[J]. Sedimentary Geology and Tethyan Geology (in Chinese), 26(4): 25–32.
+Chen Y C, Zhu Y S. 1993. Deposit Model of China (in Chinese)[M]. Beijing: Geological Publishing House: 268.
+Cheng Q M. 2012. Ideas and methods for mineral resources integrated prediction in covered areas[J]. Earth Science-Journal of China University of Geosciences (in Chinese), 37(6): 1109–1125.
+Cooke D, Hollings P, Walshen J L. 2005. Giant porphyry deposits:Characteristics, distribution, and tectonic controls[J]. Economic Geology, 100(5): 801–818. DOI:10.2113/gsecongeo.100.5.801
+Dai J J, Qu X M, Xin H B. 2010. Extraction of alteration mineral information using ASTER remote sensing data in Duolong area, Tibet, China[J]. Geological Bulletin of China (in Chinese), 29(5): 752–759.
+Geng Q R, Sun Z M, Pan G T, et al. 2009. Origin of the Gangdise (Transhimalaya) Permian arc in southern Tibet:Stratigraphic and volcanic geochemical constraints[J]. Island Arc, 18(3): 467–481. DOI:10.1111/iar.2009.18.issue-3
+Geng Q R, Pan G T, Wang L Q, et al. 2011. Tethyan evolution and metallogenic geological background of the Bangong Co-Nujiang belt and the Qiangtang massif in Tibet[J]. Geological Bulletin of China (in Chinese), 30(8): 1261–1274.
+Geng Q R, Peng Z M, Zhang Z. 2012. Tethyan Evolution and Metallogenic Geological Background of the Bangong Co-Nujiang Belt and the Qiangtang Massif in Tibet (in Chinese)[M]. Beijing: Geological Publishing House: 46.
+Gruen G, Heinrich C A, Schroeder K. 2010. The bingham canyon porphyry Cu-Mo-Au deposit. Ⅱ. Vein geometry and ore shell formation by pressure-driven rock extension[J]. Economic Geology, 105(1): 69–90. DOI:10.2113/gsecongeo.105.1.69
+Jiang S Q, Sun X G, Yang T Z, et al. 2014. Integrated anomaly model and metallogenic prediction of the Duolong porphyry copper-gold ore concentration area in northern Tibet[J]. Geology in China (in Chinese), 41(2): 497–509.
+Kapp P, Murphy M A, Yin A, et al. 2003. Mesozoic and Cenozoic tectonic evolution of the Shiquanhe area of western Tibet[J]. Tectonics, 22(4): 1029.
+Landtwing M R, Furrer C, Redmond P B, et al. 2010. The bingham canyon porphyry Cu-Mo-Au deposit. Ⅲ. Zoned copper-gold ore deposition by magmatic vapor expansion[J]. Economic Geology, 105(1): 91–118. DOI:10.2113/gsecongeo.105.1.91
+Laznicka P. 2006. Giant Metallic Deposits, Future Sources of Industrial Metals[M]. Berlin: Springer-Verlag.
+Li H, Wang Y H, Zhou Y M, et al. 2016. Geophysical deep structure features of Chang'an-Yinchangpo deposit in Jinpin town and its significance for prospecting[J]. Progress in Geophysics (in Chinese), 31(4): 1593–1600. DOI:10.6038/pg20160424
+Liu G D. 2015. Developing new technology, based on shallow surface[J]. Chinese Journal of Geophysics, 58(8): 2589–2590.
+Mo X X. 2010. A review and prospect of geological researches on the Qinghai-Tibet Plateau[J]. Geology in China (in Chinese), 37(4): 841–853.
+Qin K Z, Lu Y, Li G M, et al. 2006. Metallgenetic factors of epithermal Au-Ag deposits in Tibet and its bearing area-In perspective of metallgenetic system of epithermal Cu-Au deposits[C]//Chen Yuchuan, Mao Jingwen, Xue Chunji. Proceedings of the 8th National Deposit Conference (in Chinese). Beijing:Geological Publishing House, 666.
+Redmond P B, Einaudi M T. 2010. The bingham canyon porphyry Cu-Mo-Au deposit. Ⅰ. Sequence of intrusions, vein formation, and sulfide deposition[J]. Economic Geology, 105(1): 43–68. DOI:10.2113/gsecongeo.105.1.43
+She H Q, Li J W, Feng C Y, et al. 2006. The high-temperature and hypersaline fluid inclusions and its implications to the metallogenesis in Duobuza porphyry copper deposit, Tibet[J]. Acta Geologica Sinica (in Chinese), 80(9): 1434–1447.
+Sillitoe R H. 1972. A plate tectonic model for the origin of porphyry copper deposits[J]. Economic Geology, 67(2): 184–197. DOI:10.2113/gsecongeo.67.2.184
+Sillitoe R H. 1997. Characteristics and controls of the largest porphyry copper-gold and epithermal gold deposits in the circum-Pacific region[J]. Australian Journal of Earth Sciences, 44(3): 373–388. DOI:10.1080/08120099708728318
+Sillitoe R H. 2010. Porphyry copper systems[J]. Economic Geology, 105(1): 3–41. DOI:10.2113/gsecongeo.105.1.3
+Tang J X, Wang Q, Yang C, et al. 2014. Two porphyry-epithermal deposit metallogenic subseries in Tibetan Plateau:Practice of "absence prospecting" deposit metallogenic series[J]. Mineral Deposits (in Chinese), 33(6): 1151–1170.
+Xin H B, Qu X M, Wang R J, et al. 2009. Geochemistry and Pb, Sr, Nd isotopic features of ore-bearing porphyries in Bangong Lake porphyry copper belt, western Tibet[J]. Mineral Deposits (in Chinese), 28(6): 785–792.
+Yin A, Harrison T M. 2000. Geologic evolution of the Himalayan-Tibetan orogen[J]. Annual Review of Earth and Planetary Sciences, 28(1): 211–280. DOI:10.1146/annurev.earth.28.1.211
+Zhai Y S. 2007. Earth system, metallogenic system to exploration system[J]. Earth Science Frontiers (in Chinese), 14(1): 172–181.
+Zhai Y S. 2014. A preliminary discussion on fundamental model of metallogenic mechanism[J]. Earth Science Frontiers (in Chinese), 21(1): 1–8.
+Zhang H R, Hou Z Q, Song Y C, et al. 2009. The temporal and spatial distribution of porphyry copper deposits in the eastern Tethyan metallogenic domain:A review[J]. Acta Geologica Sinica (in Chinese), 83(2): 1818–1837.
+Zhang J Z. 2013. Geology, exploration model and practice of Zijinshan ore concentrated area[J]. Mineral Deposits (in Chinese), 32(4): 757–766.
+Zhu X P, Chen H A, Ma D F, et al. 2011. Re-Os dating for the molybdenite from Bolong porphyry copper-gold deposit in Tibet, China and its geological significance[J]. Acta Petrologica Sinica (in Chinese), 27(7): 2159–2164.
+Zhu X. 2015. The problems about the theory of "Known for unknown"[J]. Engineering Science (in Chinese), 17(2): 35–39.
+曹圣华, 邓世权, 肖志坚, 等. 2006. 班公湖-怒江结合带西段中特提斯多岛弧构造演化[J]. 沉积与特提斯地质, 26(4): 25–32.
+陈毓川, 朱裕生. 1993. 中国矿床成矿模式[M]. 北京: 地质出版社: 268.
+成秋明. 2012. 覆盖区矿产综合预测思路与方法[J]. 地球科学-中国地质大学学报, 37(6): 1109–1125.
+代晶晶, 曲晓明, 辛洪波. 2010. 基于ASTER遥感数据的西藏多龙矿集区示矿信息的提取[J]. 地质通报, 29(5): 752–759.
+耿全如, 潘桂棠, 王立全, 等. 2011. 班公湖-怒江带、羌塘地块特提斯演化与成矿地质背景[J]. 地质通报, 30(8): 1261–1274.
+耿全如, 彭智敏, 张璋. 2012. 班公湖-怒江成矿带及邻区特提斯演化与成矿地质背景[M]. 北京: 地质出版社: 46.
+江少卿, 孙兴国, 杨铁铮, 等. 2014. 藏北多龙斑岩铜金矿集区综合信息找矿模型研究[J]. 中国地质, 41(2): 497–509.
+李华, 王永华, 周云满, 等. 2016. 金平长安-银厂坡矿床地球物理深部构造特征及其对找矿的指导意义[J]. 地球物理学进展, 31(4): 1593–1600. DOI:10.6038/pg20160424
+刘光鼎. 2015. 立足浅地表, 发展新技术[J]. 地球物理学报, 58(8): 2589–2590.
+莫宣学. 2010. 青藏高原地质研究的回顾与展望[J]. 中国地质, 37(4): 841–853.
+秦克章, 陆彦, 李光明, 等. 2006.西藏浅成低温金?银矿的成矿条件与可能产出区分析——从斑岩浅成低温铜金成矿系统的角度[C]//陈毓川, 毛景文, 薛春纪.矿床学研究面向国家重大需求新机遇与新挑战-第八届全国矿床会议论文集.北京:地质出版社, 666.
+佘宏全, 李进文, 丰成友, 等. 2006. 西藏多不杂斑岩铜矿床高温高盐度流体包裹体及其成因意义[J]. 地质学报, 80(9): 1434–1447.
+唐菊兴, 王勤, 杨超, 等. 2014. 青藏高原两个斑岩-浅成低温热液矿床成矿亚系列及其"缺位找矿"之实践[J]. 矿床地质, 33(6): 1151–1170.
+辛洪波, 曲晓明, 王瑞江, 等. 2009. 藏西班公湖斑岩铜矿带成矿斑岩地球化学及Pb、Sr、Nd同位素特征[J]. 矿床地质, 28(6): 785–792.
+翟裕生. 2007. 地球系统、成矿系统到勘查系统[J]. 地学前缘, 14(1): 172–181.
+翟裕生. 2014. 试论矿床成因的基本模型[J]. 地学前缘, 21(1): 1–8.
+张洪瑞, 侯增谦, 宋玉财, 等. 2009. 斑岩铜矿床在东特提斯成矿域中的时空分布特征[J]. 地质学报, 83(2): 1818–1837.
+张锦章. 2013. 紫金山矿集区地质特征、矿床模型与勘查实践[J]. 矿床地质, 32(4): 757–766.
+祝向平, 陈华安, 马东方, 等. 2011. 西藏波龙斑岩铜金矿床的Re-Os同位素年龄及其地质意义[J]. 岩石学报, 27(7): 2159–2164.
+朱训. 2015. 关于就矿找矿论的几个问题[J]. 中国工程科学, 17(2): 35–39.

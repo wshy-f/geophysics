@@ -1,0 +1,198 @@
+九江—瑞昌矿集区的3D结构及对区域找矿的启示
+邓震dengzhe2648@gmail.com , 吕庆田 , 严加永 , 赵金花 , 刘彦     
+摘要: 本文分析了九瑞地区重、磁场的分布特征.运用最新的方法技术对已有的重磁资料重新进行处理:采用重磁多尺度边缘检测方法,对九瑞矿集区区域重力和航磁数据进行了边缘检测,并根据检测结果重新厘定了断裂系统的展布位置.在整理、分析九瑞地区地质、地层物性资料的基础上,对实测的1∶5万重磁数据进行较细致的准三维反演.同时将重磁三维物性反演应用到岩浆岩空间结构研究中,获得了矿集区地层结构及岩浆岩三维空间形态特征.根据反演所得磁化率强弱,分析了岩体的基性程度,为寻找与火山岩、侵入岩体有关的金属矿产提供了指示信息.最终建立的模型给出了地下地层的分布特征、控矿构造的展布规律、与成矿相关岩体的三维形态以及已知矿点的空间分布特征,为在九瑞矿集区的深部寻找隐伏矿体提供了新的信息.
+关键词: 九瑞矿集区      重磁多尺度边缘检测      重磁三维物性反演     
+The three-dimension structure and the enlightenment to the regional prospecting of the Jiujiang-Ruichang district
+DENG Zhendengzhe2648@gmail.com, LV Qing-Tian, YAN Jia-Yong, ZHAO Jin-Hua, LIU Yan     
+Abstract: The authors analyzed the gravity and magnetic anomalies of the lower and middle reach of the Yangtze River area firstly, then studied the distributing characters of gravity and magnetic fields of Jiujiang-Ruichang district. The existing data of gravity and magnetic anomalies have been processed through the latest methods and techniques. Based on the result of gravity and magnetic multi-scale edge detection of the regional magnetic and gravimetric data of Jiujiang-Ruichang district, the distribution location of the fault system is redefined. On the basis of understanding the geological data and stratum parameter about Jiujiang-Ruichang district, detailed inversion was carried out in the relevant region. Meanwhile, three-dimensional magnetic and gravity properties inversion was used to distinguish and forecast the spatial distribution of stratum structure and igneous rocks in three-dimensional shape. According to the strength of inversed magnetic susceptibility, the basicity of magma rock has been analyzed which provides information for metal mineral exploration related with volcanic and intrusive rocks. The final geological models have been set up which vividly show the distribution characteristics of the formations, the ore-controlling structures and the three-dimensional configuration related with mineralization as well as the distribution characteristics of the body. The results supply abundant information for seeking deep concealed deposits in Jiujiang-Ruichang district..
+Key words: Jiujiang-Ruichang district      Gravity and magnetic multi-scale edge detection      Three-dimensional magnetic and gravity properties inversion     
+1 引言
+九江—瑞昌(下称“九瑞")矿集区是我国长江中下游成矿带7个大型矿集区之一[1-3]，是赣西北及鄂东南地区重要的铜(金)多金属基地.虽然矿集区勘探及开采工作已开展多年，但直至今天，区内平均勘查深度仅为500m 左右，平均开采深度为400m 左右[4].矿集区内已探明矿产的储量及开采能力已不能跟上日益增长的资源需求.因此寻求区内500~2000m 的第二深度空间[5]的找矿突破已成为势在必行的工作.
+
+九瑞矿集区相继开展过一系列的地质､物化探及矿产普查等工作，地区研究程度较高，资料丰富.然而受到当时技术所限，大部分工作仅限于地表范围，对深部地层及岩体的三维空间形态未能给出相应的描述及解释.随着重磁3D 物性反演成像[6-8]技术､重磁多尺度边缘检测[9-13]等技术的发展，使利用网格重磁数据重建地下位场场源参数的分布成为可能.这一突破将有利于研究矿集区内地壳深部结构和动力学过程，以及其对成矿系统形成､演化的制约;有利于研究矿集区深部控矿构造的性质和空间形态;有利于探测､追踪矿集区主要含矿､容矿地层的空间分布，及与成矿有关岩体(侵入岩､次火山岩)的空间位置､规模和埋深，并大致刻画矿集区的三维结构.
+
+作者在前人研究的基础上利用最新的方法技术对原有重磁资料进行了重新处理，建立了九瑞矿集区的重磁3D 地质模型，重新厘定了九瑞地区线型构造的空间展布，在此基础上对九瑞地区重､磁场特征及结构进行了研究.
+
+2 区域地质背景
+九瑞矿集区位于长江中下游成矿带西南端转折处的最狭窄部位.矿集区内基底地层为中元古界双桥山群厚度巨大的深海—浅海相浅变质岩系.出露的盖层为中上统奥陶系碳酸盐岩､上志留统砂页岩､上泥盆统五通组含砾石英砂岩､中石炭统黄龙组白云岩和灰岩､中下二叠统和中下三叠统碳酸盐岩､下第三纪紫红色砂砾岩及第四纪松散沉积物，盖层总厚度近10km，其中基底地层为重要含矿层位和含钨花岗岩的岩源层，震旦系—寒武系赋存含铜沉积建造，奥陶系—三叠系为该区重要的铜金赋矿层位.该矿集区经历了扬子与华北陆块碰撞､燕山期的陆内造山和燕山期后的陆内断陷三个不同的发展阶段.金属成矿作用主要集中在燕山期的陆内造山演化阶段.燕山期的陆内造山(板内变形)是区内盖层构造变形的主要时期.矿集区内褶皱断裂构造发育，六个轴向近于平行的背斜､向斜组成紧密线状褶皱带.褶皱相对紧闭，常见倒转，轴向北东东，自北而南有通江岭—邓家山复式向斜､大桥—宝山背斜､黄桥复式向斜､丁家山—大冲背斜､赛城湖—乌石街复式向斜和城门山—长山背斜等.区内主要出露浅成—超浅成中酸性—酸性侵入体，多呈岩墙､岩株､岩枝状产出.主要岩石类型为花岗闪长斑岩，其次为石英闪长玢岩､石英斑岩以及少量的闪长岩､石英闪长岩和其它脉岩，其中主要含矿岩体为石英闪长玢岩､花岗闪长斑岩､石英斑岩.
+
+3 物性研究及重磁数据
+物性是联系地球物理和地质的纽带，扎实的物性资料是可靠地质解释的基础.将物性资料的研究和该地区的地质岩性特征结合起来，可以建立合理的地质模型，并以此作为异常解释的基础.
+
+根据所收集的九瑞地区物性资料1)，2)，和中国地质科学院廊坊物化探研究所2008 年实测资料[14]，得到研究区部分地层､岩矿体样本的密度及磁性资料，对九瑞矿集区的地层岩石密度和磁性进行了具体的分析.
+
+1) 地矿部第1综合物探队.江西省九江—瑞昌地区物探､化探综合调查成果报告:1/5万，1992.
+
+2) 江西省地质矿产局物化探大队.江西省瑞昌市武山矿区外围综合物探勘查工作成果报告，1992.
+
+3.1 地层及岩矿体密度特征
+综合所收集的资料，对岩石密度以地层厚度为权重进行加权平均，得到各岩层的密度变化规律(如图 1所示).
+
+点击查看原图	
+图 1 九瑞地区岩层密度变化规律图 (阴影中数字表示平均密度）
+Fig. 1 Variation of lithospheric density in JiuRui district (the numbers in shadow are average density)
+如图 1 所示，矿集区地层密度差达0.05×103 kg/m3 以上的密度界面共有8 个.其中二叠系上统虽与上下界面之间形成密度差，但由于其厚度较小，无法识别.因此本区地层密度差达0.05×103 kg/m3以上的密度界面实际共有6 个.大致将研究区分为七个密度层(第四系和第三系､中三叠统—中石炭统､上泥盆统—上志留统､下志留统—中奥陶统､下奥陶统､上震旦统､下震旦统).
+
+(1) 第四系和第三系为低密度层，密度变化范围较大，(1.832~2.487)×103 kg/m3，均值为2.32×103 kg/m3.
+
+(2) 中三叠统—中石炭统为高密度层，除二叠系上统龙潭组密度较低(2.568×103 kg/m3)外，整个高密度层的密度值均在2.7×103 kg/m3 左右.
+
+(3) 上泥盆统—上志留统､下志留统—中奥陶统为中低密度层，其密度值多出现于(2.5~2.6)×103 kg/m3 之间，与上覆高密度层具有(0.1~0.2)×103 kg/m3 的密度差.
+
+(4) 下奥陶统为高密度层，该层密度平均值为2.765×103 kg/m3，为矿集区最高密度地层，与上覆低密度层之间密度差为0.234×103 kg/m3.
+
+(5) 震旦系整体为低密度层，尤其是上统，密度平均值仅为2.4×103 kg/m3，与上层高密度地层的密度差达到-0.365×103 kg/m3.
+
+矿集区内岩浆岩密度变化范围较大.其中辉绿玢岩的密度最高，平均值为2.91×103 kg/m3;石英闪长玢岩次之，平均值为2.88×103 kg/m3.此两种岩浆岩密度明显大于地层岩石密度.除石英闪长玢岩和辉绿玢岩外，岩浆岩均表现为低密度岩体，其密度值与上泥盆统—上志留统密度层的值略低，平均值为2.58×103 kg/m3.
+
+矿集区主要矿石以及含矿岩石中以含铜黄铁矿(块状硫化物铜矿石)密度最高，平均值为4.17×103 kg/m3;各类矽卡岩和蚀变大理岩的密度次之，平均值为(2.97~3.8)×103 kg/m3.
+
+对比各沉积岩和岩矿体的密度值我们发现:各岩浆岩与大部分沉积岩的密度值之间虽存在密度差，但由于岩体的形状及侵入的层位较为复杂，单纯的重力3D 反演可能无法完美地刻画岩体的形态，因此，在数据处理过程中需要结合精细的二维剖面反演技术;矿体及含矿岩体与各沉积岩间的密度差较大，在岩矿体规模及其埋深合适的情况下，无论其围岩是何岩性，重力场都能有很好的反应.
+
+3.2 地层及岩矿体磁性特征
+依据对九瑞地区地层岩石磁性的分析，矿集区从奥陶系到第四系，沉积地层岩石磁化率都很小，一般在10-4CGSM 以下，可视为无(弱)磁性地层.各类火成岩具有较强磁性，在本区也遵循从酸性￫ 中性￫基性磁性逐渐增强的趋势，侵入岩体大多数有较强磁性.侵入岩中以辉石橄榄岩磁化率最高，常见值为55000×10-6SI，剩磁以闪长玢岩最高，最高达到4000×10-3A/m;火山岩中磁化率以安山岩最高，常见值29000×10-6SI，剩磁以玄武岩最高，变化范围为2300×10-3~7300×10-3A/m.各类侵入岩体､火山岩､夕卡岩和磁性矿石(如磁黄铁矿､磁铁矿等)的磁化率较地层磁化率至少高出3~4个数量级.因此，认为本区的航磁异常主要为与岩浆活动相关的地质构造所引起.而在矿集区尺度上，矿体规模远小于岩体规模，因而引起磁异常的主要因素为含磁性的岩体.
+
+3.3 九瑞地区重､磁场特征
+3.3.1 重力场特征
+本文采用的布格重力数据范围为东经115°22′—116°04′，北纬29°30′00″—29°50′，包括1∶5万分幅枫林幅､九江幅､瑞昌幅､范家铺幅､庐山幅和湖口县幅共六幅经数字化后拼接而成(图 2).布格重力数据的比例尺为1∶5 万，布格重力异常总体强度比较弱，梯度缓，形态比较规整.区内重力数据整体呈北高南低趋势，且北面重力高､低值带界限清晰，直观，明确，南面重力高､低值带界限较模糊.异常特征综合反映了盖层和深层构造特征和岩浆岩等因素.局部异常强度反映了九瑞地区褶皱带从北往南埋深逐渐增大.梯度变化的场态特征显示断裂(如城门山—武山—东雷湾一带，丁家山—大冲一带).
+
+点击查看原图	
+图 2 九瑞矿集区1 :5万布格重力异常
+Fig. 2 Bouguer gravity anomaly (scale 1/50000) map of JiuRui ore district
+3.3.2 九瑞地区磁场特征
+本文所用航磁数据为国土资源遥感中心提供的研究区1∶5万航磁异常125 m×125 m 网格数据.数据经纬度范围与布格重力数据范围一致.航磁测量飞机的平均飞行高度为500m.为方便研究，本文对九瑞矿集区原始航磁数据进行了化极处理，其结果如图 3所示.研究区内磁异常总体较平缓，北部出现两个局部异常高呈V 字形，中部地区异常值较低，城门山附近出现局部小异常高，南部出现磁场抬升.矿点多分布于异常变化梯度带上(武山—丁家山—城门山—雷家湾一带都是类似特点).
+
+点击查看原图	
+图 3 九瑞矿集区1:5万航磁化极异常
+Fig. 3 Aeromagnetic anomaly (scale 1/50000) reduced to pole map of the JiuRui ore district
+4 重､磁反演及模拟方法
+4.1 重力3D反演
+布格重力异常是莫霍面起伏及地壳内各类密度不均匀体在大地水准面上的综合响应，而本次研究深度为5km 以浅范围，因此，必须进行区域场与局部场的分离.在对位场数据进行位场分离处理时，没有相对固定的方法，需要结合地质情况，针对具体问题选择合适的位场分离方法[15].本文尝试了趋势场法､匹配滤波法和延拓法的分离试验，经过与实际地质情况的综合对比，趋势场法的二次趋势场背景场表现为单一的北西西向梯级带，而匹配滤波法和延拓法所求得的背景场大体上虽表现为北西西向梯级带，但是都有不同程度的局部场未被分离出去(匹配滤波法分离效果更差).对比其剩余异常，也是趋势场法求取的剩余异常相对较好地保留了5km内的信息(图 4)，因此，决定采用该剩余异常进行重力3D 成像反演.
+
+点击查看原图	
+图 4 九瑞矿集区1:5万布格重力二阶趋势剩余异常
+Fig. 4 Second-order gravity residual anomaly (scale 1/50000) map of JiuRui ore district
+网格剖分:2.5km 以浅深度范围内网格单元长×宽×高=500 m×500 m×250 m，2.5~5km深度范围内网格单元长×宽×高=500m×500m×250m，网格单元总数为141×81×20个.
+
+密度差边界设置为0~3g/cm3，通过迭代计算完成反演.图 5 为矿集区重力3D 反演不同深度水平切片图，不同深度的高密度体分布与地表剩余布格重力异常呈正相关，-1000 m 深度范围内，正负密度差扰动细节丰富，反映了浅表构造的复杂性，随着深度增加，密度异常体形态逐渐增大并有相互连通的趋势.在-4000 m 以深范围，北部和中部高密度体分别连接成一体，呈回字状.此外，矿集区西南角上的高密度体显示结果不真实，其原因是本区缺失西南和东北角的重力数据，但是为了网格数据的计算方便，这两个地区的数据是利用插值算法计算得出的.
+
+点击查看原图	
+图 5 矿集区重力3D反演不同深度水平切片图
+Fig. 5 3D horizontal slice of JiuRui ore district at different depth
+4.2 航磁3D反演
+研究拟对九瑞矿集区5km 深度范围内进行3D航磁成像反演，为消除深部磁性体影响，保留5km以浅磁源信息，对化极异常进行了区域场与局部场的分离.采取与重力数据位场分离相同的分离思想，采用了趋势场法､匹配滤波法和延拓法的分离方法，结合地质信息，经过对比后认为匹配滤波法(图 6)较好地保留了5km 以浅的磁源信息，故将其作为3D 反演的数据.
+
+点击查看原图	
+图 6 九瑞矿集区1:5万航磁化极匹配滤波剩余浅源异常
+Fig. 6 Matched filter and reduction to pole aeromagnetic residual anomaly (scale 1/50000) map of JiuRui ore district
+网格剖分:2.5km 以浅深度范围内网格单元长×宽×高=500m×500m×125m，2.5~7.5km深度范围内网格单元长×宽×高=500m×500m×125m，网格单元总数为147×80×40个.
+
+磁化率边界设置为0~1SI，通过迭代计算完成反演，反演结果如图 7所示，图中最上层是航磁化极异常，中间是地形地质图，下面是航磁3D 反演结果立体图，从蓝色到红色的颜色渐变表示磁化率从低到高的变化.
+
+点击查看原图	
+图 7 九瑞矿集区航磁3D反演成像结果
+(上层为航磁化极异常，蓝色到红色表示磁异常从低到高变化； 中间层为地质图；下层为磁化率切片，蓝色到红色表示磁化率 从低到高渐变）
+Fig. 7 3D aeromagnetic inversion imaging result of JiuRui ore district
+(Upper： Aeromagnetic anomaly，color change from blue to red shows change of magnetic anomaly from low to high； Middle： Geological map； Lower： Section of susceptibility，changes from blue to red shows the gradual change of susceptibility from low to high)
+根据物性测量及分析结果，判断航磁3D 反演结果中的高磁化率部分主要反映了岩体分布情况.本区侵入岩磁化率变化范围为(410~14800)×10-6CGSM，均值在2500×10-6CGSM 左右，通过对比试验，发现该磁化率阈值基本反演了侵入岩体的边界，因此，选择反演结果磁化率大于2500×10-6CGSM 部分代表岩体分布范围.
+
+CGSM 部分代表岩体分布范围.图 8是根据磁化率推测的九瑞矿集区岩体分布三维图，其形态反映了岩体的三维展布.从图中可以看出，反演所得出岩体位置基本能与地质露头对应，中部地区以中小型岩体成带出现为主要特征，只有城门山岩体规模较大，北部和西北部地区两个岩体相对区内其他岩体其规模巨大.
+
+点击查看原图	
+图 8 0〜4000 m深度航磁3D成像反演推测岩体图
+Fig. 8 Conjectural rock mass (0〜4000 m) through the result of 3D magnetic properties inversion
+4.3 2.5维人机交互反演
+在3D 反演的基础上，为了能对研究区地质结构做出更加细致的刻画，又结合平面地质图选取了8条剖面，采用人机联合2.5维反演的方法[16]，对剖面位置的地层及结构做出更加详尽的描述.剖面选取的位置如图 9中红色虚线所示(剖面自西向东依次编号为L1-L8).
+
+点击查看原图	
+图 9 人机互动反演剖面位置图
+Fig. 9 Human-computer interaction inversion profile location
+剖面初始模型的构建主要是依据地震剖面､三维反演结果和地质剖面并结合所收集的地层､地质资料来完成的.虽然剖面的初始模型一部分来源于三维反演结果，但剖面拟合结果对各地层特征的刻画比起三维反演的结果要显得更加的具体和直观，剖面能直接反映出各地层的厚度和构造形式，向斜､背斜､断层等等构造形式能在剖面上一目了然地显示出来.同时对剖面的反演与三维反演结果之间能形成相互约束的关系.即三维反演结果能说明剖面拟合的正确性，而通过剖面的拟合我们也能判断三维反演结果的可靠性.现给出模型基本参数如下:模型厚度5000m，背景密度采用2.69g/cm3，深度范围为地下0~2000m，为了消除边界的影响，将模型体向南东和北西两个方向各延长6km.在此模型的基础上依据所收集的地质资料和其他物探资料的约束，反复修改模型所得出的部分最终地质剖面如图 10.
+
+点击查看原图	
+图 10 模型剖面图
+(a)L1线剖面；（b)L3线剖面；（c)L8线剖面.横轴为水平距离，单位m，纵轴上部为重力异常，单位mGal，下部为深度，单位m.
+Fig. 10 The final model profile
+4.4 边缘检测
+九瑞地区成矿受到基底断裂､盖层断裂控制，同时也受到层位和岩体的控制.这四种控制成矿作用的机制中，断裂和岩体边界具有明显的线性特征，而重力､航磁边缘检测能为我们识别并提取重磁数据中丰富的线性特征信息，因此，本文对九瑞地区重磁数据进行了多尺度边缘检测，得到重磁边缘检测结果(如图 11､12､13).
+
+点击查看原图	
+图 11 1 :5万布格重力异常数据多尺度边缘检测结果
+Fig. 11 WORMS result of Bouguer gravity anomaly (scale 1/50000)
+点击查看原图	
+图 12 1 :5万布格重力异常数据多尺度边缘检测结果
+Fig. 12 WORMS result of Bouguer gravity anomaly (scale 1/50000)
+点击查看原图	
+图 13 航磁数据多尺度边缘检测结果
+Fig. 13 WORMS result of aeromagnetic anomalyCscale 1/50000)
+4.4.1 布格重力异常多尺度边缘检测
+布格重力异常多尺度边缘检测结果反映的是不同深度密度差异地质体的边界，包括断裂､板块分界线､盆地边界及岩体接触线等.根据九瑞地区地质特点，判断本文重力异常多尺度边缘检测结果主要表示基底断裂､盖层断裂及部分岩体分界线.根据多尺度检测结果解释的原则[13, 17]，本文在同一图幅内，将不同延拓高度检测结果叠加到一起，采用不同颜色､大小的线型表示不同深度尺度的信号边界形迹，根据不同深度边界信号形迹在分布位置上所体现的相似性来获知该构造形迹的发育深度及倾向特征.
+
+对九瑞矿集区1∶5万布格重力异常向上延拓，延拓高度自500 m 开始，以500 m 为间隔依次增加，最大上延高度为6km.将每个高度的边界检测值叠加到一起，形成九瑞矿集区1∶5万布格重力数据多尺度边缘检测结果(如图 11).图中蓝色线到绿色线代表了不同的延拓高度:从500m~6km.依同样方法，得到九瑞矿集区1∶20 万布格重力数据多尺度边缘检测结果(如图 12，最小延拓高度为5km，最大延拓高度为35km，间隔为1km，最大延拓高度结果用红色线表示，最小高度用蓝色线表示).
+
+4.4.2 航磁异常多尺度边缘检测
+航磁异常的多尺度边缘检测结果反映的是磁性边界.如果重力多尺度边缘检测结果与航磁多尺度边缘检测结果吻合，则说明反映的边界为重磁同源，如有中基性岩浆侵入的深大断裂[18].
+
+依重力边缘检测结果的形成方法，本文得到九瑞矿集区1∶5万航磁数据多尺度边缘检测结果(如图 15，最小延拓高度为1km，最大延拓高度为10km，间隔为1km)，并将该结果与航磁3D 反演成像结果叠合在一起(如图 13).
+
+点击查看原图	
+图 15 反演结果密度差>0.015 g/cm3模型体与地质图（置于一 1 km)叠合图
+黄色为高密度体，图中圆点为矿点位置，其中红、黄、蓝、墨绿、绿分别表示新发现矿化点、铜金矿点、铜多金属矿点、金矿点、铁矿.
+Fig. 15 Themodel of inversion result density difference〉0.015 g/cm3
+Yellow for the high-density body，dot for the mine site location，and red，yellow，blue，dark green and green respectively delegating newly discovered mineralization points，Cu-Au mines, Cu polymetallic mines，Au mines and Fe mines.
+5 结果及地质解释
+5.1 九瑞矿集区三维地质模型
+将拟合好的剖面插入三维反演得出的高密度体中(如图 14)，图中三维反演所得出的高密度体清晰地体现了盖层的起伏.褶皱构造是本研究区控矿构造之一，受褶皱翼部层滑断裂带控制的矿体在次级小背斜的轴部矿体厚度会增大.由于岩层褶皱发生层滑时，易在鞍部形成层间空隙，造成虚脱现象，从而为矿液提供了有利空间，而导致矿体厚度在该部位加大，从而形成具有开采价值的矿点､矿床.重力3D 反演推测的高密度体为圈定这些构造提供了直接信息.配合一定数量的拟合剖面，我们就能很快地做到某些层位或岩体的空间定位.
+
+点击查看原图	
+图 14 三维反演高密度体（黄色体）与模拟剖面的空间结构图
+Fig. 14 The resutt (yellow body) of 3D gravity properties inversion and 8 geologic profiles penetrated it
+采用等值面(IsoSurface)技术，保留反演结果密度差大于0.015g/cm3 的部分，将其与地质图，矿床(点)分布集成于三维环境中(图 15).图中EW向和近EW 向的三个高密度体正好对应了枫林大桥背斜，大浪—丁家山背斜和吴家垄北—长岭山—城门山背斜，其间凹兜对应为上田(新庄)—黄桥复式向斜.从反演结果看，盖层褶皱浅部地层较陡，向深部逐渐趋于平缓.背斜较紧密，向斜较宽缓，略具梳状褶皱的特点.而这一结果在模拟剖面上也是一目了然.结合剖面拟合时的情况，向斜部位的石炭系､二叠系､三叠系灰岩密度大于背斜部位的志留系砂页岩，仅以高密度的奥陶系地层分布难以合理解释整个区域的重力高､低值带.因此推测深部高密度基底与盖层褶皱有相似的褶皱状态.
+
+结合矿床和矿点在矿集区的分布位置(图中蓝色和红色点代表矿点)可以发现，在九瑞矿集区，矿床(点)多分布于高密度体上，且大多数都处于高密度体的边缘部位.只有极个别分布于低密度区.
+
+将地质图与推测岩体结果在三维可视化环境中叠合在一起，截取不同深度水平切片，能更加直观地反映岩体在不同深度的形态，同时，也便于分析矿床(点)与岩体分布之间的关系，为成矿研究和找矿分析提供丰富的信息.图 16 是-1250 m 深度岩体与地质图叠合到一起的三维透视图，图中圆点为矿点位置.从图中可以看出，航磁3D 反演推测岩体与地质填图中岩体基本对应.
+
+点击查看原图	
+图 16 —1250 m深度岩体形态推测（棕红色体）与地质图（30%透明）叠合
+Fig. 16 Conjectural rock mass (0〜1250 m) through the result of 3D magnetic properties inversion overlying geological map (30% transparent)
+九瑞矿集区是以铜､金为主的矿集区，其成矿物质主要来源岩体深部(幔源)且浅部就位，即深部隐伏岩基控制了矿田分布，其上的高侵位小岩体对矿床的形成具有明显的控制作用，反映出本区岩浆演化和岩体前缘成矿的基本规律.对照图 12，我们很容易看到区内已知矿床和矿点(如城门山､武山)均位于岩体上方或岩体外侧.结合前人在九瑞地区找矿所总结的规律，可以认为有矿必有岩体.因此，航磁3D 反演推断的岩体(包括隐伏岩体)是找矿预测的重要依据.从岩体推断图(图 8，16)发现，九瑞矿集区武山，城门山，东雷湾—邓家山3处隐伏岩体规模较大，其余岩体分布较散乱，没有形成规模.这一方面说明九瑞地区对应的岩浆岩规模较小，岩体向下延伸有限，其离岩浆活动中心稍远.但从另一方面看，东雷湾—邓家山处存在的超大隐伏岩体，与九瑞地区最著名的两个矿床(城门山､武山)所处的岩体规模相当，其行成了区内西北部磁异常的抬升区.并且其平面所在地理位置也在城门山—武山丰山洞隐伏断裂附近，因此认为该处有比较好的深部找矿前景.
+
+5.2 九瑞矿集区线性结构
+九瑞地区密度边界大多以NEE 或近EW 向出现(如图 11，12).中浅部密度边界线分布复杂，线束集中;中深部密度边界线分布简单，线束较稀疏.总体来看，区内密度边界线以NEE 向线束的展布最为常见，该组线束与褶皱轴向基本一致，主要是研究区内盖层断裂的显示.从线束的位置分布看，盖层断裂多发育于背向斜的翼部，具体为大桥—宝山复式背斜､丁家山—大冲背斜和城门山—长山背斜的两翼;从线束的形态看，盖层断裂一般切割较深，多数切割深度已经超过盖层厚度;从线束的连续性看，盖层断裂的规模较大，断裂长度最大可达30 多公里.其余规模较小，连续性不强的线束，位置形态比较杂乱，且延伸深度不大，在6km 以后全部消失.其显示了九瑞地区地表复杂的构造情况.除此之外，如图 12中有一条从研究区的北东方向穿入，走向为NEE 向，经城门山､瑞昌后转为NWW 向的线束.线束形态稀疏，连续性好，横穿整个研究区，且线束的延伸非常深，直至上延30km 仍有显示，初步判断为长江深断裂的显示.该断裂切割深度大，断裂面倾向较缓，且断裂深､浅部位走向表现出不一致性，是九瑞矿集区重要的导矿构造，与岩浆的上侵和矿床的形成关系密切，为区内矿床的形成提供了深部矿源，控制了整个研究区的矿床形式的格局.
+
+从图中可以看出，磁性边界与航磁3D 反演成像结果中高磁性体边界吻合度较好.在丁家山—大冲背斜､城门山—长山背斜和新圹向斜两翼处磁性边界与密度边界也有较好的重合.而此处空间位置距长江深断裂较近，因此推测此重磁边界线重合与中基性岩浆侵入有较大的关系.
+
+6 讨论与结论
+重磁3D 反演结果及重磁异常数据边缘检测结果从地球物理的角度更加形象地描述了九瑞地区深部构造特征及其对成矿控矿的指示:
+
+(1) 九瑞矿集区自北向南，高密度体相间出现，从平面上看，其形态如条带状.结合地质资料发现，九瑞地区密度的条带状分布形式与区内褶皱构造的形式一一对应.自北向南高低密度带分别对应通江岭—邓家山复式向斜，大桥—宝山复式背斜，黄桥复式向斜，丁家山—大冲背斜，塞城湖—乌石街复式向斜和城门山—长山背斜，新圹向斜.高密度体对应的背斜除反应了密度相对高的奥陶系､志留系地层外，同时也反应了其下部高密度基底的上隆，这说明九瑞地区基底与盖层有相似的褶皱形式，盖层的褶皱形式是基地褶皱形式的一种继承.
+
+(2) 九瑞矿集区南部高磁性体的分布与长江深断裂的走向相一致，推测为岩浆物质沿长江深断裂上涌的反应，长江深断裂为其形成提供了深部的物质源.研究区西北角高磁性体所对应的空间位置处于深部长江深断裂与中浅部盖层断裂交叉处.因此，推测该磁性体的形成方式为:长江深断裂为其形成提供深部的物质源，盖层断裂为岩浆的上涌提供上行通道.研究区北部高磁性体虽不处于长江深断裂之上，但是其所处位置的盖层断裂切割较深，延伸较长，断裂深部也可能与长江深断裂相交.因此，推测该磁性体的形成方式为:长江深断裂为其形成提供深部的物质源，盖层断裂为岩浆的上涌提供上行通道.
+
+(3) 从重磁多尺度边缘检测结果中找不到前人指出的城门山—武山—丰山洞隐伏深断裂.而对于长江深断裂，重新厘定的位置及空间展布形态也与前人研究结果有一定出入:长江深断裂穿过本研究区段不似前人描述的为单一的NWW 走向，而是自西向东由NWW 走向转为NEE 走向进而穿出研究区，且断裂深部与浅部走向也并不一致:断裂在浅部由曹家冲以北穿出研究区，深部则在穿过瑞昌之后向丰山洞方向延伸，从研究区西北角穿出.
+
+(4) 九瑞矿集区已知矿点分布规律明显:已知矿点分布伴随岩体出现，空间位置相对集中，80%以上分布于NEE 或近EW 向的盖层断裂附近，断裂走向与褶皱轴向平行，并且展布于褶皱背斜(重力3D成像反演结果中显示为高密度体)的两翼.矿点分布特征充分说明了岩体､断裂和褶皱对矿点的控制关系，这也为今后的找矿提供了一个明确的方向.
+
+致谢
+感谢航遥中心所提供的航磁数据!
+
+参考文献
+常印佛, 刘湘培, 吴言昌. 长江中下游铜铁成矿带. 北京: 地质出版社, 1991 : 1 -147. Chang Y F, Liu X P, Wu Y C. Iron-Copper Mineralization Belt of Middle-Lower Yangtze Valley (in Chinese). Beijing: Geological Publishing House, 1991 : 1 -147.
+Pan Y M, Dong P. The Lower Changjiang (Yangzi / Yangtze River) metallogenic belt, east central China: intrusion- and wall rock-hosted Cu-Fe-Au, Mo, Zn, Pb, Ag deposits. Ore Geology Reviews , 1999, 15(4): 177-242. DOI:10.1016/S0169-1368(99)00022-0
+赵文津. 长江中下游金属矿找矿前景与找矿方法. 中国地质 , 2008, 35(5): 771–802. Zhao W J. Ore prospects and ore exploration methods for metal deposits in the middle and lower Yangtze River valley. Geology in China (in Chinese) , 2008, 35(5): 771-802.
+Dong S W, Xiang H S, Gao R, et al. Deep structure and ore formation within Lujiang-Zongyang volcanic ore concentrated area in Middle to Lower Reaches of Yangtze River. Acta Petrologica Sinica , 2000, 26(9): 2529-2542.
+滕吉文. 强化开展地壳内部第二深度空间金属矿产资源地球物理找矿、勘探和开发. 地质通报 , 2006, 25(7): 767–771. Teng J W. Strengthening geophysical exploration and exploitation of metallic minerals in the second deep space of the crustal interior. Geological Bulletin of China (in Chinese) , 2006, 25(7): 767-771.
+Li Y G, Oldenburg D W. 3-D inversion of magnetic data. Geophysics , 1996, 61(2): 394-408. DOI:10.1190/1.1443968
+Li Y G, Oldenburg D W. 3-D inversion of gravity data. Geophysics , 1998, 63(1): 109-119. DOI:10.1190/1.1444302
+姚长利, 郑元满, 张聿文. 重磁异常三维物性反演随机子域法方法技术. 地球物理学报 , 2007, 50(5): 1576–1583. Yao C L, Zheng Y M, Zhang Y W. 3-D gravity and magnetic inversion for physical properties using stochastic subspaces. Chinese J| Geophys| (in Chinese) , 2007, 50(5): 1576-1583.
+Hornby P, Boschetti F, Horowitz F G. Analysis of potential field data in the wavelet domain. Geophys| J| Int| , 1999, 137(1): 175-196.
+Archibald N, Gow P, Boschetti F. Multiscale edge analysis of potential field data. Exploration Geophysics , 1999, 30(2): 38-44. DOI:10.1071/EG999038
+Horowitz F, Hornby P, Boschetti F. Developments in the analysis of potential field data via multiscale edge representation (in Exploration beyond 2000; conference handbook) Preview 2000, 84, 77.
+Holden D J, Archibald N J, Boschetti F, et al. Inferring geological structures using wavelet-based multiscale edge analysis and forward models. Exploration Geophysics , 2000, 31(4): 617-621. DOI:10.1071/EG00617
+Austin J R, Blenkinsop T G. The Cloncurry Lineament: Geophysical and geological evidence for a deep crustal structure in the Eastern Succession of the Mount Isa Inlier. Precambrian Research , 2008, 163(1-2): 50-68. DOI:10.1016/j.precamres.2007.08.012
+王大勇. 长江中下游矿集区综合地质地球物理研究—以九瑞、铜陵矿集区为例. 长春: 吉林大学 , 2010. Wang D Y. The integrated geophysical and geological study in the ore belt of the Middle and Lower Reach of the Yangtze River—The cases study of Tongling and Jiurui ore district(in Chinese). Changchun: Jilin University (in Chinese) , 2010.
+Keating P, Pinet N. Use of non-linear filtering for the regional-residual separation of potential field data. Journal of Applied Geophysics , 2011, 73(4): 315-322. DOI:10.1016/j.jappgeo.2011.02.002
+Enmark T. A versatile interactive computer program for computation and automatic optimization of gravity models. Geoexploration , 1981, 19(1): 47-66. DOI:10.1016/0016-7142(81)90012-0
+管烨. 云南三江地区地壳三维构造格架与矿集区关系研究. 北京: 中国地质科学院 , 2005. Guan Y. Relationship between 3D tectonic frame and metallogenic district: Theory and implications in the Three Rivers Region, Yunnan (in Chinese). Beijing: Chinese Academy of Geological Sciences (in Chinese) , 2005.
+严加永. 长江中下游成矿带深部背景综合地球物理研究. 北京: 中国科学院地质与地球物理研究所, 2010. Yan J Y. Integrated geophysical study for deep background of the Middle and Lower Reach of the Yangtze River metallogenic Belt(in Chinese). Beijing: Institute of Geology and Geophysics, CAS, 2010.

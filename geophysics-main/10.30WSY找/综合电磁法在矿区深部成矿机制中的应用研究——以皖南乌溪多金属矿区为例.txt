@@ -1,0 +1,211 @@
+综合电磁法在矿区深部成矿机制中的应用研究——以皖南乌溪多金属矿区为例
+林方丽1,2lgg1287@163.com , 王光杰1 通讯作者gjwang@mail.iggcas.ac.cn , 杨晓勇3     
+摘要: 乌溪矿区介于长江中下游多金属成矿带与华南成矿带之间，是江南造山带上的一个找矿新区.本文在这一找矿新区开展了有效的电磁方法综合勘探，试图对该区深部成矿机制进行研究.我们收集了该区的地质地球化学资料，从地质地球化学资料中分析了区域成矿背景；我们还采集了区域出露的主要岩石类型，在实验室开展物性测定，在此基础上选择了三种电磁方法开展研究区的野外测量.通过地面高精度磁测、激发极化法和可控源音频大地电磁法（CSAMT）三种地球物理方法，开展了研究区的磁化率、极化率和电阻率的分布特征研究.深入分析了地质、地球化学和地球物理三种资料与成矿的关系，相互约束，探讨成矿模型、成矿机制和成矿的可能性，推测可能的矿体赋存位置和深度范围.在地球物理研究结果基础上，结合地质和地球化学背景资料，构建了研究区的成矿动力学模型，推测了研究区成矿机制，揭示了矿区的成矿潜力.综合所得结果布设了钻孔，钻探结果揭示了研究区深部存在强烈矿化蚀变和强蚀变斑岩，初步确认为斑岩型矿床，与CSAMT剖面的解释结果基本一致，也与推测的测区内深部成矿机制相吻合.钻孔结果和地球物理结果的一致性以及对已构建的成矿动力学模型的支持，充分证明了综合电磁方法在斑岩型多金属矿床的发现和预测中的重要作用，同时斑岩型矿床的确认进一步印证了华南成矿带与俯冲作用形成的成矿带的相似性，从而推动整个华南地区的成矿地质研究.
+关键词: 成矿机制      综合电磁法      乌溪多金属矿      斑岩     
+Application of comprehensive electromagnetic study in deep mineralization mechanism-A case study of the Wuxi polymetallic ore deposit, south Anhui
+LIN Fang-Li1,2lgg1287@163.com, WANG Guang-Jie1Corresponding authorgjwang@mail.iggcas.ac.cn, YANG Xiao-Yong3     
+Abstract: The Wuxi polymetallic ore deposit which lies between the middle and lower reaches of the Yangtze River polymetallic metallogenic belt and South China metallogenic belt, is a new prospecting area in the Jiangnan orogen. This article is trying to study the mineralization mechanism in the deep subsurface of this area with the effective electromagnetic integrated exploration. For a new prospecting area, the collection of regional geological and geophysical background is very important. Geological data in this area is collected, which permits to analyze the regional metallogenic background. The physical property of the main rock types exposed in this area is measured in the laboratory. On the basis of these results three electromagnetic field measurements are carried out. By the measurements of three kinds of geophysical methods:ground precise magnetic survey, induced polarization and controlled source audio magnetotelluric method (CSAMT), the distribution characteristics of magnetic susceptibility, polarization and resistivity are studied, to bound mineralization possibilities and possible ore body position and depth range together. Based on the results of the geophysical studies, combined with geological and geochemical data, the mineralization dynamics model of the study area is built and then the mineralization mechanism is suggested. Drillings are deployed according to all these results. Drilling results prove the presence of strong alteration, mineralization and porphyry alteration at depth in the study area, which is consistent with the judgment of the CSAMT results. The consistency of drilling and geophysical results fully demonstrate the important role of the integrated electromagnetic method in the discovery and prediction of porphyry type polymetallic deposits. Meanwhile, it confirms the similarity between South China metallogenic belt and the mineralization belt formed by the subduction, thus promoting mineralization geological studies throughout South China..
+Key words: Metallogenic Mechanism      Integrated Approach of Electric Magnetic Method      Wuxi Polymetallic Ore      Porphyry     
+1 引言
+斑岩型矿床以其巨大的经济价值和重要的学术意义一向受到人们的重视.近年研究表明很多大型、超大型斑岩型铜、金矿都与洋脊俯冲作用所产生的中酸性岩浆岩(多为斑岩)密切相关(Cooker et al.，2005)，因此斑岩型矿床的成矿机制与板块俯冲的关系得到广泛的研究，并且取得了丰富的研究成果(Sun et al.，2003，2007，2013；Liu et al.，2010；Wang et al.，2013).孙卫东等认为在中国东部地区寻找洋脊俯冲的迹象，将有助于国内大型、超大型斑岩矿床以及其他相关矿床的发现(Ling et al.，2009；Sun et al.，2010).本次工作就将目标区域选在介于长江中下游多金属成矿带与华南成矿带之间的乌溪矿区，这里是江南造山带上寻找斑岩型矿床的理想场所.乌溪矿区位于安徽省泾县榔桥镇，基于目前勘探开发的地质资料，应该属于热液脉型成矿类型.根据区域地质调查工作，发现了地表存在多个金矿化点，并圈定了成矿有利区域.前人在此基础上对该区金矿成矿条件和成矿后期构造进行了分析(刘惠华，2003; 刘惠华和朱宁，2004)，总结了该区的地质特征及控矿因素(赵永利等，2013).
+
+虽然斑岩型矿床研究已经在许多领域取得了较大的进展，但许多关键性的问题现在仍没有得到妥善解决.最使人感到棘手的问题就是在同一区域内几乎是同年龄同源同成份的许多岩体，含矿性往往差异极大.如何区分在成矿有利区域的围岩和矿体成为斑岩型矿床研究中亟待解决的地质问题.而岩石的蚀变和矿化蚀变，会引起岩石的电性、磁性等物理性质的改变，因此在金属矿的成矿有利区域开展有效的综合电磁法工作，能够从岩石的电磁性质的差异中分辨出深部可能的含矿构造(邓居智等，2015；张昆等，2015).
+
+由于不同的地球物理方法只能反映岩矿石一个物理参数的差异，因此在实际应用中通常同时使用多种不同的方法(郝天珧和江为为，1998；孙兴国等，2007；陈伟军等，2008；崔敏利等，2010；吕庆田等，2015；邵陆森等，2015；万汉平等，2015；徐兴倩等，2015)，共同约束地下矿物的性质，尽可能的减少多解性.近年来，地球物理综合找矿方法已在金属矿勘探中发挥了主要作用(Bastani et al.，2009；张壮等，2013；万芬等，2014；丁高明等，2015；张光之等，2015；王显莹等，2015).磁法勘探根据不同岩矿石的磁性差异，一般用于控制不同岩性的边界及深大断裂(娄德波等，2008)，圈定在金属矿成矿过程中形成的伴生矿物的磁异常，如磁铁矿和磁黄铁矿.在金属矿的形成过程中，成矿物质的汇聚也需要相应的成矿通道和成矿空间，因此金属矿勘查的关键就是寻找相应的成矿通道和成矿空间，所以磁法勘探也被广泛地应用于金属矿的勘查(吴国学，2007；卢焱等，2008).激发极化法是借助多金属硫化物矿物普遍存在着激发极化特性(何继善，2006)，大量的实际工作已经证明了激电法的找矿效果(武炜等，2009；杨振威等，2013；Smith，2014；柳建新等，2004)，激电测量也将有利于成矿机制的判断.可控源音频大地电磁法(CSAMT)则是根据电磁场的趋肤效应，通过不同的频率的电磁信号的差异，计算和反演不同深度的电阻率分布差异(王若等，2014；孙博等，2015；汤井田等，2015；周聪等，2015).已在各种地质勘查(陈玉玲等，2015)和深部探测(于昌明，1998；李帝铨等，2008；时彬，2012；谭章坤，2013)中成功应用.综上所述可知，在多金属矿床的勘查中，地面高精度磁测、激发极化法和CSAMT电阻测深三种方法的综合使用，对于成矿动力学模型的建立，可以得到多参数多研究角度的立体模型.
+
+虽然乌溪矿区研究程度较低，作为研究中国斑岩型矿床与板块俯冲关系的最有利区域，前人也进行了大量的地球化学的研究(李双等，2012，2014，2015).地球化学结果表明，乌溪矿区不论从成矿年龄还是成矿元素分析，都与德兴斑岩型矿床有较好的一致性，进一步支持了斑岩型矿床的推测，但具体工作中一直没有找到深部斑岩证据.为了更深入的分析乌溪矿区的矿床类型和深部成矿，我们在地质和地球化学工作的基础上，采集了区内的岩石标本进行了岩石物性结构特征分析，据此选取了上述三种方法，进行了一系列综合电磁法勘探.本文依据当地的岩石物性结构特征，根据这三种不同的电磁方法的结果，结合已有的地质地球化学资料构建了地质地球物理成矿动力学模型，并在已有研究基础上初步给出了探测区的深部成矿机制.成矿机制的研究精确定位了矿区可能的成矿位置，同时进行了多个深钻验证，钻井岩芯结果表明，矿区深部出现多个蚀变斑岩脉和普遍的金属矿化，可以确定深部存在较大的斑岩矿体，具有很好的成矿前景.该结论也支持了我国东南部可能存在的与板块俯冲有关的斑岩型矿床，在相同的成矿有利区域内可以进一步寻找可能的斑岩型矿床.
+
+2 研究区地质地球物理背景
+2.1 区域地质概况
+乌溪矿区位于扬子地台江南古陆北侧，江南大断裂与东西向周王断裂交汇部位的南侧，北北东向汤口断裂束分支在区内通过(图 1).区域上，从震旦系至三叠系的地层均有出露.研究区内出露地层主要为志留系和泥盆系.研究区东南部出露的榔桥岩体，是皖南地区燕山期一个重要的花岗闪长岩基，成岩时代被限定为137~139 Ma之间(李双等，2014).
+
+点击查看原图	
+图 1 研究区区域构造简图(安徽省地质矿产局，1987)
+1. 元古-古生代地层; 2.晚古生代-中生代; 3.中生代-第三纪; 4.花岗岩; 5.花岗闪长岩; 6.二长花岗岩; 7.断裂; 8.测区.
+Fig. 1 Regional tectonic map(Anhui Bureau of Geology and Mineral Resources，1987)
+1. Proterozoic-Paleozoic strata; 2. Late Paleozoic-Mesozoic; 3. Mesozoic-Tertiary;4.Granite; 5. Granodiorite; 6.Adamellite; 7. Fault; 8. Study area.
+2.2 矿区地质背景
+矿区内主要发育近北北东向区域断裂构造-即汤口断裂(图 1)，为构造热液型成矿的主要的控矿、含矿构造.区内局部可见花岗斑岩脉出露，走向以北东向为主，宽15~25 m，长100~300 m.研究区内地表普遍发育黄铁矿化等强烈蚀变，并局部具有低品位的金矿化.靠近岩脉或断裂，岩石较破碎，硅化、绢云母化、黄铁矿化、黄铁绢英岩化等蚀变发育.其它方向的构造，含矿性较差，大多为成矿后期破坏性构造，对早期形成的矿化有一定程度的破坏作用.矿区内出露地层主要为志留系粉砂岩、泥质粉砂岩和泥盆系石英细砂岩.地层产状较平缓，倾角10°~25°，节理较发育.
+
+2.3 区域地球物理背景
+航磁异常结果显示研究区属于皖南强磁场区，区域以一系列较紧密排列的NE向、NNE向条带状磁异常带分布为主(王建伟等，2009).研究区处于正负磁异常的交界位置，推测与区内断裂分布相关.岩体出露区域显示团块状正磁异常，说明区域岩体磁化率相对较高.
+
+安徽省布格重力异常结果与大地构造分区的地质矿产要素对应分析，可以将三个重力异常级别对应于不同的构造分区(兰学毅等，2012).研究区位于扬子陆块—江南地块—皖南褶皱带中，区域重力异常低值中心指向皖南花岗岩集中区.乌溪矿区位于布格重力异常高低交变区域，因此在此区域内重力处于不均衡状态，易产生地壳的均衡运动，而地壳的均衡运动会进一步带动区内构造薄弱地带的岩石破碎，从而有利于深部物质的带入.
+
+2.4 测区岩石地球物理特征
+根据区内岩石的出露和钻探得到的岩芯情况，我们分别选取了泥岩、砂岩、花岗岩及含硫化物的岩石进行磁化率、极化率及电阻率的测量.从测量结果来看，蚀变泥岩由于含水较多，电阻率普遍较小.综合来看存在矿化蚀变的各类岩石电阻率相对没有蚀变的岩石电阻率低，极化率相对偏高，花岗岩类是矿区中唯一磁化率较高的岩石类型，而围岩如砂岩、泥岩等，不论是极化率还是磁化率都很小，说明区域围岩不具有磁性也不具有激电特性.
+
+3 电磁综合勘探工作
+根据地质资料，矿区内断裂构造比较发育，并且在断裂附近形成岩脉，成矿较为有利，因此将本次工作的重点围绕浅表已知的断裂和岩脉展开.为了了解断裂在地下的走向及倾角，选择垂直主断裂的北西45°方向作为测线方向(图 2)，为了有效的控制异常，将测网布设为200×25 m.在工作重点区域，同时进行地面高精度磁法、双频激电法和CSAMT三种电磁方法，这样不仅能够控制区内磁性物质分布，还可以进一步了解不同电阻率的岩石在地下的分布情况，从而寻找成矿有利区域.实际工作中为了进一步控制磁性异常和激电异常的边界范围，将激电和磁法测线都进行了外延和加密.在地面高精度磁测过程中，针对测区中磁场变化剧烈的区域进行了测点加密，进一步确认异常的真实可靠性.
+
+点击查看原图	
+图 2 乌溪测区地质与电磁测点分布图
+1. 第四纪； 2.石炭系； 3.泥盆系； 4.志留系； 5.花岗闪长岩； 6.花岗斑岩； 7.见矿钻孔； 8.金矿化点； 9.CSAMT测点； 10.磁法测点； 11.IP测点.
+Fig. 2 Geology map with electrical and magnetic prospecting site distribution in Wuxi survey area
+1. Quaternary; 2. Carboniferous; 3. Devonian; 4. Silurian; 5. Granodiorite; 6. Porphyry;7. Borehole; 8. Gold ore locality; 9. CSAMT Site; 10. Magnetic Site; 11. IP Site.
+3.1 地面高精度磁测结果及解释
+图 3是乌溪测区地面磁测异常图.磁异常结果显示，在测区的北侧主要分布团块状正异常，异常范围宽度500~1000 m，从北向南磁异常逐渐减弱，在测区东南侧显示有北东向分布的负磁异常.引起磁异常减弱可能的原因有两种，磁性物质减少或者磁性物质分布深度增加.而在测区东南部相对负磁异常处，相应地质图上显示为第四纪覆盖区，由于第四纪地层不具有磁性，由此推测引起区内磁异常减弱的原因可能是磁性物质的埋深相对增加，同时不排除是在磁场变化区域存在断裂，使得两侧岩石磁性差异.而区内标本测量结果显示(表 1)，花岗岩类是唯一磁化率较高的岩石类型，从而初步推测区内花岗岩岩体在矿区的分布范围.测区中间分布大范围的磁场不均匀区域，根据岩石标本测量结果，蚀变和矿化都可以引起磁化率的减弱，因此推测该区域的不均匀磁场可能与岩石的蚀变相关.
+
+点击查看原图	
+图 3 乌溪测区磁异常分布平面图
+1. 道路； 2. 磁场不均匀区域.
+Fig. 3 Magnetic anomaly distribution of Wuxi survey area
+1. Road； 2. Nonuniform magnetic field area.
+点击查看表格内容	
+表 1 乌溪测区岩石物理特征(万芬，2014)
+Table 1 Petrophysical properties of Wuxi polymetallic ore
+3.2 激电观测结果及解释
+图 4是乌溪测区极化率异常平面图.极化率结果显示，高极化异常集中分布在测区中间部位，区内存在一条和测线正交的高极化带贯穿整个测区，宽度500 m以上.根据前期地质勘探和钻探结果，区内已圈定成矿带2个和多条矿脉，与地表出露的花岗斑岩脉伴生.根据钻探结果(刘琛琛和杨钱江，2012)，花岗斑岩脉倾向南东，在岩脉之下为志留系唐家坞组粉砂岩，在唐家坞组内陆续分布多处矿化破碎蚀变，初步判断为地表矿脉在深部的延伸.已查明异常均位于高极化带内，因此可以推测区内高极化带区域都存在很好的成矿条件.另外测区内已查明多个金矿化点，都位于高极化区域及边界位置，推测是含矿热液被围岩阻挡，在斑岩-围岩接触带产出一系列矿脉和金矿化点.因此根据地表出露的斑岩脉、矿化蚀变带、金矿化点和地表高极化异常带，可以推测在高极化率异常之下，隐伏有一个含矿斑岩体，预测矿区具有很好的成矿远景.
+
+点击查看原图	
+图 4 乌溪测区极化率异常平面图
+1. 道路；2.金矿化点；3.见矿钻孔；4.磁测区域
+Fig. 4 Polarization anomaly distribution of Wuxi survey area
+1. Road; 2. Gold mineralization locality; 3.Borehole; 4.Magnetic survey area.
+3.3 CSAMT观测结果及解释
+将可控源音频大地电磁法的结果经过近场校正、静态校正和曲线平滑处理之后，再进行一维电阻率深度反演计算，即可得到每条测线的电阻率随深度变化的剖面图.对比电阻率测深结果和激电测量的地表电阻率，两者基本保持一致，进一步验证两种方法的可靠性(图 5).从电阻率测深结果来看，电阻率分层的倾向与测线方向相同，倾角30~40°，进一步印证了前期的地质工作得到的地层倾向南东的结果.从测深剖面结果来看，在测线800~1000 m之间存在纵向延伸较深的低阻异常带，可推测为断裂破碎带，同时在破碎带的边界，对应了两个高极化率异常，电阻率低值与高极化率对应，较好的对应了含矿岩石的低阻高极化特性，因此可以推测区内蚀变矿化与断裂的相关关系.
+
+点击查看原图	
+图 5 双频激电剖面极化率和电阻率与CSAMT反演电阻率断面对比(5000线)
+Fig. 5 Comparisoll of resistivity from dual frequency IP method and CSAMT(line 5000)
+根据测区的CSAMT电阻率测深结果进行切片处理(图 6)，电阻率相对较高的点在地表分布较分散，而随着深度的增加逐渐向小号测线和测线小号点汇聚，整体电阻率呈条带状分布.从地表的电阻率水平切片图上(H=200 m)看，高阻体的延伸方向由南北向逐渐转为北东向，与测线方向垂直.整体切片图的结果表明随着深度的增加，测区深部整体电阻率较地表电阻率偏低，且又呈带状分布，推测是在构造作用下围岩受到强烈蚀变改造而形成，是可能的成矿通道和成矿空间.测区北半部分的高阻矿脉逐渐向测区边界汇聚，测区南半部分高阻脉也向西南方向汇聚.而在测区中间位置形成大规模的低阻异常带，深部如此大规模的低阻异常可以推测深部存在较大的断裂构造.这也与区内测量得到的大规模极化率异常相对应，从而推测区内断裂构造为深部岩浆活动提供了大范围的活动空间.
+
+点击查看原图	
+图 6 电阻率水平切片图(海拔高度-600 m~+200 m)
+Fig. 6 Horizontal resistance slices at elevation from +200 m to -600 m
+从地质图上看，测区内出露的花岗斑岩脉的走向基本与CSAMT测量结果的高阻延伸方向一致.测区中间出现的北东东向断层有部分花岗斑岩出露，电阻率切片图上显示出高阻特性.而测区东南侧出露的含矿化的花岗斑岩脉，电阻率测量结果相对较小，前期钻探结果显示该点的花岗斑岩脉出露地表，厚度只有50 m，并且倾向东南侧.根据测区电阻率立体图(图 7)可以看到，电阻率分布情况也倾向南东，与测区内地层的倾向相一致，说明岩体存在顺层侵入.
+
+点击查看原图	
+图 7 乌溪电阻率立体图
+Fig. 7 A perspective view of resistivity in Wuxi
+3.4 电磁法综合解释与成矿动力来源
+通过地面高精度磁测结果，磁场有从南到北逐渐增大的趋势，结合矿区地质资料，我们可以推测得出岩浆来源于矿区东南侧的深部岩基，沿着区内岩层、断裂、裂隙逐渐上侵到矿区西北侧的浅部.而极化率和电阻率的结果都显示矿区存在一条北东向的高极化率和低电阻异常带，并且两者在空间上基本可以完全吻合，因此可以基本得出区内存在的低阻高极化区域为区内最有利的成矿空间.结合三种电磁方法结果，依据岩石样品的测量结果，测区西北角表现为高磁低极化特征，说明该区域内岩石可能为花岗斑岩或者花岗岩岩体，同时电阻率表现为高阻特征，进一步证明了此处可能的岩体存在.考虑到区域地层倾向，此处岩体可能是南东侧深部岩体的延伸.测区中间测得的高极化带与低阻构造带相对应，随着深度的增加电阻率逐渐减小，推测表层岩石没有受到蚀变作用的影响，随着深度的增加深部岩石逐渐发生蚀变作用逐渐强烈.同时低阻条带在深部范围更大，说明了高极化带不仅在浅部有较好的成矿可能性，在深部有更大的矿化蚀变空间.另外高极化带区域磁场分布的不均匀性说明成矿过程中可能有磁性物质的生成.电阻率测深结果显示，高阻体在深部汇聚于测区西南角，而对应的磁场和极化率情况显示该区磁场较高极化率很低，因此推断测区西南角部分深部可能没有受到热液活动的影响，没有成矿条件.
+
+综合所得到的地球物理和前期的地质、地球化学结果，将分别从以下三个不同的尺度分析矿区的成矿动力来源：
+
+(1) 从乌溪矿区的综合电磁法结果分析，可以初步推断矿区的成矿动力模型：磁异常表明岩浆可能来源于矿区东南部，而矿区中部的磁场不均匀区域推测为后期热液蚀变造成的；极化率结果显示矿区中间存在大面积的高极化率异常带，推测为岩体和热液活动形成的矿化蚀变沿断裂形成的矿化带；电阻率测深结果进一步描述了矿区深部存在的低电阻率异常带，同时与高极化异常带位置基本一致.因此推测岩浆热液来源于深部，以区内存在的大量断裂裂隙为活动空间上侵进入浅层.单纯的岩浆活动不足以解释磁异常与极化率/电阻率异常的分布特征，因此推测区内存在岩浆期后热液活动.热液活动范围主要在极化率异常范围附近，并没有到达之前的岩浆活动的边界，因此区内可能存在未蚀变岩体，磁异常结果可以验证这一推测.同时岩心钻探结果表明在高极化区域深部在岩浆普遍存在隐爆角砾岩和岩石物性测试结果都能证明区内存在热液活动.热液聚集过程中在深部形成压力和温度的增大，从而为引爆作用的发生提供了动力来源，热液上侵过程中对围岩进行蚀变改造和矿物富集，在成矿有利空间金属矿物沉积成矿.
+
+(2) 对于矿区内岩浆热液来源及其动力学背景，可以从区域地质方面进一步讨论.对矿区周围岩体的成矿专属性分析、岩石学分析和地球化学特征分析表明，榔桥岩体为区域内主要赋矿围岩.对矿区内出露花岗斑岩以及钻孔样品年代学测定结果表明，榔桥岩体成岩时代与乌溪矿区岩体的形成时代基本一致，分别为139.6±1.7 Ma(ZK7301)、137.3±1.6 Ma(ZK7001)、137.3±1.1 Ma(10WX-1)，推测榔桥岩体与矿区斑岩脉属于同期岩浆作用(李双等，2015)，这期岩浆活动为皖南地区普遍的多金属矿化期.区域内分布多条深大断裂，其中北北东向汤口断裂束切割整个榔桥岩体并从矿区穿过，为岩浆和成矿流体提供了充分的运移通道和赋存空间，有利于金属矿的形成(李双等，2012).
+
+(3) 榔桥岩体为中生代岩浆活动，而华南普遍存在大规模中生代岩浆作用和成矿作用.国内对华南中生代岩浆作用已经进行了大量的研究，中生代发生的大规模岩浆活动，使得华南从南到北形成了三条形成时代渐新的成矿带，而从成矿矿物的种类来看，华南成矿带明显类似于南美俯冲作用所引起的成矿分带，因此对于榔桥岩体的动力学背景可以用洋脊俯冲假说来解释.
+
+综上所述乌溪矿区的成矿动力学模型基本可以概括为：太平洋板块在中生代(125~140 Ma)时向南西方向俯冲，而依泽纳吉板块则向北北西方向俯冲，两个板块的剪切作用方向与同时期中国东部近南北向盆地拉张的力学性质是耦合的.拉张造成岩石圈减薄，软流圈卸载上涌，发生减压部分熔融.熔体上涌时先将古老岩石圈地幔中易熔的富集组分熔融(Ling et al.，2009；Sun et al.，2010)，从而形成这一时期大规模岩浆活动和岩浆的富集特征.榔桥岩体是华南中生代岩浆活动中的其中一个岩浆事件.与榔桥岩体相关的岩浆活动受到区内汤口断裂的控制，在岩浆上侵过程中到达矿区范围，并在区内可能存在的断裂空间内结晶分异和矿物富集成矿.通过综合电磁法结果推测矿区范围内在岩浆作用下的成矿物质的运移方向.磁场分布反映了岩浆的运移方向为从矿区南侧深部沿着深部断裂到达北侧的浅部，在深部结晶分异并固结成岩.而区内反映矿体赋存空间位置的极化率异常和电阻率异常表明，矿体可能分布的矿区正中，呈北东向分布.而这一结果用与磁场分布存在明显差异，用岩浆活动不能很好的解释极化率和电阻率异常，因此推测矿区内存在后期的热液活动.而由于前期的岩浆活动的结晶分异和固结成岩，造成深部断裂裂隙减少，随着热液不断上涌，在深部由于热液所形成的压力增大，在区内构造应力的诱发下会发生大量的隐爆作用.而隐爆作用发生的的同时，深部热液的温压都急剧下降，这种作用对于成矿非常有利.
+
+4 深部成矿机制与钻孔验证
+根据矿区的前期地质工作，矿区内主要出露地层为志留系举坑组、泥盆系五通组、石炭系中下统和第四纪全新统，地层倾角较大.区内发育一组北东向断裂构造，控制着区内花岗斑岩的分布，同时区内矿化蚀变也受这组断裂控制.从而推测区内不仅存在热液活动，前期还存在岩浆侵入.测区位于榔桥岩体北侧，区内出露的花岗斑岩脉可以认为是榔桥岩体的分支，区内出现的矿化蚀变可以推测为岩浆期后热液活动对围岩的改造.
+
+根据三种电磁方法的综合结果分析，测区深部较低电阻率范围较表层大，热液从深部进入，由于温度压力较高，可能发生强烈的隐爆作用，从而使深部发育较强矿化蚀变.由于蚀变使花岗岩类岩石磁性减弱，同时热液活动有可能形成磁黄铁矿，因此出现磁场的不均匀分布.随着热液向上运移，温度压力降低，使热液开始沿区内的断裂构造分布，在不同的位置不同的围岩内形成不同的蚀变和矿化，因此浅层电阻率异常分布基本与断裂走向一致.而在远离岩体且没有明显断裂活动的位置(小号点)，热液的作用未能将围岩蚀变和改造，因此还保持了早期岩性，没有明显的电磁异常.综合结果表明，磁场从北向南逐渐减小的原因并不是由于岩体埋深增加，而是由于蚀变作用使相应的磁性物质的磁性减弱.
+
+根据地质地球物理资料，选取成矿条件最有利的7000线(625点)和7300线(650点)进行钻探验证.7001孔深1250 m，7301孔深1000 m，深部岩层普遍矿化和强烈硅化，部分发育浸染状黄铁矿化，较好的证明了钻孔高极化率的特征.从电阻率和钻孔叠加图上看(图 8)，电阻率分布特征与区内岩性分布基本一致，钻探结果进一步证明区内地表矿化不明显，整体电阻率较高，岩体相对其他岩石表现为高阻特征，矿化能够明显的降低岩层电阻率.
+
+点击查看原图	
+图 8 电阻率剖面 & 钻孔叠加图
+Fig. 8 Resistivity profile and drilling holes superposition
+从7301钻孔结果(图 9)可以看到，花岗斑岩以脉体的形式侵入到上覆志留系地层的砂岩、粉砂岩中，岩脉普遍伴生黄铁矿化，岩脉附近泥化破碎带内多金属矿物更加富集.浅部发育青磐岩化、绢云母化，往深部各类岩石强烈蚀变，同时岩心节理发育，节理面普遍存在矿化，深部断续可见隐爆角砾岩和碳酸盐化，说明在深部存在强烈的热液活动.从地下400 m深度开始，岩石普遍发育黄铁矿化、铅锌矿化，随着深度增加出现黄铜矿化，从900 m位置出现明显的铜、钼矿化，950 m开始发育含辉钼矿的花岗斑岩(见图 10).
+
+点击查看原图	
+图 9 乌溪矿区7301钻孔地质图(李双等，2015)
+Fig. 9 7301 Drilling geological colamns in Wuxi(Li et al.，2015)
+点击查看原图	
+图 10 乌溪矿区7301孔蚀变岩及矿化照片(959~966 m)
+Fig. 10 Rock alteration and mineralization of 7301 drilling in Wuxi(959~966 m)
+地球化学分析结果显示不管从岩石年代学还是岩石成因学分析都显示乌溪矿区花岗斑岩和榔桥岩体属于同一岩浆活动.乌溪成矿花岗斑岩钻孔样品以及地表出露岩体的锆石定年结果一致，分别为139.6±1.7 Ma(ZK7301)、137.3±1.6 Ma(ZK7001)、7137.3±1.1 Ma(10WX-1)，表明该岩体形成时代为早白垩世.同时钻孔结果显示花岗斑岩脉明显受到后期热液活动的蚀变，出现强烈的岩石破碎和泥化，泥化带矿化明显，因此推测研究区主要成矿期并不是岩浆活动期，而是岩浆期后热液活动期.
+
+因此综合各种地质地球物理资料结果，可以推测矿区深部的成矿机制：
+
+(1) 测区早期存在岩浆活动，岩浆沿断裂上侵，在岩体周围形成较弱的围岩蚀变，并且有少量成矿物质的代入.根据断裂的走向，推测除了地表出露的花岗斑岩脉，在测区北侧磁场值较高区域有大量岩浆侵入，在浅层形成隐伏岩体.
+
+(2) 区内存在强烈的热液活动，地表热液活动主要在断裂及其附近，并且存在一定的顺层侵入，推测深部低阻区域存在较大范围的围岩蚀变和矿化空间.同时隐爆角砾岩的出现表明深部存在强烈的隐爆作用，胶结物中发育网脉状铅锌矿，说明隐爆作用有利于矿物沉积.
+
+(3) 乌溪金矿矿区内发育的大量断裂构造为成矿流体提供了充分的运移通道，岩浆热液主要沿通道活动，虽然在深部可以通过隐爆作用形成热液的通道，但是随着热液运移，温压条件不断降低，在没有断裂活动的位置则保存较为原始的围岩.推测小号线整体为沉积层，大号线较好的保存了前期岩浆活动形成的岩体.
+
+(4) 钻孔结果表明区内浅部发育青磐岩化和绢云母化，深部发育强烈蚀变斑岩和Cu-Pb-Zn矿化，结合地球物理结果，在矿区深部应大范围的发育蚀变斑岩和矿化，因此初步判定乌溪矿区为斑岩型多金属矿床.
+
+进一步的野外勘测以及地球化学工作将对乌溪矿区及周边探矿和找矿工作具有重要的指示意义.
+
+5 结论
+5.1 在研究区使用激发极化法、地面磁测和CSAMT电阻率测深法，能对地表矿化作用的分布、磁性异常地层分布和深部地层的电阻率分布有一个整体的和立体的描述.结合已知的地表地质、地球化学、地表矿化点和地表斑岩脉的分布等信息，可以推断地下深部隐伏有含矿的斑岩体.根据这一思路和地球物理探测结果布设的两个钻井，揭露了隐伏的斑岩体矿体的存在，验证了推断正确性和地球物理方法的有效性.这一套思路和地球物理勘探方法，可以在皖南和长江中下游类似的条件下借鉴使用.
+
+5.2 通过综合电磁方法的应用，揭示了矿区内岩体和蚀变的分布特征及相互关系，进一步推测成矿物质运移方向和深部成矿机制.结合地球化学和钻孔地质资料，推测研究区主要成矿期并不是岩浆活动期，而是岩浆期后热液活动期.因此远离榔桥岩体的高磁异常对应的高阻体推测为前期岩浆活动的产物.
+
+5.3 钻井验证研究区深部成矿受斑岩控制，矿床类型为斑岩型铜(钼金)矿床.后期热液活动将围岩和前期岩浆活动产物进一步蚀变，使成矿物质进一步富集，从而深部形成大面积的低阻异常区域，同时与地面极化率异常较好对应.根据岩体的极化率和低阻体的规模推断，乌溪矿区是一个极其有利的斑岩型铜(钼金)成矿远景区，这也进一步扩大了有俯冲作用形成的华南成矿分带中斑岩型铜矿的可能范围，有利于引导华南的区域成矿地质研究.
+
+致谢
+中国科技大学邓江红博士和中科院广州地球化学研究所孙赛君博士，在论文写作过程中提供了相关地质和地球化学资料；中科院地质与地球物理研究所王若老师和王妙月老师在文章修改过程中提出了许多宝贵的修改建议；审稿人提出了多处中肯的建议，对文章做出了有益的贡献，在此一并致以衷心的感谢.
+
+参考文献
+Bastani M, Malehmir A, Ismail N, et al. 2009. Delineating hydrothermal stockwork copper deposits using controlled-source and radio-magnetotelluric methods:A case study from northeast Iran. Geophysics , 74 (5) : B167-B181. DOI:10.1190/1.3174394
+Chen Y L, Han K, Chen Y X, et al. 2015. The application of CSAMT in Karst collapse investigation. Progress in Geophysics (in Chinese) , 30 (6) : 2616-2622. DOI:10.6038/pg20150620
+Cooke D R, Hollings P, Walshe J L. 2005. Giant porphyry deposits:characteristics, distribution, and tectonic controls. Economic Geology , 100 (5) : 801-818. DOI:10.2113/gsecongeo.100.5.801
+Cui M L, Zhang B L, Liang G H, et al. 2010. The technical combination of comprehensive geophysical prospecting in the Molybdenum mines with loess-covered:A case study at the shapoling Molybdenum mine. Progress in Geophysics (in Chinese) , 25 (2) : 602-611. DOI:10.3969/j.issn.1004-2903.2010.02.033
+Deng J Z, Chen H, Yin C C, et al. 2015. Three-dimensional electrical structures and significance for mineral exploration in the Jiujiang-Ruichang District. Chinese J. Geophys. (in Chinese) , 58 (12) : 4465-4477. DOI:10.6038/cjg20151211
+Ding G M, Zhu Z Q, Chang R F, et al. 2015. Application of integrative geophysical methods to predicting deep ore body in Yechangping molybdenum deposit, Henan province. Progress in Geophysics (in Chinese) , 30 (1) : 325-331. DOI:10.6038/pg20150147
+Hao T Y, Jiang W W. 1998. Application of comprehensive geophysical methods in looking for hidden gold mine in Bailidian region. Acta Geophysica Sinica (in Chinese) , 41 (S1) : 404-413.
+Li D Q, Di Q Y, Wang G J, et al. 2008. Fault detection by CSAMT and its application to new district planning in Beijing. Progress in Geophysics (in Chinese) , 23 (6) : 1963-1969.
+Ling M X, Wang F Y, Ding X, et al. 2009. Cretaceous ridge subduction along the Lower Yangtze River Belt, eastern China. Economic Geology , 104 (2) : 303-321. DOI:10.2113/gsecongeo.104.2.303
+Liu S A, Li S G, He Y S, et al. 2010. Geochemical contrasts between early Cretaceous ore-bearing and ore-barren high-Mg adakites in central-eastern China:Implications for petrogenesis and Cu-Au mineralization. Geochimica et Cosmochimica Acta , 74 (24) : 7160-7178. DOI:10.1016/j.gca.2010.09.003
+Lou D B, Song G X, Li N, et al. 2008. The application of magnetic method in national mineral prediction. Progress in Geophysics (in Chinese) , 23 (1) : 249-256.
+Lv Q T, Dong S W, Tang J T, et al. 2015. Multi-scale and integrated geophysical data revealing mineral systems and exploring for mineral deposits at depth:A synthesis from SinoProbe-03. Chinese Journal of Geophysics (in Chinese) , 58 (12) : 4319-4343. DOI:10.6038/cjg20151201
+Shao L S, Liu Z D, Lv Q T, et al. 2015. Deep fine structure of Guichi Ore concentrated area:The understanding of the integrated geophysical detection results. Chinese Journal of Geophysics (in Chinese) , 58 (12) : 4490-4504. DOI:10.6038/cjg20151213
+Smith R. 2014. Electromagnetic induction methods in mining geophysics from 2008 to 2012. Surveys in Geophysics , 35 (1) : 123-156. DOI:10.1007/s10712-013-9227-1
+Sun W D, Xie Z, Chen J F, et al. 2003. Os-Os dating of copper and molybdenum deposits along the middle and lower reaches of the Yangtze River, China. Economic Geology , 98 (1) : 175-180.
+Sun W D, Ding X, Hu Y H, et al. 2007. The golden transformation of the Cretaceous plate subduction in the west Pacific. Earth and Planetary Science Letters , 262 (3-4) : 533-542. DOI:10.1016/j.epsl.2007.08.021
+Sun W D, Ling M X, Yang X Y, et al. 2010. Ridge subduction and porphyry copper-gold mineralization:An overview. Science China-Earth Sciences , 53 (4) : 475-484. DOI:10.1007/s11430-010-0024-0
+Sun W D, Liang H Y, Ling M X, et al. 2013. The link between reduced porphyry copper deposits and oxidized magmas. Geochimica Et Cosmochimica Acta , 103 : 263-275. DOI:10.1016/j.gca.2012.10.054
+Sun B, Li T L, Li H, et al. 2015. Study on the sounding of CSAMT. Progress in Geophysics (in Chinese) , 30 (2) : 836-839. DOI:10.6038/pg20150247
+Sun X G, Liu J M, Liu H T, et al. 2007. The application of integrated geophysical prospecting method to the evaluation of Haolibao copper deposits. Progress in Geophysics (in Chinese) , 22 (6) : 1910-1915.
+Tang J T, Liu Z J, Liu F Y, et al. 2015. The denoising of the audio magnetotelluric data set with strong interferences. Chinese Journal of Geophysics (in Chinese) , 58 (12) : 4636-4647. DOI:10.6038/cjg20151225
+Wan H P, Xu G L, Yu X, et al. 2015. The geophysics evaluation on granite type of high-level radioactive waste disposal repository——taking Aqishan potential site as an example. Progress in Geophysics (in Chinese) , 30 (6) : 2778-2784. DOI:10.6038/pg20150642
+Wang F Y, Liu S A, Li S G, et al. 2013. Contrasting zircon Hf-O isotopes and trace elements between ore-bearing and ore-barren adakitic rocks in central-eastern China:implications for genetic relation to Cu-Au mineralization. Lithos , 156-159 : 97-111. DOI:10.1016/j.lithos.2012.10.017
+Wang R, Yin C C, Wang M Y, et al. 2014. CSAMT sensitivity analysis for 1D models. Progress in Geophysics (in Chinese) , 29 (3) : 1284-1291. DOI:10.6038/pg20140339
+Wang X Y, Tang J T, Zhang L C, et al. 2015. Lithospheric electrical structure in the middle and lower reach of Yangtze River metallogenic belt inferred from magnetotelluric sounding. Chinese Journal of Geophysics (in Chinese) , 58 (12) : 4403-4414. DOI:10.6038/cjg20151206
+Wu G X. 2007. High accuracy magnetic prospecting on earth surface in gold mine exploration——Take the Shisangongli exploring area out of Wulaga gold deposit in Heilongjiang province as an example. Progress in Geophysics (in Chinese) , 22 (5) : 1637-1641.
+Xu X Q, Su L J, Liang S Q. 2015. A review of geophysical detection methods of landslide structure characteristics. Progress in Geophysics (in Chinese) , 30 (3) : 1449-1458. DOI:10.6038/pg20150361
+Yang Z W, Yan J Y, Chen X B. 2013. The application of spectral induced plarization in Shaxi porphyry copper in Anhui Province. Progress in Geophysics (in Chinese) , 28 (4) : 2014-2023. DOI:10.6038/pg20130445
+Yu C M. 1998. The application of CSAMT method in looking for hidden gold mine. Acta Geophysica Sinica (in Chinese) , 41 (1) : 133-138.
+Zhang G Z, Zhou L G, Wang Y H. 2015. Application of integrated electrical mathods to silver lead-zinc mine zone of Chaaobao in Inner Mongolia. Progress in Geophysics (in Chinese) , 30 (2) : 867-871. DOI:10.6038/pg20150252
+Zhang K, Yan J Y, Lv Q T, et al. 2015. The study of upper crust electrical structure in Ningwu and adjacent area. Chinese Journal of Geophysics (in Chinese) , 58 (12) : 4505-4521. DOI:10.6038/cjg20151214
+Zhang Z, Liu J M, Yu C M, et al. 2013. Application of integrated geophysical prospecting methods in the evaluation of BIF deposits-a case study in Inner Mongolia Aohanqi Sijiazi BIF deposits. Progress in Geophysics (in Chinese) , 28 (4) : 2078-2084. DOI:10.6038/pg20130452
+Zhou C, Tang J T, Ren Z Y, et al. 2015. Application of the Rhoplus method to audio magnetotelluric dead band distortion data. Chinese Journal of Geophysics (in Chinese) , 58 (12) : 4648-4660. DOI:10.6038/cjg20151226
+安徽省地质矿产局. 安徽省区域地质志. 北京: 地质出版社, 1987 .
+陈伟军, 刘红涛, 刘建明, 等. 2008. 隐伏矿床定位预测常用的综合物化探方法. 有色矿冶 , 24 (2) : 2–7.
+陈玉玲, 韩凯, 陈贻祥, 等. 2015. 可控源音频大地电磁法在岩溶塌陷勘察中的应用. 地球物理学进展 , 30 (6) : 2616–2622. DOI:10.6038/pg20150620
+崔敏利, 张宝林, 梁光河, 等. 2010. 黄土覆盖区钼矿综合地球物理找矿技术组合:以沙坡岭钼矿为例. 地球物理学进展 , 25 (2) : 602–611. DOI:10.3969/j.issn.1004-2903.2010.02.033
+邓居智, 陈辉, 殷长春, 等. 2015. 九瑞矿集区三维电性结构研究及找矿意义. 地球物理学报 , 58 (12) : 4465–4477. DOI:10.6038/cjg20151211
+丁高明, 朱自强, 常荣凤, 等. 2015. 综合物探法在河南夜长坪钼矿深部找矿预测中的应用. 地球物理学进展 , 30 (1) : 325–331. DOI:10.6038/pg20150147
+郝天珧, 江为为. 1998. 综合地球物理方法在山东百里店地区找寻隐伏金矿中的应用. 地球物理学报 , 41 (S1) : 404–413.
+何继善. 双频激电法. 北京: 高等教育出版社, 2006 .
+兰学毅, 周存亭, 王建伟, 等. 2012. 安徽省重力异常特征分区与地质构造单元划分. 安徽地质 , 22 (1) : 1–8.
+李帝铨, 底青云, 王光杰, 等. 2008. CSAMT探测断层在北京新区规划中的应用. 地球物理学进展 , 23 (6) : 1963–1969.
+李双, 孙卫东, 杨晓勇, 等. 2012. 乌溪金矿蚀变分带及元素地球化学特征. 地球科学进展 , 27 (S1) : 34–35.
+李双, 杨晓勇, 孙卫东, 等. 2014. 皖南泾县榔桥岩体锆石U-Pb定年、Hf同位素和地球化学特征及其找矿指示意义. 地质学报 , 88 (8) : 1561–1578.
+李双, 孙赛军, 杨晓勇, 等. 2015. 皖南乌溪斑岩型金矿床赋矿侵入岩体的岩石地球化学及年代学研究. 大地构造与成矿学 , 39 (1) : 153–166.
+刘琛琛, 杨钱江. 2012. 安徽省泾县乌溪金矿地质特征及控矿因素浅析. 科技视界 , 210 (25) : 343–344.
+刘惠华. 2003. 乌溪金矿成矿后期构造分析在坑道探矿中的作用. 西部探矿工程 , 15 (9) : 65–66.
+刘惠华, 朱宁. 2004. 皖南泾县乌溪地区金矿成矿条件分析. 安徽地质 , 14 (1) : 30–32.
+柳建新, 刘春明, 佟铁钢, 等. 2004. 双频激电法在西藏某铜多金属矿带的应用. 地质与勘探 , 40 (2) : 59–61.
+娄德波, 宋国玺, 李楠, 等. 2008. 磁法在我国矿产预测中的应用. 地球物理学进展 , 23 (1) : 249–256.
+卢焱, 李健, 白雪山, 等. 2008. 地面磁法在隐伏铁矿勘查中的应用-以河北滦平Ⅱ号铁矿为例. 吉林大学学报(地球科学版) , 38 (4) : 698–702.
+吕庆田, 董树文, 汤井田, 等. 2015. 多尺度综合地球物理探测:揭示成矿系统、助力深部找矿——长江中下游深部探测(SinoProbe-03)进展. 地球物理学报 , 58 (12) : 4319–4343. DOI:10.6038/cjg20151201
+邵陆森, 刘振东, 吕庆田, 等. 2015. 安徽贵池矿集区深部精细结构——来自综合地球物理探测结果的认识. 地球物理学报 , 58 (12) : 4490–4504. DOI:10.6038/cjg20151213
+时彬. 2012. CSAMT在深部矿产勘查中的研究与应用[硕士论文]. 长春:吉林大学. http://www.oalib.com/references/18450175
+孙博, 李桐林, 李鹤, 等. 2015. 可控源音频大地电磁测深法勘查深度研究. 地球物理学进展 , 30 (2) : 836–839. DOI:10.6038/pg20150247
+孙兴国, 刘建明, 刘洪涛, 等. 2007. 综合物探方法在好力宝铜矿床的应用. 地球物理学进展 , 22 (6) : 1910–1915.
+谭章坤. 2013. CSAMT在深部勘探中的效果研究[硕士论文]. 成都:成都理工大学. http://www.oalib.com/references/18450180
+汤井田, 刘子杰, 刘峰屹, 等. 2015. 音频大地电磁法强干扰压制试验研究. 地球物理学报 , 58 (12) : 4636–4647. DOI:10.6038/cjg20151225
+万芬, 王光杰, 杨晓勇, 等. 2014. 皖南云岭金矿地球物理找矿模型. 地球科学与环境学报 , 36 (1) : 185–192.
+万芬. 2014. 皖南乌溪金矿综合地球物理方法找矿模式研究[硕士论文]. 武汉:中国地质大学(武汉).
+万汉平, 徐贵来, 喻翔, 等. 2015. 花岗岩型高放废物处置库选址中的地球物理评价——以新疆阿奇山地段候选场址为例. 地球物理学进展 , 30 (6) : 2778–2784. DOI:10.6038/pg20150642
+王建伟, 李仁和, 胡开勇, 等. 2009. 安徽省磁场基本特征初析. 安徽地质 , 19 (4) : 268–271.
+王若, 殷长春, 王妙月, 等. 2014. CSAMT法一维层状介质灵敏度分析. 地球物理学进展 , 29 (3) : 1284–1291. DOI:10.6038/pg20140339
+王显莹, 汤井田, 张林成, 等. 2015. 长江中下游成矿带中段岩石圈电性结构研究. 地球物理学报 , 58 (12) : 4403–4414. DOI:10.6038/cjg20151206
+吴国学. 2007. 金矿勘查中的地面高精度磁法测量-以黑龙江乌拉嘎金矿外围十三公里勘查区为例. 地球物理学进展 , 22 (5) : 1637–1641.
+武炜, 张宝林, 梁光河, 等. 2009. 双频激电法在我国西部两类典型覆盖区金属矿体预测中的应用. 地质与勘探 , 45 (6) : 669–675.
+徐兴倩, 苏立君, 梁双庆. 2015. 地球物理方法探测滑坡体结构特征研究现状综述. 地球物理学进展 , 30 (3) : 1449–1458. DOI:10.6038/pg20150361
+杨振威, 严加永, 陈向斌. 2013. 频谱激电法在安徽沙溪斑岩铜矿中的应用. 地球物理学进展 , 28 (4) : 2014–2023. DOI:10.6038/pg20130445
+于昌明. 1998. CSAMT方法在寻找隐伏金矿中的应用. 地球物理学报 , 41 (1) : 133–138.
+张光之, 周立国, 王延浩. 2015. 综合电法在内蒙古查敖包银铅锌矿区的应用. 地球物理学进展 , 30 (2) : 867–871. DOI:10.6038/pg20150252
+张昆, 严加永, 吕庆田, 等. 2015. 宁芜火山岩盆地及邻区上地壳电性结构研究. 地球物理学报 , 58 (12) : 4505–4521. DOI:10.6038/cjg20151214
+张壮, 刘建明, 于昌明, 等. 2013. 综合地球物理方法在鞍山式铁矿勘查中的应用-以内蒙古敖汉旗四家子铁矿为例. 地球物理学进展 , 28 (4) : 2078–2084. DOI:10.6038/pg20130452
+赵永利, 史春旺, 刘惠华. 2013. 安徽省泾县乌溪金矿地质特征及控矿因素. 西部探矿工程 , 25 (8) : 106–108.
+周聪, 汤井田, 任政勇, 等. 2015. 音频大地电磁法"死频带"畸变数据的Rhoplus校正. 地球物理学报 , 58 (12) : 4648–4660. DOI:10.6038/cjg20151226

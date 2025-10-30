@@ -1,0 +1,183 @@
+利用地球物理方法探测火山沉积型硼矿——在西藏阿里地区的应用
+宋丽蓉1,2,3songlirongs@163.com, 于常青1 通讯作者yucq@tom.com, 郑绵平4, 陈文西4, 王永智5, 何俊杰6, 李桂花3, 钱鹏1,7     
+摘要: 火山沉积型硼矿形成于新近纪特定的火山+湖相沉积环境条件下，含硼地层具有含硼湖相沉积岩与凝灰岩、安山岩等火山岩互层的多旋回二元沉积结构的特点.由于硼酸盐矿物的沉积发生多在沉积后期，通常与凝灰岩、粘土、灰岩等互层沉积，因此形成的硼矿层具有低密度、低电阻率的特征.针对硼矿层的这种特征，采用综合地球物理技术进行探测.在西藏雄巴地区，首先进行了1:5万高精度重力勘探，获得了研究区的布格重力异常，通过对重力资料的处理分析，获取了研究区的断裂构造发育和重力异常变化，推断了地下地层岩性空间变化特点并圈定出火山沉积型硼矿的发育有利区；在此基础上对有利区域进行了1:5000音频大地电磁测深，获得了研究区地下地层电性结构特征.通过对研究区电法数据的震电拟合及重力和大地电磁资料联合反演并与研究区地质资料相结合，进一步分析了该区地层构造、断裂体系、沉积单元与火山沉积型硼矿的形成关系，并对该区火山沉积型硼矿的分布进行了预测，最终钻探验证结果与预测结果基本一致.
+关键词: 火山沉积型硼矿      二元结构      综合地球物理探测      震电拟合      重电联合反演      钻探验证     
+Exploration of volcanosedimentary boron deposit by geophysical methods——application in the Ngari area, Tibet
+SONG Li-Rong1,2,3songlirongs@163.com, YU Chang-Qing1Corresponding authoryucq@tom.com, ZHENG Mian-Ping4, CHEN Wen-Xi4, WANG Yong-Zhi5, HE Jun-Jie6, LI Gui-Hua3, QIAN Peng1,7     
+Abstract: Volcanosedimentary boron deposits are formed in specific volcano and lake facies deposition environment in Neogene period, and the characteristic of the boron bearing stratum is the containing boron lacustrine sedimentary rocks and tuff and andesite volcanic rocks interbedded cyclically and composed binary sedimentary structure. As the borate mineral deposition occurred in the late deposition period, usually associated with tuff and clay and limestone, so the formed boron deposits had the characteristics of low density, low electrical resistivity. According to the characteristic of the boron deposits, we employ comprehensive geophysical technology in the exploration. We firstly conducted the 1:50000 high-precision gravity survey in the Xiongba area, Tibet, and obtain the Bouguer gravity anomalies. Through the processing and analysis of the gravity data, we got access to the fault structures development and gravity anomaly changes in the study area, deduced the spatial variation characteristics of underground lithology and delineated the favorable mining area of volcanosedimentary boron deposits; based on that, the 1:5000 audio magnetotelluric sounding is carried out on the favorable area and the electrical structure characteristics of the underground strata in the study area are obtained. Combining the seismic-electric fitting of the electrical data, the joint inversion of gravity and electricity data and the geological data in the study area, we further analyzed stratum structure, fracture system and the distribution of sedimentary rocks and their relation to the volcanosedimentary boron deposits. Then we predicted the distribution of the volcanosedimentary boron deposits, the drilling test results are basically consistent with the predicted results.
+Key words: Volcanosedimentary boron deposits      Binary sedimentary structure      Comprehensive geophysical exploration      Seismic-electric fitting technology      Joint inversion of gravity and electricity data      Drilling verification     
+1 引言
+全球火山沉积型硼矿床绝大部分分布在两个成硼带中，即：科迪勒拉—安第斯南北向成硼带和阿尔卑斯—喜马拉雅东西向成硼带 (奥佐尔，1987；郑绵平，1987；赵晓等，1998；曹开春等，1999).西藏雄巴地区位于阿尔卑斯—喜马拉雅东西向世界级成硼带的东段，如图 1所示，与土耳其火山沉积型硼矿成矿区相比，二者在火山-构造-沉积-环境等方面都具有一致性1)(郑绵平，1987；赵晓等，1998；曹开春和贺孟清，1999).2005年，郑绵平院士带队在该区发现了湖相沉积+火山沉积的二元结构地层以及硼矿露头等火山沉积型硼矿的找矿标志1)(郑绵平和李喜芳，2010).在本项目之前，国内外针对火山沉积型硼矿的探测主要是采用地质踏勘、露头分析及钻探方法，尚未见到利用地球物理方法探测的文献和实例.研究分析表明：硼矿层具有低密度、低电阻率的物理特征，我们在研究区进行了500 km2的1 : 5万的高精度重力勘探和30 km的1 : 5000音频大地电磁测深，如图 2所示.目的在于分析该区地层单元的沉积特征、构造发育并预测火山沉积型硼矿的空间展布.通过对重、电资料的处理并与研究区地质资料相结合，探索并预测了有利于火山沉积型硼矿形成的异常分布区和空间展布.通过钻探在260 m处钻遇含硼矿化层，既验证了预测结果，也检验了利用地球物理手段寻找硼矿床的有效性.
+
+1) 郑绵平，齐文，李金锁等.2009.地质调查项目成果报告——青藏高原火山沉积硼矿成矿条件与找矿标志研究成果报告.
+
+点击查看原图	
+图 1 全球火山沉积硼矿床与成矿分布略图1)
+(1) 新生代以来一直在活动的大陆裂谷和洋中脊；(2) 古近纪—新近纪或至第四纪被吸收的板块边缘；(3) 转换断层；(4) 性质和位置不确定的板块边缘；(5) 科迪勒拉—安第斯南北向成硼带 (Ⅰ-Ⅱ)；(6) 阿尔卑斯—喜马拉雅东西向成硼带 (Ⅲ-Ⅴ).
+Fig. 1 Global volcano sedimentary boron deposits and mineralization distribution map 1)
+(1) Active continental rift and mid oceanic ridge since the Cenozoic; (2) Absorbed plate edge from Paleogene to Neogene and Quaternary; (3) Conversion fault; (4) The plate edgeof nature and location are not identified; (5) The Cordillera—an Andean boron belt of north and south (Ⅰ-Ⅱ); (6) The Alps-Himalaya boron belt of east to West (Ⅲ-Ⅴ).
+点击查看原图	
+图 2 野外地球物理数据采集平面
+黑色为重力采集测点，红色为电法采集测点.
+Fig. 2 Plan of field geophysical data acquisition
+Black stands for gravity collection point. Red stands for electrical collection point.
+2 区域构造及成矿地质背景
+研究区位于青藏高原西南部的西藏阿里地区革吉县，属环球纬向特提斯造山系的东部——阿尔卑斯—喜马拉雅巨型构造带东段，地处班公错—怒江结合带西段，北达羌塘—昌都复合微陆块，南跨冈底斯—念青唐古拉微陆块的三个一级构造单元，如图 3所示.区内主体构造呈明显的近东西向延伸，反映了南北挤压的主地应力场的作用.南部的冈底斯火山－岩浆岩带是青藏高原最大的岛弧岩浆岩带，具有火山活动强度大、岩石类型多、旋回演化特征明显的特点，沿破碎带在古、新近纪的火山活动期产生大量火山灰物质及与火山活动伴生的含矿热泉和热液，为火山沉积型硼矿的形成提供了稳定的物质来源 (王翠芝等，2008；单福龙等，2015；王丛山等，2015)；沿研究区北部的班公—怒江缝合带发育一系列近平行的、走向东西、断面北倾呈叠瓦状排列的逆断层群，特别是自新生代以来，发育大量的剪切、走滑断块运动，形成了众多封闭的山间断陷湖盆，为火山沉积型硼矿的形成提供了物质运移通道和汇集空间.沉积后期除了接受碳酸盐、硼酸盐这些化学沉积之外，还与粘土、泥岩、灰岩, 尤其是凝灰岩等火山碎屑物质密切伴生，使古、新近纪的沉积具有明显的旋回性和韵律性 (奥佐尔，1987；王培军，1996；曹开春等，1999；袁德丰等，2001).加之该区特有的严寒干燥的气候条件为火山沉积型硼矿成矿提供了有利的蒸发、沉积环境 (邵世宁和熊先孝，2010；王伟等，2013).
+
+点击查看原图	
+图 3 工作区及周边区域地质构造
+Fig. 3 Geological structure map in the working area
+3 地球物理资料处理解释及成矿预测
+3.1 重力资料的处理分析
+(1) 重力异常特征分析
+
+重力探测就是利用地下岩石的密度差异进而对地下构造和矿产进行探测 (曾华霖，2005)，硼矿层与围岩层的密度差异是进行重力勘探的基础，表 1为研究区地表露头采集的样品密度值，从表中可以发现，含硼地层的沉凝灰岩密度较低，与其他岩性存在明显密度差.从采集所获得的研究区重力异常图上可以看到全区的异常分布明显呈西南高东北低的走势，相应的形成一条北西-南东向的异常梯度带，将全区分为高异常 (-6~9 mGal) 和低异常 (-24~-7.5 mGal) 两个异常区，如图 4所示.通过对重力异常进行分离，得到研究区的剩余重力异常 (曾华霖，2005), 剩余重力异常可划分出全区的高低异常区的分布，反映出局部地质体的物性差异和沉积基底的变化，为分析预测火山沉积型硼矿的有利成矿区提供依据 (邓阳凡等，2010；Li et al.，2010).研究区内色卡执及东北部、扎不索淌嘎以南地区的重力低值异常特征明显，该重力低值区带可能与新生代沉积盆地关系接近，可以作为火山沉积型硼矿勘探的有利目标区，如图 5所示.
+
+点击查看表格内容	
+表 1 工区地表露头采集样品密度和电阻率测定值
+Table 1 Determination of outcrop sample density and resistivity
+点击查看原图	
+图 4 布格重力异常平面
+红色线为主异常梯度分界线，下同.
+Fig. 4 Bouguer gravity anomalies in the study area
+Red line is the dividing line of main anomaly gradient, the same below.
+点击查看原图	
+图 5 重力异常成矿预测分析
+A和B为地表出露的硼矿露头位置，蓝色线为六条电法测线位置.
+Fig. 5 Metallogenic prediction analysis diagram
+A and B are the boron ourcrops. Blue lines are the six audio magnetotelluric sounding lines.
+(2) 重力资料处理及解释
+
+为获取不同深度的重力异常分布情况，进而分析有利异常可能的深度位置，我们采用了重力延拓 (许德树和曾华霖，2000；Meng et al.，2009) 和小波变换 (杨文采等, 1978, 2001, 2015；侯遵泽和杨文采, 1997, 2011, 2012) 两种方法分别对重力异常进行了处理 (Song et al.，2015).两种处理方法得到的结果如下：
+
+从重力延拓和小波多尺度分析的结果来看，色卡执东北部 (格弄纳弄以北) 比其西南部 (扎不索淌嘎) 的重力低值异常范围大，且异常从浅到深都存在，异常特征更为突出，因此认为色卡执东北部 (格弄纳弄以北) 为一较大的封闭沉降区域，归为第一类的异常；研究区西南部 (扎不索淌嘎) 的低值异常可能是一个沉积洼陷或者低密度侵入体所致，归为第二类异常.综合分析各种因素，认为色卡执东北部区域重力负异常明显，负异常呈连续分布且面积较大，异常范围约60 km2(如图 5所示)，且在该区 (格弄纳弄以北) 在地表踏勘中见到硼矿露头，推测该区域目标层的埋深和厚度可能更大 (Song et al.，2015).最终选定在此区域进一步部署音频大地电磁测深工作 (图 5)，以进一步确定该区域的深部结构和火山沉积型硼矿的空间展布.
+
+3.2 电法资料的处理解释
+大地电磁测深依据的是地下岩石的电阻率差异 (李金铭，2005)，我们所寻找的硼矿所在的沉凝灰岩层与上下地层的电阻率差异是进行电磁测深的物理基础 (如表 1所示，沉凝灰岩电阻率相对上下地层存在明显差异).通过计算把频率域数据转化为电阻率与深度的关系，可以直观地表示地层在深度上的电阻率变化，即电阻率与地下地质结构的对应关系 (图 6a和b).该剖面反映地下介质的电性异常特征，可用来分析该区垂向地质结构和沉积构造的空间展布，为地质解释提供依据.根据电阻率的变化特征对可能发育的断裂进行的解释如图 6所示.
+
+点击查看原图	
+图 6 实测电阻率剖面
+红色阴影区γ为花岗岩侵入体.
+Fig. 6 Measured resistivity profiles
+The red shadow area γ is granite intrusion.
+根据地层的电阻率变化并结合地质露头以及物性标定等地质资料，我们把电阻率剖面纵向上分为4个电性层：Q、N1x、N—E+N和AnE，Q为地表低电阻层，N1x为一套薄层相对高阻层，N—E+N整体为低阻-次高阻层，基底为高阻.第四系只在AMT-01测线的54~82桩号，118~142桩号这两段之间、AMT-02测线的北段44~93桩号之间和AMT-05测线的桩号23以西的地表出露，厚度较薄，在几米到十几米之间不等，电阻率10~30 Ωm.N1x在剖面上表现为一套高阻薄层，AMT-01测线的105~115桩号之间、AMT-03测线的剖面中段和AMT-05测线的45~51桩号之间最厚，厚度最高达到50 m以上，电阻率10~80 Ωm，主要发育雄巴组火山岩.N—E+N地层在本区由一套低阻层N和一套次高阻层E+N组成，沉积较厚.低阻层主要发育沉凝灰岩等沉积火山碎屑岩和粘土、灰岩等湖相沉积岩，电阻率在5~60 Ωm，沉积厚度最高达到250 m以上，认为该层发育火山沉积型硼矿的可能性较大并将此划为目标地层；次高阻层的岩性主要也是火山碎屑岩、沉积碎屑岩和火山角砾岩，电阻率相比低阻层偏高，在60~300 Ωm之间.从整体来看AMT-01线、AMT-02线和AMT-03线的剖面显示目标地层异常洼陷具有南北薄、中间厚的特征，AMT-04线、AMT-05线和AMT-06线的剖面显示目标地层具有由南向北减薄的特征.AnE属于沉积基底，可能发育白垩纪的灰岩或火成岩，剖面上看基底埋深与N—E+N地层的沉积厚度具有相关性，沉积厚度越厚，基底埋深越深.此外，在AMT-05测线的37~58桩号处次高阻层发育有侵入岩，沿F6断裂出露地表，推断在与AMT-01测线相交的90~110桩号的深部也发育侵入岩，该侵入岩认为是白垩纪的酸性花岗岩.
+
+为了更好地体现异常的空间属性特征，我们还对所有6条电阻率剖面进行了三维立体显示，如图 7，从图上可以看到异常洼陷在空间上的展布特征，最明显的沉降区域位于AMT-01线和AMT-06线的交点区，此处凹陷曲率最大，目标地层沉积最厚，这是由于该凹陷带南北两侧的构造隆升形成的多条逆断层，特别是F2、F3两条逆断裂不仅利于岩浆活动，为火山沉积型硼矿的形成提供物源条件，也对该凹陷带起到了封堵作用，使其形成封闭的沉积环境，有利于含矿热液汇聚与沉积，使火山沉积型硼矿层在此区具有最有利的沉积条件，该区也被认为是火山沉积型硼矿沉积的最有利的异常区.
+
+点击查看原图	
+图 7 电阻率剖面立体显示图
+Fig. 7 Stereo display of resistivity profile
+3.3 综合地质地球物理分析
+(1) 构造特征分析
+
+工区内重力勘探面积远大于电法勘探面积，对于全区断裂分布特征解释以电法工区断裂分布特征为参考，基于剩余重力异常和水平总梯度异常 (王彦国，2010) 显示特征对全区的断裂分布特征进行解释，如图 8所示，工区内共解释断裂17条，以F1断裂为界，西部以NW向为主，东部以NE向为主.这些断裂不仅为含硼热液进入盆地提供通道也对硼矿层的沉积起到控制作用.
+
+点击查看原图	
+图 8 工区水平总梯度异常构造解释
+Fig. 8 Structure interpretation using horizontal total gradient modulus
+综合对比分析将F1断裂划为本区的主断裂，F2、F3、F3-1为次级断裂，其余断裂均为三级断裂，结合F1剖面立体图可以看到F2、F3两条逆断层的发育，也对沉降区域起到了封堵作用，控制了电性层的纵向厚度变化，对火山沉积型硼矿的形成具有决定性作用，F1、F2、F3主要断裂描述如下：
+
+F1断裂：走向NNW，倾向SWW，为一条贯穿全区的深大断裂.剩余重力异常 (图 5) 中显示为沿NNW方向分布的负异常带，其中发育了局部的重力正异常.该负异常带具宽度较大，其规模可见一斑，并且两侧发育的断裂走向相反，预测F1断裂形成时间早，断层活动持续时间长，规模大，以断裂带的形式存在.地质资料显示该断层为区域性断层，确定为工区内规模最大的断裂.
+
+F2断裂：整体走向近EW向，局部存在扭曲现象，倾向S的逆断层.重力上显示为等值线密集带 (图 5) 和线性异常带 (图 8)，南部整体显示为剩余重力高异常，北部为剩余重力低异常.局部异常发育，显示了小规模断块及走滑断层的错断作用，导致重力异常线等值线密集带及线性异常在局部存在一定扭曲.
+
+由东向西，断层依次穿过AMT-03、AMT-02和AMT-01测线，三条电阻率剖面上均可见断层显示：AMT-01测线剖面上显示为40号测点位置深部高阻异常断开及中浅层电阻率等值线小幅扭曲 (图 6a)，且浅部断层两侧低阻层厚度存在变化；AMT-02测线剖面上显示为36号测点位置中浅层电阻率等值线大幅扭曲 (图 6a)，断层两侧低阻层厚度变化剧烈，断层上盘地地层向浅部逆冲的特征非常明显；AMT-03测线上剖面显示为34号测点位置深部高阻异常断开 (图 6a).断层中段为F1断层切割，向西延伸出工区.断层西段和东段分别被F16和F15两条左行走滑断裂所错断.
+
+F3断裂：主体走向近EW向，倾向N，向西走向转变为NW向，倾向NE.重力上显示为等值线密集带，线性异常不甚明显，北部整体显示为剩余重力高异常，南部为剩余重力低异常 (图 5).东段为F3-1断裂，与F3性质相同，推测为F3断裂的组合断裂.
+
+断层两端均延伸出工区，由东向西断层依次穿过电法AMT-03、AMT-02、AMT-05和AMT-01测线，三条电法测线剖面上均可见断层显示：AMT-03测线剖面上显示为77号测点位置电阻率等值线明显扭曲及深部高阻异常断开 (图 6a)，上盘方向高阻地质体明显抬升，低阻层明显减薄；AMT-02测线剖面上显示为64号测点位置深部高阻异常断开 (图 6a)；AMT-05测线剖面上显示为54号测点位置深部高阻异常断开，及浅部电阻率等值线扭曲 (图 6b)，断层两侧低阻层发生明显错位，厚度变化极为明显；AMT-01测线剖面上显示为93号测点位置电阻率等值线扭曲 (图 6a).
+
+断层中段被F1断层切割，向西为F16左行错断.F16断层以西F3断层走向变化为NWW向.
+
+(2) 震电拟合精细处理
+
+利用重力、电法数据进行成图分析总是会受到分辨率低这一因素的限制，对于地下地层结构的划分还不够精确，特别是基底的埋深及成矿范围还只是猜测，若使用该数据对火山沉积型硼矿层进行成矿范围预测必将造成很大的误差.因此，本文采用震电拟合技术 (于常青和杨学立，2009) 对大地电磁剖面进行处理，根据地下岩石电阻率的差异，采用地震波阻抗分析处理的方法，对电阻率剖面进行拟地震波阻抗处理，得到分辨率较高的相对电阻率剖面.这是一种有效的提高大地电磁测深勘测精度的方法，通过这样的震电拟合处理，可以更有效的判断沉积物和沉积相类型，确定断裂、岩体、矿化体等隐伏地质体的深部空间分布和产状, 从而指导寻找深部及隐伏矿床.
+
+从震电拟合得到的高精度相对电阻率剖面 (图 9) 可以看到，无论在地下结构的分辨精度还是不同岩性的属性差异方面，相对电阻率剖面都比原有的电阻率剖面精度高，地质体的形态和盆地边界更为明确.从处理结果来看，剖面地层特征与原电阻率剖面特征基本一致，底部青色部分为沉积基底，分布稳定，与上覆绿色次高阻层间沉积界限明显，基底埋深较原电阻率剖面深度变浅，蓝线以上区域为目标层段，其坳陷的形态和展布特征更加清晰，地层的划分特别是浅层的划分更为精细，分辨率更高，为准确预测硼矿层的分布范围提供了依据.
+
+点击查看原图	
+图 9 AMT-01测线相对电阻率剖面
+淡黄色线为地表.
+Fig. 9 Relative resistivity profile of line AMT-01
+Pale yellow line represents the surface.
+(3) 重电联合反演
+
+根据震电拟合特殊处理的相对电阻率剖面进行分析并建立了地层模型，以地层密度界面和岩性为基础，通过这个地层模型进行重力正演模拟来交互论证，以达到重电联合反演的结果，进而获取符合测区地层结构变化的地质剖面.拟合结果如图 10所示，对最终论证得到的地层模型进行重力正演，其异常曲线与实测重力异常曲线基本一致，图中红色代表地层实测重力异常曲线，绿色代表模拟地层计算的重力异常曲线.
+
+点击查看原图	
+图 10 AMT-01测线重电联合反演拟合图
+蓝色部分为预测火山沉积型硼矿的成矿位置.
+Fig. 10 The fitting figure by joint inversion of gravity and electricity data in line AMT-01
+The blue part is the prediction metallogenic location.
+从拟合的地质剖面上看，地层沉积形态的空间展布特征更为清晰.由电阻率界面转为密度界面时，总体遵循岩石电阻率与密度变化对应关系，保持地层结构不变.剖面右侧的重力高异常中的局部低异常可由基底 (红色部分) 中的两处密度略低于围岩的花岗岩侵入体 (土黄色表示) 产生.由于在前述相对电阻率剖面的目标层上见到一层沉积较好的、且在原始电阻率剖面上呈低阻特征的明显凹陷带 (如图 9黑线与蓝线之间的黄色与黄绿色部分)，预测其可能是含有硼矿化层的沉凝灰岩层，因此，在模拟地层模型的目标层相应深度处夹有一套低密度的沉积层，其正演异常曲线也很好的符合了实测重力异常曲线的变化，表明该区地下确实存在一较大的低密低电阻率的封闭沉积体.从模拟结果可知，前述成矿有利异常区的AMT-01线和AMT-06线的交点 (如图 10蓝线所示位置处) 可能的含硼矿化层顶界深度为250 m左右，底界深度为300 m左右，火山沉积型硼矿位于该层中，沉积范围及厚度还需要通过钻孔信息进行验证.基底的埋深预测在350 m左右.
+
+(4) 预测与钻探验证结果对比分析
+
+综合上述资料的反演结果并结合该区的火山沉积型硼矿的区域成矿背景和地表踏勘情况，我们提出在一类异常区内的AMT-01和AMT-06相交附近部署一口钻探验证井，位置如图 11所示.
+
+点击查看原图	
+图 11 钻探部署位置
+红色星标为钻探部署位置.
+Fig. 11 Drilling deployment location
+Red star for drilling deployment location.
+钻孔岩心反映了地层的岩性，厚度、构造断裂等剖面地质信息，可对前述地层及成矿预测的结果进行对比分析.钻探验证井深420 m，岩心整体按岩性大致可分为6层：从上到下，依次是地表第四纪松散堆积物，厚度大约12 m；14~222 m为灰白、浅灰色的粗砂岩、含砾粗砂岩，砂砾成分主要为火山碎屑和火山角砾；223~236 m段发育浅红色含砾粗砂岩、泥砾岩，砾石为黑云母安山质角砾；237~284 m主要发育灰白色凝灰岩等火山碎屑岩，由于237~284 m该层的沉积以沉凝灰岩为主，泥质成分多，经测定，该层岩石的密度和电阻率都偏低 (密度为1.65~1.73 g·cm-3，电阻率为22~64 Ωm)，符合火山沉积型硼矿的成矿地质特征，确认该层为所寻找的目标层段，但实际厚度略薄于预测厚度.此外，在260~272 m硼试剂反应由紫红色变为蓝色，并且从下到上反应有依次增强的趋势，可能硼含量依次增高，认为该层段为含硼矿化异常段，位于目标地层内，与模拟地质剖面的预测结果一致；285~335 m为紫红色粉砂质泥砾岩，粒度由细变粗，砂砾成分来自火山碎屑和火山角砾，与14~221 m的岩性一致，说明了地层沉积的旋回性和韵律性，这正是有利于火山沉积型硼矿成矿地层的主要特征；336 m以下为肉红色斑状花岗岩，属于沉积基底，与预测埋深350 m相差不大，岩性与反演模型中的花岗岩侵入体相同，说明基底花岗岩分布稳定，范围较大.
+
+4 结论与建议
+(1) 重力异常特征和电阻率剖面特征可反映地层的构造、岩性、物性等方面的差异，为预测火山沉积型硼矿层的分布范围提供了前提.但重电勘探相比地震勘探的分辨率偏低，对沉积基底的准确预测证明了进行震电拟合精细处理的必要性，建议今后的矿产资源勘查可结合地震勘探的手段进行探测.
+
+(2) 含硼地层主要与凝灰岩，泥岩、灰岩等相伴生，具有低密度低电阻率的物性特征，所以在布格异常图和电阻率剖面上表现为低重力异常 (剩余异常值在-6~-1 mGal之间) 和低阻层 (电阻率主要在60 Ωm以下) 的特征.钻探结果证实了预测的结论，当然对于硼矿层的空间展布及地层结构还需要更多钻探数据的验证，建议日后的工作可结合该区的地层特征确定其他的钻探部署，以获得火山沉积型硼矿在空间上的展布特征.
+
+(3) 钻探结果证明了采用物探与地质相结合的方法来预测火山沉积型硼矿是正确的，证明了重电结合在寻找硼矿层中的有效性和可行性，建议今后在类似的矿产资源勘查采用综合地球物理方法进行探测.
+
+参考文献
+Cao K C, He M Q. 1999. Review of mineralization conditions for volcanic-sedimentary boron deposits in Turkey. Geology of Chemical Minerals, 21(2): 96-111.
+Deng Y F, Zhong Z J, Walter Mooney, et al.2014.Mantle origin of the Emeishan large igneous province (South China) from the analysis of residual gravity anomalies.LITHOS.
+Hou Z Z, Yang W C. 1997. Wavelet transform and multi-scale analysis on gravity anomalies of China. Chinese J.Geophys., 40(1): 85-95.
+Hou Z Z, Yang W C. 2011. Multi-scale inversion of density structure from gravity anomalies in Tarim Basin. Science in China (ser. D), 41(1): 29-39.
+Hou Z Z, Yang W C. Applications of wavelet multi-scale analysis. Beijing: Science Press, 2012.
+Li J M. Electric field and electrical prospecting. Beijing: Geological Publishing House, 2005.
+Li S L, Meng X H, Guo L H, et al. 2010. Gravity and magnetic anomalies field characteristics in the South China Sea and its application for interpretation of igneous rocks. Applied Geophysics, 7(4): 295-305. DOI:10.1007/s11770-010-0258-9
+Meng X H, Guo L H, Chen Z X, et al. 2009. A method for gravity anomaly separation based on preferential continuation and its application. Applied Geophysics, 6(3): 217-225. DOI:10.1007/s11770-009-0025-y
+Oz or, A .A. Sediments and volcaniosedimentary boron deposits. Beijing: Geological Publishing House, 1987.
+Shan F L, Chen W X, Wang C S. 2015. Relationship between Tertiary volcanic-sedimentary boron deposits and volcanic rocks. Science and Technology Information(7): 71-73.
+Shao S N, Xiong X X. 2010. Primary concentration areas and resource potential of boron deposits in China. Geology of Chemical Minerals, 32(2): 272-278.
+Song L R, Yu C Q, Li G H, et al. 2015. Characteristics of gravity anomalies and prediction of volcanosedimentary boron deposit distribution in the Xiongba area, Tibet. Applied Geophysics, 12(4): 516-522. DOI:10.1007/s11770-015-0524-y
+Wang C S, Chen W X, Zhang X, et al. 2015. Mineralization conditions and ore-search evidence for volcanic-sedimentary type boron deposits. Science and Technology Information(4): 54-55.
+Wang C Z, Xiao R G, Liu J D. 2008. Mineralization mechanism and model of boron deposits in eastern Liaoning Province. Earth Science-Journal of China University of Geosciences, 33(6): 813-824. DOI:10.3799/dqkx.2008.098
+Wang P J. 1996. A two-unit structural model of boron-bearing strara in boron deposits. Geology of Chemical Minerals, 18(3): 202-206.
+Wang W, Wang G, Zhao Y Y. 2013. Resource features and development of boron deposits in the Yanhu area of Tibet. Journal of Salt and Chemical Industry, 42(8): 10-12.
+Wang Y G.2010.High-precision normalized total gradient method of gravity and its application (in Chinese).Lilin University.
+Xu D S, Zeng H L. 2000. Preferential continuation method and its application to processing of Bouguer gravity anomalies in China. Geoscience, 14(2): 215-222.
+Yang W C, Guo A Y, Zhao J X, et al. 1978. Theory and methods for interpretation of gravity and magnetic anomalies in the frequencydomain. Bull Inst.Geophys.Geochem.Prospect, 78(2): 134-178.
+Yang W C, Shi Z Q, Hou Z Z, et al. 2001. Discrete wavelet transform for multiple decomposition of gravity anomalies. Chinese J.Geophys., 44(4): 534-541.
+Yang W C, Sun Y. Y, Hou Z Z, et al. 2015. An multi-scale scratch analysis method for quantitative interpretation of regional gravity fields. Chinese J.Geophys., 58(2): 520-531.
+Yu C Q, Yang X L.2009.Improve rock structure and attribute accuracy of seismic-electric fitting technology.China Geophysical Conference Proceedings(in Chinese).
+Yuan D F, Zhou Z D, Lu H G. 2001. Anomaly features of volcanic-sedimentary type boron deposits in the Shouchang basin of Zhejiang Province. Geology of Chemical Minerals, 23(4): 230-238.
+Zeng H L.2005.Gravity Field and Gravity Exploration (in Chinese).Beijing:Geological Publishing House.
+Zhao X, Wang Q L, Yuan J Z, et al. 1998. On mineralization conditions of volcanic-sedimentary boron deposits in Zhejiang and Fujian regions. Geology of Chemical Minerals, 20(4): 272-278.
+Zheng M P.1987.Boron deposit type and the direction of boron finding in China.Journal of Institute of mineral resources, Chinese Academy of Geological Sciences.
+Zheng M P, Liu X F. 2010. Hydrochemistry and minerals assemblages of salt lakes in the Qinghai-Tibet plateau, China. Acta Geological Sinica, 84(11): 1585-1600.
+Zheng M P, Qi W, Li J S, et al.2009.Result report of Geological survey project-Research report on metallogenic conditions and prospecting indicators of volcanosedimentary boron deposits on the Qinghai Tibet Plateau.
+曹开春, 贺孟清. 1999. 土耳其火山沉积硼矿床成矿条件综述. 化工矿产地质, 21(2): 96–111.
+侯遵泽, 杨文采. 1997. 中国重力异常的小波变换与多尺度分析. 地球物理学报, 40(1): 85–95.
+侯遵泽, 杨文采. 2011. 塔里木盆地多尺度重力场反演与密度结构. 中国科学 (D辑), 41(1): 29–39.
+侯遵泽, 杨文采. 小波多尺度分析应用. 北京: 科学出版社, 2012.
+李金铭. 地电场与电法勘探. 北京: 地质出版社, 2005.
+奥佐尔. 沉积和火山沉积硼矿. 北京: 地质出版, 1987.
+单福龙, 陈文西, 王丛山. 2015. 第三纪火山沉积硼矿与火山岩关系研究. 科技资讯(7): 71–73.
+邵世宁, 熊先孝. 2010. 中国硼矿主要矿集区及其资源潜力探讨. 化工矿产地质, 32(2): 272–278.
+王丛山, 陈文西, 张旭, 等. 2015. 火山沉积型硼矿成矿条件及找矿依据的研究. 科技资讯(4): 54–55.
+王翠芝, 肖荣阁, 刘敬党. 2008. 辽东硼矿的成矿机制及成矿模式. 地质科学-中国地质大学学报, 33(6): 813–824.
+王培君. 1996. 硼矿床含硼地层的二元结构模式. 化工矿产地质, 18(3): 202–206.
+王伟, 王刚, 赵元艺. 2013. 西藏盐湖硼矿资源特点与开发利用. 盐业与化工, 42(8): 10–12.
+王彦国. 2010. 高精度重力归一化总梯度法的研究及应用. 吉林大学.
+许德树, 曾华霖. 2000. 优选延拓技术及其在中国布格重力异常图处理上的应用. 现代地质, 14(2): 215–222.
+杨文采, 郭爱缨, 谢玉清, 等. 1978. 重磁异常频率域解释的理论与方法. 物化探研究报导, 78(2): 134–178.
+杨文采, 施志群, 侯遵泽, 等. 2001. 离散小波变换与重力异常多重分解. 地球物理学报, 44(4): 534–541.
+杨文采, 孙艳云, 侯遵泽, 等. 2015. 用于区域重力场定量解释的多尺度刻痕分析方法. 地球物理学报, 58(2): 520–531.
+于常青, 杨学立. 2009. 提高地下岩层结构和属性信息精度的震电拟合技术. 中国地球物理年会论文集.
+袁德丰, 周正德, 陆华耕, 等. 2001. 浙江省寿昌盆地火山沉积型硼异常特征. 化工矿产地质, 23(4): 230–238.
+曾华霖. 重力场与重力勘探. 北京: 地质出版社, 2005.
+赵晓, 王庆龙, 袁家忠, 等. 1998. 浙闽地区火山-沉积型硼矿成矿条件初探. 化工矿产地质, 20(4): 272–278.
+郑绵平. 1987. 硼矿床类型与我国找硼方向. 中国地质科学院矿床资源研究所所刊.
+郑绵平, 李喜芳. 2010. 青藏高原盐湖水化学及其矿物组合特征. 地质学报, 84(11): 1585–1600.

@@ -1,0 +1,192 @@
+综合物探法在九瑞宝山-夫山地区找矿中的应用
+徐荣华1xuronghua86@163.com, 楼法生1, 刘献满2, 黄俊平1, 姚绍萍1     
+摘要：根据九瑞地区首次发现岩浆侵入及赋矿部位主要位于志留系泥质粉砂岩与奥陶系碳酸盐岩之间的构造滑脱面上，认为圈定隐伏斑岩体可以为该地区寻找铜多金属矿提供有利依据。本次综合1：1万磁法、大功率激电、EH4三种方法圈定了多处隐伏岩体，并与已知深部钻孔资料对比分析，总结出一套在宝山-夫山地区的地球物理找矿标志，即在EH4断面图中显示为800~1500 Ω·m的中阻区、激电显示为高极化异常区、磁异常为几十nT的弱磁异常，这样的部位可以推断存在含矿花岗斑岩体.
+关键词：五通面    构造滑脱面    斑岩-矽卡岩型    花岗闪长斑岩体    构造岩浆岩带    正平稳磁场    高低阻    高极化异常群    中阻区    找矿模型    
+Applied of comprehensive geophysical prospecting method for exploreing mine in Jiurui area
+XU Rong-hua1xuronghua86@163.com , LOU Fa-sheng1 , LIU Xian-man2 , HUANG Jun-ping1 , YAO Shao-ping1     
+Abstract: According to firstly discovery Magma Intrusion and ores located at slip surface of structure between Silurian argillaceous politic sandstone and ordovician carbonate in Jiurui Baoshan and Fushan area, indicating that delineating concealed ranite bodies will provide favorable evidence for searching for copper polymetallic ore. With synthetic of 1:10000 magnetic method、high-power ip and EH4, It delineate several concealed ranite bodies.By comparing with drilling hole in the region of Baoshan-Fushan, it summarizes a set of geophysical prospecting mark. When existing Ore-bearing granite porphyry, It includes such characters, such as 800~1500 Ω·m of cross section of Eh4、high polarization anomalies of induced polarization、dozens of nt of magnetic field intensity.
+Key words: five surface     slip surface of structure     porphyry-skarn     granite diorite porphyry     structural-magmatic zone     positive steady magnetic field     high and low impedance     crowed of high polarization anomalies     region of middle impedance     ore-prospecting model    
+0 引言
+长江中下游成矿带九瑞地区为重要的铜矿矿集区，著名的大型铜矿有城门山铜矿、武山铜矿等(季绍新等，1989；毛景文等，2004；蒋少涌等，2008；陈志洪等，2011)，长期以来该区铜矿找矿重点主要集中在“五通面”(泥盆系观山组与石炭系黄龙组之间构造滑脱面)(曹钟清等，2006；黄修保等，2011；王先广等，2014)，对其他层位重视不够.本次在九瑞矿集区界首—大桥背斜核部志留系泥质粉砂岩与奥陶系碳酸盐岩之间的构造滑脱面新发现中型以上“斑岩-矽卡岩型”铜多金属矿，新发现九瑞地区背斜同样具有形成中-大型铜多金属矿床的潜能，新发现宝山矿田奥陶系与志留系地层的接触面(李永明等，2014；胡正华等，2015；曾庆权等，2015)是九瑞地区除石炭系、二叠系和三叠系碳酸盐岩，黄龙组与五通组的接触面之外，又一Cu-Au-Mo-Fe多金属矿化的重要赋矿建造区，这突破了以往该区成矿认识，极大地拓展了找矿空间.区内宝山铜矿及铜岭铜矿成矿明显受岩体与围岩接触带控制，产于奥陶系与志留系界面内外接触带的次级构造裂隙内，根据宝山斑岩吴家地段采面、铜岭遗址采坑及多个勘探线钻孔控制矿化情况，认为含矿的斑岩矿化多在顶部及外侧，向下矿化渐弱.目前已施工钻孔揭露的含矿花岗闪长斑岩基本呈岩脉状，规模较小，其中一个钻孔在815~932.63 m间大理岩化灰岩段见铜铅锌矿化、紧邻研究区西侧的上湾矿区钻孔在987 m处矽卡岩中见有厚大富黄铜体及铅锌矿体、在戏子洞矿区钻孔680~720 m间及另一孔深部大理岩分布区都见黄铜矿体及铅锌矿体，说明本区深部灰岩之下还有较大的岩体分布，很有可能存在一个更大的未出露含矿斑岩体，因此寻找岩体对间接寻找深部矿体具有重要的意义.
+
+前人已在该区多次尝试通过地球物理方法寻找隐伏岩体，并取得了丰硕的成果.如王冲等(2009)在城门山矿区深部及外围地区利用EH-4电导率成像仪开展电磁勘探圈定了地下岩层的展布状态，说明电磁法对揭示富矿体和深部岩体有一定的效果.王大勇(2010)通过对九瑞矿集区的大地电磁数据反演解释，揭示了岩体和深大断裂的分布形态和深部地层展布特征.邓震等(2012)通过对1:5万重磁资料进行多尺度边缘检测和准三维反演，分析岩体的基性程度，为寻找火山岩、侵入岩体有关的金属矿提供信息.张寒韬(2013)在武山矿区及外围开展综合地球物理探测研究，揭露深部地质构造特征，并认为深度500~1500 m有花岗闪长玢岩高密度体存在，成矿潜力非常大.邓居智等(2015)采用AMT方法，利用深部中低阻分布特征推断了岩浆通道位置.这些工作表明通过地球物理方法探寻深部岩体分布具有效作用.本次笔者通过综合分析研究区内与成矿关系密切的花岗闪长斑岩的地球物理特征，并尝试探索研究区深部岩体分布，总结出一套适合在研究区奥陶系与志留系地层间寻找花岗闪长斑岩体的地球物理找矿方法，建立地球物理找矿模型，以期后续在九瑞地区指导找矿工作.
+
+1 地质成矿条件
+研究区内出露的地层主要有奥陶系碳酸盐岩、志留系泥质粉砂岩、泥盆系、石炭系、二叠系碳酸盐岩(图 1)，其中与成矿密切相关的为志留系梨树窝组(S1l)、殿背组(S2d)，奥陶系汤山组、汤头组.
+
+点击查看原图	
+图 1 研究区地质简图
+1-第四系；2-二叠系；3-石炭系；4-泥盆系；5-志留系；6-奥陶系；7-燕山早期第三阶段第三次：斜长细晶岩；8-燕山早期第三阶段第二次：石英闪长玢岩；9-燕山早期第三阶段第二次：花岗闪长斑岩、斜长斑岩；10-燕山早期第三阶段第一次：花岗闪长斑岩；11-燕山早期第二阶段第二次：花岗闪长斑岩；12-燕山早期第二阶段第一次：花岗闪长斑岩；13-实测/推断断层；14-研究区范围.
+Figure 1 Generalized geologic map of research area
+1-Quaternary system; 2-Permian system; 3-Carborniferous system; 4-Devonian system; 5-Sioluriam system; 6-Ordovician system; 7-The third time of the third phase of Early Yanshanian granite: plagiaplite; 8-The second time of the third phase of Early Yanshanian granite:plagiaplite:Quartz diorite porphyrite; 9-The second time of the third phase of Early Yanshanian granite:plagiaplite: granodiorite、plagioclase porphyry; 10-The first time of the third phase of Early Yanshanian granite:plagiaplite: granodiorite; 11-The second time of the second phase of Early Yanshanian granite:plagiaplite: granodiorite; 12-The first time of the second phase of Early Yanshanian granite:plagiaplite:granodiorite; 13-The measured and inferred fault; 14-The research area.
+1.1 构造
+区内褶皱、断裂构造发育.界首—大桥背斜横穿研究区，具有一定规模的断裂共20条(F1—F20)(图 1)，根据走向可分为三组：北东东向(包括近东西向)、北东向(包括北北东向)、北西向断裂，其中北东向与北向断裂交汇处为本区成矿有利位置.深部奥陶系碳酸盐岩易形成矽卡岩型矿体.宝山矿田北东向F1与北西向F2、F12断裂交汇处，并且在北东向F1断裂与北西向F2、F12断裂交汇处附近分别形成了宝山矿化中心、铜岭矿化中心.
+
+1.2 岩浆岩
+宝山—大桥背斜一带存在两个构造岩浆岩带，分别为位于背斜核部的“仙姑台—夫山—柯家山”构造岩浆岩带及位于背斜翼部的“宝山—铜岭—余家垄”构造岩浆岩带.志留系泥质粉砂岩与奥陶系碳酸盐岩之间的构造滑脱面为主要岩浆侵入及赋矿部位.存在3次岩浆侵位事件：140~146 Ma、133~137 Ma、123 Ma左右.矿床成矿时代为142 Ma左右.九瑞斑岩体具“多期次，多中心，多类型，多矿种”成矿特征，形成了宝山、铜岭等多个矿化中心，具多种矿化类型及多矿种特征.
+
+1.3 矿产
+宝山矿田内矿体主要以细脉—浸染状的形式赋存于斑岩、矽卡岩，呈似层状、透镜产出，少量以金属硫化物石英脉的形式赋存于构造破碎带、角岩，呈透镜状产出，矿体主要赋存于北西向断裂(主要为深断裂)与北东、北东东向褶皱、断裂交织成菱形格局结点处.矿田奥陶系与志留系构造滑脱面：志留系泥质粉砂岩，其低渗透率是该岩层对含矿流体形成了天然的屏障，具有良好的圈闭性，为矿体的形成提供了必要的围岩外部因素；奥陶系碳酸盐岩活性较强为有利的围岩条件，当中酸性岩体侵位时，易与其发生接触交代反应形成矽卡岩与矽卡岩型矿体.北东向的F1断层对岩浆和含矿流体起着导、配、储矿的作用，其次北西向F2、F12断层虽对早期F1具一定的破坏作用仍其局部裂隙亦是有利的导控、储矿空间，两个成矿中心正好位F1与F2、F12交叉部位附近.沿F1断层侵位的燕山早期第三阶段第一期次花岗闪长斑岩体，为含矿岩体.此岩体至围岩显示出钾长石化→绿泥石化、绿帘石化→黄铁绢云岩化→蛇纹石、石榴子石、透辉石矽卡岩化→角岩化，硅化贯穿于整个过程.与成矿关系密切相关的以钾长石化、矽卡岩化、硅化为主，次为角岩化.蚀变特征显示燕山早期第三阶段第一期次花岗闪长斑岩体为成矿母岩，属过铝质高钾钙碱性花岗岩类.综上区内矿床工业类型属“斑岩—矽卡岩”型矿床，其成因类型为岩浆期后热液矿床.
+
+2 地球物理特征
+2.1 物性特征
+研究区同种岩性不同时代的电性参数变化较大(见表 1)，且具各向异性特征，所列岩石中，灰岩的电阻率较高，普遍高于1600 Ω·m，极化率最低，一般低于2%，志留系砂岩极化率表现为中等强度.茅口组炭质灰岩具有较高的极化率，但其具低阻特征.花岗闪长斑岩在未分化情况，平均电阻率为1000 Ω·m，平均极化率为4.85%，表现为中阻高极化特征，与其他岩性差异较为明显.各岩石除花岗闪长斑岩磁性特征主要表现为弱磁性，这可能与其矿化蚀变有关(表 2).
+
+点击查看表格内容	
+表 1 研究区部分岩石电性参数统计表
+Table 1 Statistical table of electric parameters of patial rock in research area
+
+点击查看表格内容	
+表 2 研究区岩石电性、磁性参数统计表
+Table 2 Statistical table of electric and magnetic parameters of rock in research area
+综上所述，花岗闪长斑岩在研究区主要表现为高阻高极化强磁性特征.另外，据本区大地电磁测深方法试验结果表明：奥陶系灰岩表现为高阻，电阻率大约在1000~10000 Ω·m；志留系泥质砂岩、页岩表现为低阻，电阻率大约在20~200 Ω·m；而含矿体的花岗闪长斑岩体形态与电阻率形态基本吻合，但对应的电阻率变化较大.
+
+2.2 磁异常特征
+研究区内磁测数据采用加拿大生产的GSM-19T型质子磁力仪采集，绘图数据经日改、正常场改正、高度改正计算所得，从高精度磁测异常的总体形态来看，研究区内异常总体表现西高东低，主体异常值不高，基本在±50 nT以内；但局部小异常较多，窄而高的跳点异常多，其中异常值最大可达好几百nT，从图 2可以看出，岩体出露部位磁场一般变现为平稳场，以正平稳场为主，局部地段的脉冲式跳跃应与矿体或人文干扰有关，具体有以下两处可能有较大范围的隐伏岩体.
+
+点击查看原图	
+图 2 研究区磁异常剖面平面图
+1-第四系覆盖物；2-栖霞组灰岩；3-黄龙组灰岩；4-纱帽组泥岩、砂岩；5-马溪组页岩、砂岩；6-汤头组上段灰岩；7-汤头组中段灰岩；8-仑山组灰岩；9-斜长细晶岩；10-花岗闪长斑岩；11-褐铁矿；12-断裂构造；13-破碎带；14-勘探线及编号；15-△T正异常1cm=350nT；16-△T负异常1 cm=-350nT；17-电磁测深点.
+Figure 2 Magnetic anomaly plane-sectional map of research area
+1-Quaternary cover; 2-Qixia fm limestone; 3-Huanglong fm limestone; 4-Shamao fm mudstone, sandstone; 5-Maxi fm shale, mudstone; 6-Upper part of Tangtou fm limestone; 7-Middle part of Tangtou fm limestone; 8-Luanshan fm limestone; 9-Plagiaplite; 10-Granodiorite; 11-Limonite; 12-Fault structure; 13-Fracture zone; 14-Explore line and its number; 15-Positive △T anomaly 1cm=350nT; 16-Negative △T anomaly 1cm=350nT; 17-Point of electromagnetic sounding.
+(1) 研究区西侧的7线至24线的北段为一个较大范围的正异常区，异常值在+20~+50 nT, 局部地区达到+100~150 nT，异常区的宽度约1.2 km，长度约1.8 km.异常正好位于奥陶系背斜核部及两翼，出露的地层主要是奥陶系的白云岩为主，另外还有一条近东西走向的斜长细晶岩、破碎带的结合体.
+
+(2) 40线中南段有一个条带状的正异常区，异常值在+20~+30 nT，异常区长度约1.5 km.出露的地层以奥陶系的砂岩为主.
+
+2.3 激电异常特征
+研究区内激电中梯剖面数据采集采用重庆地质仪器厂生产的DJS-9 10KW大功率激电测量系统.区内视电阻率北高南低的现象十分明显，这与实际的地质情况相吻合.即测区北侧为灰岩为主体的高阻地区，测区南侧为砂页岩等为主的低阻区.而高阻与低阻过渡位置与灰岩和砂页岩的边界位置基本吻合，从图 3可以看出岩体一般处在高低阻的过渡部位.
+
+点击查看原图	
+图 3 研究区激电(电阻率/极化率)等值线平面图
+1-第四系覆盖物；2-栖霞组灰岩；3-黄龙组灰岩；4-纱帽组泥岩砂岩；5-马溪组页岩砂岩；6-汤头组上段灰岩；7-汤头组中段灰岩；8-仑山组灰岩；9-斜长细晶岩；10-花岗闪长斑岩；11-褐铁矿；12-断裂构造；13-破碎带；14-奥陶系高阻灰岩和志留系低阻砂、页岩分界线；15-极化率异常范围及编号.
+Figure 3 Plane contour map of induced electrical(electrical resistivity/susceptibility) of research area
+1-Quaternary cover; 2-Qixia fm limestone; 3-Huanglong fm limestone; 4-Shamao fm mudstone, sandstone; 5-Maxi fm shale、mudstone; 6-Upper part of Tangtou fm limestone; 7-Middle part of Tangtou fm limestone; 8-Luanshan fm limestone; 9-Plagiaplite; 10-Granodiorite; 11-Limonite; 12-Fault structure; 13-Fracture zone; 14-Deviding line between ordovician high resistance limestone and sioluriam low resistance shale, mudstone; 15-Range and number of susceptibility anomly.
+从视极化率上看，研究区分两块：东侧的背景场区和西南侧的异常区，极化率均在1%左右，十分平稳，这是无矿化或弱矿化的表现；西侧和南侧的大面积极化异常区，可划分为多个子异常的高极化异常群，各异常中心的极值差距较大，最大可达约20%，见图 4.根据激电异常的分布形态特征，以及异常极值的大小，结合具体地质情况，推测引起异常的成因不同，将极化率异常划分为7个区域：
+
+点击查看原图	
+图 4 7线地物综合剖面图
+1-纱帽组下段泥岩；2-罗惹坪组上段页岩与砂岩；3-罗惹坪组下段石英砂岩，粉砂岩；4-龙马溪组上段泥岩夹砂岩；5-汤头组钙质页岩夹灰岩；6-汤山组泥灰岩，瘤状灰岩；7-仑山组上段灰岩，白云岩；8-仑山组下段白云岩；9-斜长细晶岩；10-花岗闪长斑岩；11-泥岩；12-粉砂质页岩；13-石英细砂岩；14-泥质粉砂岩；15-钙质页岩；16-灰岩；17-条带状灰岩；18-白云岩；19-花岗闪长斑岩；20-浸染状铜多金属矿化斑岩；21-铜多金属矿体；22-金矿体；23-设计钻孔；24-已施工钻孔；25-推断岩性接触面.
+Figure 4 Integrated geological-geophysical chart of profile 7
+1-Lower part of ShaMao fm mudstone; 2-Upper part of Luoping fm shale and sandstone; 3-Downer part of Luoping fm quartz sandstone; 4-Upper of Longmaxi fm mudstone alternated with sandstone; 5-Tangtou fm calcareous shale altermated limestone; 6-Tangshan fm marl altermated limestone; 7-Upper of Lunshan fm limestone and dolomite; 8-Downer of Lunshan fm dolomite; 9-Plagiaplite; 10-Granodiorite; 11-Mudstone; 12-Silty shale; 13-Quartz fine; 14-Muddy siltstone; 15-Calcareous shale; 16-Limestone; 17-Banding limestone; 18-Dolomite; 19-Granodiorite; 20-Impregnated cu polymetallic mineralization porphyry; 21-Cu polymetallic mineralization body; 22-Gold orebody; 23-Borehole design; 24-Finished borehole; 25-Infered lithologic interface.
+
+点击查看原图	
+图 5 16、24和28线联合剖面图
+Figure 5 Chart of combined profile 16, 24 and 28
+Ⅰ号异常：该异常位于研究区最西，异常幅值较小，变化平稳，极化率最大约5%，异常宽约900 m，长约1.2 km.它位于奥陶系下统伦山组下段的背斜核部，是一套灰白色厚层白云岩，在异常中心位置出露有一条宽约50 m的斜长细晶岩、破碎带的结合体.由于白云岩以及斜长细晶岩的极化率均应较小，所以推测该异常应该是由地表褐铁矿化或隐伏的矿(化)体引起.
+
+Ⅱ号异常：该异常位于研究区西南角的宝山岩体上，异常的幅值约6%，但是其范围较小，东侧未到0线异常就已经尖灭，西侧异常还未封闭.该异常区内布置了多个钻孔，见矿效果良好，并且实际见矿情况与异常范围基本吻合.
+
+Ⅲ号异常：该异常为Ⅰ号异常继续向北东方向的延伸，但是该异常相对Ⅰ号异常其幅值显著变大，极化率最大达20%；为一个长1 km，宽700 m的椭圆形异常.该异常位于奥陶系下统伦山组下段背斜中，其岩性为灰白色厚层白云岩，异常的南缘为斜长细晶岩带和破碎带.由于地表的岩体不会产生如此强的极化率，因此推测下面可能会有隐伏的矿(化)体；而该异常的北侧边缘为武汉—南昌电气化铁路，因此该异常又有因铁路干扰而起的可能，有待于进一步的工作验证.
+
+Ⅳ号异常：该异常位于Ⅲ号异常的东南侧，由2个南北对称的圆形异常组成，最大值在17%~19%.该异常位于奥陶系汤头组灰岩与志留系龙马溪组砂岩页岩的接触带上.由于龙马溪组的下段底部含有碳质，推测该异常由含炭系地层所引起的可能性大；另外由于异常中心正好为铁路穿过的位置，因此该异常可能为多种因素共同产生的.
+
+Ⅴ号异常：该异常以和连山为中心，向东西两侧延伸；是一个长约1.5 km，宽约700 m的长条带状异常，异常的极大值约8%~9%，该异常位于志留系龙马溪组下段的砂岩页岩地层中，区内出露多处花岗闪长斑岩体以及破碎带，推测该异常应该为岩体或者是其他具有矿化的地层所引起.区内也布置有较多钻孔，其中和连山以西见矿效果较好；但从极化率等值线图上看，和连山以东的极化率更高，范围更宽，可见底下的矿化程度应该更高可能含有隐伏的含矿岩体.
+
+Ⅵ号异常；该异常以油树下向南西和北东两侧延伸，异常长约1.6 km，宽约800 m，异常的中心位置极化率较高，约8%，两侧极化较小且变化平稳.该异常区出露的地层主要为志留系龙马溪组下段的砂岩页岩地层，并且有花岗闪长斑岩出露，推测该异常区下覆有矿化岩体.
+
+从激电异常可以看出研究区岩体在有矿化蚀变情况下一般呈高极化，因此高极化异常与矿化体具有较好的对应性，间接也说明高极化异常与岩体具有很好的对应性.
+
+2.4 电磁剖面解析
+区内野外施工采用EH-4张量观测方式，并利用配套软件imagem程序做数据预处理如对一些干扰较大，信号不稳定的数据进行筛除.最后对每个测点选择合适的圆滑系数进行电阻率反演.
+
+7线典型剖面：从该条剖面的连续电导率剖面图上看，总体呈现为中间低两侧高的形态，见图 4.其中，剖面图北半边为一块完整红颜色高阻区，电阻率在2000~10000 Ω·m，其岩性应该为奥陶系的灰岩，而地表电阻率较低是因为岩层的风化等原因引起，另外从激电中梯的资料看，该区域有宽而缓的中极化率带，极化率约5%，这可能是由地表的弱矿化或者灰岩内部的黄铁矿化所引起.
+
+剖面图最南端也是一个高阻体，电阻率在2000~8000 Ω·m，其地表只出露志留系的砂岩页岩等低阻地层，由于磁法和激电剖面未到达该区域，所以它具体是灰岩还是隐伏岩体有待验证.
+
+剖面图中部偏南的蓝色区为低阻区，电阻率在100~600 Ω·m，极化率较低，岩性应为志留系的砂岩地层.
+
+剖面图中部浅红色和黄色区为中阻区，电阻率在800~1500 Ω·m，我们要找的花岗闪长斑岩应该就在这区域中；激电中梯资料显示这一段极化率较高，可见矿化程度应该较好.另外从电阻率等值线的形态来看，岩体的产状为南倾，且越往深部产状变陡.
+
+该剖面中布有钻孔ZK7-1、ZK7-2、ZK7-4、ZK7-6、ZK7-8，其中前4个钻孔均见到岩体和矿体，岩体的实际形态与推测的岩体形态基本一致.根据电阻率分布范围推断已控制岩体下部应该还有岩体，已知钻孔ZK7-1、ZK7-2、ZK7-4、ZK7-6钻孔深度不够，未打到岩体的下半段，而ZK7-8孔位角度应该向北偏些.
+
+16~28线对比：16线、24线和28线分别相距400 m和200 m，它们位于测区中部偏西，穿过了铜铃岩体，对比图见图 4—图 17.
+
+从对比图上看，三条剖面具有相似的形态，剖面的左侧均为高阻区，对应为奥陶系灰岩地层，右侧为低阻区，对应志留系砂岩等地层；高低阻过渡区域均有一定范围的中阻区，另外从激电中梯资料上看，该中阻区对应的极化率异常从16线到28线一直往东延伸，且有逐渐增大的趋势，可见在28线附近及其以东可能存在花岗斑岩体.
+
+从钻孔资料看，16线的花岗斑岩体为比较规则的厚板状体，24线岩体则为较多支脉组成的，形态较为零散，可见岩体往东形态变得更为分散且复杂，而28线布设的钻孔ZK28-7未见岩体可能也与这有关.
+
+通过多条剖面的横向对比，将其中已知的剖面的地质认识应用到相邻剖面的解释中去，这样可以提高解释的可靠性.
+
+3 岩体圈定
+通过物探异常推断的岩体主要有5处，分别为宝山岩体，铜铃岩体，油树下岩体，夫山岩体以及斜长细晶岩脉，具体见图 6.
+
+点击查看原图	
+图 6 岩体推断平面投影图
+1-第四系覆盖物；2-栖霞组灰岩；3-黄龙组灰岩；4-纱帽组泥岩砂岩；5-马溪组页岩砂岩；6-汤头组上段灰岩；7-汤头组中段灰岩；8-仑山组灰岩；9-斜长细晶岩；10-花岗闪长斑岩；11-褐铁矿；12-断裂构造；13-破碎带；14-推断岩体范围；15-研究区范围.
+Figure 6 Projection of rock mass inference on plane
+1-Quaternary cover; 2-Qixia fm limestone; 3-HuangLong fm limestone; 4-Shamao fm mudstone, sandstone; 5-Maxi fm shale, mudstone; 6-Upper part of Tangtou fm limestone; 7-Middle part of Tangtou fm limestone; 8-Luanshan fm limestone; 9-Plagiaplite; 10-Granodiorite; 11-Limonite; 12-Fault structure; 13-Fracture zone; 14-Conculded range of granodiorite; 15-Range of the research.
+(1) 宝山岩体
+
+穿过宝山岩体的测线主要为7线，以及边上的0线.由物探异常推断的7线处宝山岩体在浅部较缓，往深处岩体变陡，钻探的结果与该情况基本吻合，岩体形态与推断的形态基本相似.0线依据物探异常推断宝山岩体往东已经尖灭，在该线并不存在岩体，而在该线ZK0-1钻孔的结果也表明不存在宝山岩体.
+
+(2) 铜铃岩体
+
+穿过铜铃岩体的剖面较多，其中16线、24线推断存在岩体的位置均钻孔验证存在岩体，且岩体存在的部位与推断的结果基本吻合.但是24线以东，同样存在极化率异常以及EH4剖面中存在中阻区域，以及物探异常推测存在岩体，但是目前在28线以及32线布置的钻孔还未发现存在岩体.
+
+(3) 油树下岩体
+
+油树下岩体为一东西走向的长条带状岩体，该岩体极化率异常较弱，而在EH4剖面中连续多条剖面均出现电阻率异常，因此推断岩体虽然存在，但是矿化程度可能较低.目前针对该岩体的钻孔有ZK72-7和ZK112-1等，均打到岩体，其中只存在少量的黄铁矿化.这与物探推测的结果吻合.
+
+(4) 夫山岩体
+
+从EH4剖面的形态推断，夫山岩体为一个存在于奥陶系灰岩上部的比较浅的无根的岩体，其下延深度可能只有100~200 m.目前围绕该岩体外围布置有几个钻孔，如ZK44-1和ZK44-3，两孔均未发现岩体.该情况与物探推断的结果也基本吻合.
+
+(5) 斜长细晶岩脉
+
+该斜长细晶岩脉存在于奥陶系灰岩中，其厚度规模较小，在EH4剖面中电阻率异常表现的不是很明显，只在浅表存在小规模的相对低阻异常，因此推断该斜长细晶岩脉只存在于灰岩浅表，或者规模较小，向下延伸后逐渐尖灭.目前还没有收集到针对该岩脉的钻孔资料.
+
+通过这些钻孔验证的情况看，物探推断的岩体与钻探验证的结果大部分吻合，但是在24线以东的物探推断存在铜铃岩体，但钻探却并未发现.
+
+4 地球物理找矿模型
+通过对整个工区物探异常的研究及钻探验证进行综合分析，总结出针对适用于九瑞地区的综合物探异常找矿模型，见图 7.
+
+点击查看原图	
+图 7 综合物探找矿模型图
+Figure 7 Chart of comprehensive geophysical prospecting model
+灰岩地区的异常特征：在EH4电阻率拟断面图上为完整的高阻区，电阻率一般达到2000~10000 Ω·m以上；激电中梯异常表现为电阻率高，极化率低，若灰岩中含有部分黄铁矿化等也可能会有弱极化率异常；磁异常表现为弱磁或无磁异常.
+
+砂岩页岩地区异常特征：在EH4电阻率拟断面图中为低阻区，电阻率一般小于600 Ω·m；激电中梯表现为低阻低极化异常；磁异常表现为也为弱磁或无磁异常.
+
+花岗闪长斑岩体异常特征：EH4电阻率拟断面图中表现为中阻异常区，电阻率一般为800~1500 Ω·m；激电中梯表现为中阻高极化特征；磁异常表现为中等或弱磁异常.
+
+把研究区物探异常规律总结为物探找矿模型，利用这种模型就可以对研究区以及九瑞其它地区的类似特征物探异常做出合理的地质解释.
+
+5 结论
+5.1
+区内通过开展大比例尺磁法和大功率激电剖面对花岗闪长斑岩体平面位置反应较好，而EH-4剖面则获取了丰富的断面信息，因此综合三种方法对查明区内隐伏花岗闪长斑岩的空间赋存规律有很好的指示作用，为区内寻找斑岩型铜多金属矿提供了有利的物探依据.
+
+5.2
+依据本次综合物探资料分析认为：花岗斑岩主要赋存于区内奥陶系与志留系的南接触面上，如宝山岩体和铜铃岩体，其中7线钻孔设计可能深度不够，未打到岩体的下部分，鉴于张寒韬(2013)在九瑞武山地区AMT方法对500~2000 m深部地质体具有很好的反应，建议在后续工作中采用AMT或MT方法进一步确定深部岩体分布；另外研究区东部的油树下岩体则主要赋存于志留系地层中.研究区北侧的斜长细晶岩脉以及富山岩体埋深较浅，下延不大.
+
+致谢 感谢审稿专家提出的修改意见和编辑部的大力支持！
+参考文献
+CAO Zhong-Qing, TIAN Bang-Sheng, ZHANG Ping. 2006. The prospecting and exploration of copper resources in Jiujiang-Ruichang area[J]. Journal of East China Institute of Technology (S): 38–44.
+CHEN Zhi-Hong, XING Guang-Fu, GUO Kun-Yi, et al. 2011. Zircon U-Pb Ages of ore-bearing granitic bodies in northern Jiujiang-Ruichang metallogenic district of the mineralization belt of the middle-lower reaches of the Yangtze River, and its geological significance[J]. Acta Geologica Sinica , 85(7): 1146–1158.
+DENG Ju-Zhi, CHEN Hui, YIN Chang-Chun, et al. 2015. Three-dimensional electrical structures and significance for mineral exploration in the Jiujiang-Ruichang District[J]. Chinese Journal of Geophysics , 58(12): 4465–4477. DOI:10.6038/cjg20151211
+DENG Zhen, LV Qing-Tian, YANG Jia-Yong, et al. 2012. The three-dimension structure and the enlightenment to the regional prospecting of the Jiujiang-Ruichang district[J]. Chinese Journal of Geophysics , 55(12): 4169–4180. DOI:10.6038/j.issn.0001-5733.2012.12.029
+HU Zheng-Hua, WANG Xian-Guang, LI Yong-Ming, et al. 2015. Re-Os age of molybdenite from the BaoShan copper polymetallic deposit in the Jiurui ore concentration area along the middle-lower Yangtze River region and its geological significance[J]. Geology in China , 42(2): 585–596.
+HUANG Xiu-Bao, PEI Rong-Fu, MEI Yan-Xiong, et al. 2011. Analysis of geological characteristics and ore-search prospect of the Aoxia-Dingjiashan, Jiujiang-Ruichang Area in Jiangxi Province[J]. Geology and Exploration , 47(4): 531–542.
+JI Shao-Xin, WANG Wen-Bin, XING Wen-Chen, et al. 1989. Copper deposits of two metallogenic series in Jiurui area, Jiangxi Province[J]. Mineral Deposits , 8(2): 14–24. 
+JIANG Shao-Yong, LI Liang, ZHU Bi, et al. 2008. Geochemical and Sr-Nd-Hf isotopic compositions of granodiorite from the Wushan copper deposit, Jiangxi Province and their implications for petrogenesis[J]. Acta Petrologica Sinica , 24(8): 1679–1690.
+LI Yong-Ming, SHA Yuan-Cheng, GONG Liang-Xin, et al. 2014. Prospecting effect of soil geochemical survey from the Xiangutai copper polymetallic deposit in Ruichang city of Jiangxi province[J]. Geological Survey and Research , 37(3): 203–211. 
+MAO Jing-Wen, Stein H, DU An-Dao, et al. 2004. Molybdenite Re-Os precise dating for molybdenite from Cu-Au-Mo deposits in the middle-lower reaches of Yangtze River belt and its implications for mineralization[J]. Acta Geologica Sinica , 78(1): 121–131.
+WANG Chong, DONG Ping, SUN Bin, et al. 2009. Application of EH4 Electromagnetic eounding in the deep and peripheral of Chengmenshan mining Area, Jiangxi[J]. Geology and Exploration , 45(6): 742–747.
+WANG Da-Yong. 2010. The integrated geophysical and geological study in the ore belt of the middle and lower reach of the Yangtze River (in Chinese)[Ph. D. thesis]. Changchun:Jilin University.
+WANG Xian-Guang, ZHOU Xian-Xu, MA Zhen-Xing, et al. 2014. Progresses and prospecting in the deep and periphery of the Wushan copper deposit in the Jiurui area[J]. Journal of East China Institute of Technology , 37(4): 379–386.
+ZENG Qing-Quan, GONG Liang-Xin, SHA Min, et al. 2015. Discussion of ore controlling factors of Baoshan copper polymetallic deposit and its genesis in Jiangxi province[J]. Copper Engineering (in Chinese), (2):32-39(2): 32–39, 81.
+ZHANG Han-Tao. 2013. The study of the integrated Geophysical to the deep and outer area prospecting in Wushan copper polymetallic ore district (in Chinese)[Master's thesis]. Nanchang:East China University of Technology.
+曹钟清, 田邦生, 章平. 2006. 九瑞地区铜矿资源预测与勘查[J]. 东华理工学院学报(S): 38–44.
+陈志洪, 邢光福, 郭坤一, 等. 2011. 长江中下游成矿带九瑞矿集区(北部)含矿岩体的锆石U-Pb定年及其地质意义[J]. 地质学报, 85(7): 1146–1158.
+邓居智, 陈辉, 殷长春, 等. 2015. 九瑞矿集区三维电性结构研究及找矿意义[J]. 地球物理学报, 58(12): 4465–4477. DOI:10.6038/cjg20151211
+邓震, 吕庆田, 严加永, 等. 2012. 九江-瑞昌矿集区的3D结构及对区域找矿的启示[J]. 地球物理学报, 55(12): 4169–4180. DOI:10.6038/j.issn.0001-5733.2012.12.029
+胡正华, 王先广, 李永明, 等. 2015. 长江中下游九瑞矿集区宝山铜多金属矿床辉钼矿Re-Os年龄及其地质意义[J]. 中国地质, 42(2): 585–596. 
+黄修保, 裴荣富, 梅燕雄, 等. 2011. 江西九瑞坳下-丁家山地质特征及找矿前景分析[J]. 地质与勘探, 47(4): 531–542.
+季绍新, 王文斌, 邢文臣, 等. 1989. 江西九瑞地区两个成矿系列的铜矿床[J]. 矿床地质, 8(2): 14–24.
+蒋少涌, 李亮, 朱碧, 等. 2008. 江西武山铜矿区花岗闪长斑岩的地球化学和Sr-Nd-Hf同位素组成及成因探讨[J]. 岩石学报, 24(8): 1679–1690.
+李永明, 沙元成, 龚良信, 等. 2014. 江西省瑞昌市仙姑台铜多金属矿区土壤地球化学测量找矿效果[J]. 地质调查与研究, 37(3): 203–211. 
+毛景文, SteinH, 杜安道, 等. 2004. 长江中下游地区铜金(钼)矿Re-Os年龄测定及其对成矿作用的指示[J]. 地质学报, 78(1): 121–131.
+王冲, 董平, 孙斌, 等. 2009. EH4电磁测深在江西城门山矿区深部及外围找矿中的应用[J]. 地质与勘探, 45(6): 742–747.
+王大勇. 2010. 长江中下游矿集区综合地质地球物理研究[博士论文]. 长春: 吉林大学.
+王先广, 周贤旭, 马振兴, 等. 2014. 九瑞地区武山铜矿外围深部找矿进展与方向[J]. 东华理工大学学报(自然科学版), 37(4): 379–386.
+曾庆权, 龚良信, 沙珉, 等. 2015. 江西宝山铜多金属矿床控矿因素及成因探讨[J]. 铜业工程(2): 33–39, 81. 
+张寒韬. 2013. 武山铜多金属矿深部及外围找矿综合地球物理方法研究[硕士论文]. 南昌: 东华理工大学. http://cdmd.cnki.com.cn/Article/CDMD-10405-1013045685.htm

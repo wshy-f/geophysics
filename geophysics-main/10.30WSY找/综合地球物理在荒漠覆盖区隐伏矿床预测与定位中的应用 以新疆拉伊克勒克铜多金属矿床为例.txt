@@ -1,0 +1,241 @@
+综合地球物理在荒漠覆盖区隐伏矿床预测与定位中的应用: 以新疆拉伊克勒克铜多金属矿床为例
+严加永1,2yanjy@163.com, 孟贵祥1,2通讯作者mgxlw@126.com, 吕庆田1,2, 邓震1,2, 祁光1,2, 汤贺军1,2, 赵金花1,2, 薛融晖1,2, 王栩1,2     
+摘要：随着人类对资源的需求的增加，传统的矿产勘探空间已经越来越小，必须拓展新的找矿空间，近年来，全球资源能源勘查已经转向大陆深部和覆盖层之下.中国西部广泛分布的荒漠戈壁区，找矿勘查工作程度相对较低，有着巨大的找矿空间，但由于没有露头地表地质观察无法获取成矿信息，地质理论预测的不确定性大幅增加，制约了隐伏矿预测和定位的效果，亟待加强对荒漠覆盖区隐伏矿勘查技术的研究，探索有效的技术方法体系.本文选择准噶尔盆地东缘琼河坝地区为例，开展荒漠戈壁覆盖区找矿预测实践.首先以高精度地面大比例尺重力和磁力资料为基础，采用多尺度边缘检测技术划分断裂构造.然后结合重磁三维反演和多尺度边缘检测技术，开展了隐伏岩体的三维形态识别.在此基础上，结合区域化探和地质资料，预测了7处找矿靶区.对其中的拉伊克勒克靶区进行了大比例尺地球物理和钻探查证，从预查到详查，通过地球物理技术的创新组合，在地表没有矿化线索的荒漠戈壁之下，新发现和评价拉伊克勒克大型铜多金属矿，实现琼河坝地区荒漠戈壁覆盖区找矿突破.结果证明我们提出的荒漠覆盖区隐伏矿预测与定位技术，在类似景观区具有一定的借鉴和示范意义.拉伊克勒克大型铜多金属矿的发现，也说明在新疆、内蒙等戈壁荒漠覆盖区找矿工作大有可为.
+关键词: 荒漠戈壁区      综合地球物理      隐伏矿      预测与定位      拉伊克勒克     
+Prediction and location of concealed deposits in desertgobi coverage areas using integrated geophysics: An example of the Layikeleke copper polymetallic deposit in Xinjiang, Northwest China
+YAN JiaYong1,2yanjy@163.com, MENG GuiXiang1,2Corresponding authormgxlw@126.com, LÜ QingTian1,2, DENG Zhen1,2, QI Guang1,2, TANG HeJun1,2, ZHAO JinHua1,2, XUE RongHui1,2, WANG Xu1,2     
+Abstract: With the increase of human demand for resources, the traditional mineral exploration space has become smaller and smaller, so new prospecting space must be expanded. Global resource and energy exploration has shifted to deep continents and under overburden areas. Desert gobi areas are widely distributed in western China, which host huge prospecting space. However, because there is no outcrop surface geological observation to obtain metallogenic information, the uncertainty of geology-based theoretical prediction increases greatly, which restricts the effect of concealed ore prediction and location. It is necessary to strengthen the research of concealed ore prospecting technology in desert covered areas and explore an effective technical method system. Taking the Qiongheba area in the eastern margin of East Junggar Basin as an example, this paper presents prospecting and prediction practice in desert gobi covered areas. Based on high-precision ground gravity and magnetic data, multi-scale edge detection technology is used to delineate fault structures. Combined with gravity and magnetic three-dimensional inversion and multi-scale edge detection technology, the three-dimensional shape recognition of concealed rock mass is carried out. On this basis, combined with regional geochemical and geological data, seven prospecting targets are predicted, of which the Layikeleke target area is verified. From the prediction to the detailed investigation, through the innovative combination of geophysical technology, the large-scale copper polymetallic deposit in Layikelekeis is newly discovered and evaluated under the desert Gobi without mineralization clues on the surface, so as to achieve a breakthrough in prospecting for the desert Gobi covered areas in the Qiongheba district. The results show that the prediction and location technology of concealed deposits in desert Gobi covered areas proposed in this work has a certain demonstration significance in similar landscape areas. The discovery of the Layikeleke copper polymetallic deposit also shows that prospecting work under the Gobi Desert overburden areas in Xinjiang and Inner Mongolia have a brilliant future.
+Keywords: Desert gobi area    Integrated geophysics    Concealed ore deposit    Prediction and location    Layikeleke    
+0 引言
+对传统的矿产勘探空间进行勘查，已满足不了人类对能源日益增长的需求，必须拓展新的找矿空间.当前，全球大部分的矿产资源勘查工作的目光已向大陆深部和覆盖层(包括沙漠戈壁、森林、沼泽湖泊等浅覆盖区)下方聚焦(王钦军等，2017；崔敏利等，2010).覆盖区一般指第四纪以前的基岩受冲积、洪积、冰积及风积等沉积作用，最终被冰雪、水体、沼泽、植被、第四纪松散沉积物广泛掩盖的地区(孙凯，2018).在大面积的沉积物覆盖区下，如加拿大、俄罗斯等毗邻北极的冰川覆盖区，澳大利亚、非洲的沙漠或红土覆盖区等，孕育了北美、格陵兰、非洲—阿拉伯等全球重要的成矿区带(梅燕雄等，2009).中国境内广泛分布大面积的中新生界覆盖区，仅戈壁、沙漠覆盖区所占的总面积就高达128万km2，占全国陆地总面积的12.3%(图 1)，但在戈壁、沙漠覆盖区内发现的大中型矿床仅为全国大中型矿床总数的2%(申元村等，2013).为进一步拓展我国的找矿空间，在借鉴国外在覆盖区内进行找矿的众多成功实践经验(Cao et al., 2009；Hosseini et al., 2016；Shan et al., 2013)基础上，结合我国矿产资源开发的基本现状，表明在戈壁、沙漠等中新生界覆盖区开展矿产勘查和综合预测工作无疑是当前形势下最佳的选择之一.
+
+点击查看原图	
+图 1 中国裸地及荒漠覆盖区示意图
+Fig. 1 Schematic map showing bare land and desert Gobi covered areas in China
+在荒漠戈壁覆盖区，由于没有岩石露头或者露头出露范围很小，地表地质的观察无法获取更多的含矿信息，极大的增加了地质理论预测的不确定性，传统的化探方法也难于穿透覆盖层(黄桂珍，2014；靳职斌等，2014；成秋明，2012).地球物理探测虽然能够获取地下的物性结构信息(郝兴中等，2013)，但荒漠戈壁区内存在较厚的盐碱壳、地表干燥等不利因素严重影响了地球物理方法特别是电磁法数据的采集，且由于缺少地表地质等已知信息的约束，严重制约了地球物理资料的地质解释，导致在覆盖区范围内发现矿床的难度更大(刘光鼎和郝天珧，1995). 急需加强对荒漠戈壁覆盖区隐伏矿产勘查技术的研究(汪青松等，2021)，探索行之有效的技术方法体系，为保障我国矿产资源的供给提供有力的技术支撑.
+
+琼河坝地区位于中国新疆哈密地区伊吾县，东与蒙古人民共和国接壤.构造上位于中国新疆东准噶尔盆地东缘，处于阿尔泰造山带与天山造山带交汇部位.该区位于古亚洲巨型成矿带中，该成矿带已经成为国际资源勘查的一个热点，近年已经在蒙古(Perello et al., 2001)、哈萨克斯坦、俄罗斯等国发现8个千万吨级的铜矿(Seltmann and Porter, 2005)，但在中国境内一直没有大的突破，国内的许多学者对其进行综合对比研究认为，在琼河坝地区的找矿潜力十分巨大(王登红等，2009；杨富全等，2010).近年来，随着对琼河坝地区找矿工作的不断深入，相继发现了宝山夕卡岩铁矿、北山构造蚀变岩金矿、绿石沟矽卡岩铜矿、蒙西斑岩铜矿、和尔赛斑岩铜矿、铜华岭斑岩铜矿、琼河坝斑岩铜矿及桑南斑岩铜矿等矿床(孟贵祥等，2016).虽然上述矿床的规模并不大，但其表明琼河坝地区具备寻找大型矿床的前景和成为大型矿集区的潜力(屈讯等，2009)，但该区广泛分布荒漠戈壁，大大增加了找矿工作的难度.本文采用500 m×100 m网度的地面重力和磁力数据，以多尺度边缘检测和三维物性反演技术为主，进行断裂构造系统划分和隐伏岩体识别工作，厘定主要断裂系统的分布，圈定隐伏岩体的分布范围及三维形态.在此基础上，结合地球化学资料，进一步的开展隐伏矿找矿靶区预测.通过1 ∶ 10000到1 ∶ 2000比例尺综合地球物理探测，成功定位隐伏铜铁矿体，并对拉伊克勒克靶区进行钻探查证，获得铜金属量118万吨，评价为大型铜多金属矿，实现了琼河坝地区浅覆盖区的找矿突破.
+
+1 琼河坝覆盖区隐伏矿预测
+1.1 成矿信息提取技术方法
+目前在琼河坝地区发现的矿床主要有三类：斑岩型铜金矿(蒙西、和尔赛、桑南、琼河坝和铜华岭铜矿)、矽卡岩型铁铜矿(宝山磁铁矿和绿石沟铁铜矿)、构造蚀变岩型金矿(北山金矿).这三类矿床的形成均严格受岩体和断裂构造控制，查明断裂构造和岩体的分布特征及三维形态是寻找这三类矿床的关键(王晓地等，2006；董连慧等，2009；孟贵祥等，2015).另一方面，由于该区地质研究程度相对较低，且荒漠戈壁覆盖区分布范围较广，地表岩石露头较少，对隐伏的岩体和断裂系统缺乏深入研究，严重制约了琼河坝地区找矿预测研究工作的开展.因此，查明区域断裂构造和隐伏岩体的分布对找矿预测有着重要的现实意义，蚀变及矿化也是找矿预测的重要线索.本文将琼河坝地区成矿要素与信息归纳为：构造、岩体和矿化蚀变(周文月等，2021).针对具体成矿信息的特征，设计了如图 2所示的技术路线.
+
+点击查看原图	
+图 2 琼河坝地区成矿信息提取与隐伏矿预测技术路线
+Fig. 2 Technology route of metallogenic information extraction and concealed ore deposit forecasting in Qiongheba area
+要提取矿集区尺度特别是覆盖区构造、隐伏岩体控矿地质体形态特征等成矿信息，必须要有覆盖面广、精度高的数据，同时，还需要有针对性的数据处理、反演和可视化方法(俞贵平等，2020).虽然反射地震具有较大的探测深度和较高的垂向分辨率，但受其施工成本的影响，现阶段在金属矿矿集区探测中仍以二维剖面探测为主(吕庆田等, 2010)，很少开展大面积的三维面积性探测，因此，获得的结果主要是建立矿集区的“骨架”结构(吕庆田等, 2014). 而重力和磁力方法由于施工成本相对较低，完全可以实现高密度的数据全覆盖.目前，除西藏和青海的局部地区以外，大比例尺的航磁和地面重力数据已经基本覆盖了我国大部分地区(熊盛青等，2016).对重磁数据进行有效的处理，是现阶段实现矿集区尺度隐伏岩体和断裂厘定最有可能成功的途径.
+
+琼河坝地区成矿信息可以从结构和属性两方面开展.结构主要指断裂构造和岩体结构特征，以1 ∶ 50000高精度地面重力和磁力资料为基础，采用多尺度边缘检测技术，结合重磁场特征分析及导数变换等技术，识别和划分断裂构造.以重磁三维反演和岩性识别技术为主，辅助多尺度边缘检测技术，圈定和识别岩体及隐伏岩体的平面投影位置和三维形态，厘定不同基性程度岩体的分布范围和三维形态. 属性主要指矿化和识别信息，采用1 ∶ 50000大功率激电中梯和地球化学测量，从极化率特征和地球化学异常组合综合分析，提取矿化和蚀变信息.在此基础上，结合地质资料，开展了成矿预测工作，圈定找矿靶区.
+
+1.2 断裂构造厘定和岩体识别
+由于地质体边界两侧一般存在密度或磁化率差异，重磁异常在地质构造边界附近表现为梯度变化带，这些梯度带的实质就是场源的边界，因此，重磁场构造信息提取的主要方法是从重磁异常图中提取场源边界(张壹等，2015).通常的做法是对重磁异常中的场源边界信息进行增强，然后利用某种边缘检测的手段确定边界位置(孟小红等，2012; Guo et al., 2015).重磁异常边缘增强检测的方法有很多种，如：斜导数法、斜导数水平梯度法、Theta图法等(郑强等，2019).每种方法的原理和应用的前提条件不尽一致，相同的一组重磁数据，用不同方法处理后的结果也有所不同.因此，有必要对不同方法的检测效果进行对比分析，优选出效果较好的方法.通常，在不同地区或不同地质背景的重磁异常解释过程中，也需要对各种检测增强方法获取的结果进行对比分析，筛选出某一种与实际地质情况吻合较好的方法，结合已有资料综合分析，再给出合理的地质解释(张兴东等，2018). 汤井田等(2019)、胡双贵等(2019)将重力梯度张量曲率应用到重力数据的边界识别中，通过理论模型和实际数据详细分析和比较了各种曲率在重力边界识别中的应用效果，认为局部坐标系下所计算的高斯曲率进行边界识别能够较好的圈定地下地质体的边界.严加永等(2011, 2015)通过模型试验对比了应用较为多的总水平梯度法、斜导数法、Theta图法和多尺度边缘检测法(简称Worms法)，发现多尺度边缘检测法比较适合大尺度重磁数据的边缘提取，并在长江中下游成矿带、铜陵矿集区构造信息提取中发挥了作用.
+
+琼河坝地区的重磁多尺度边缘检测结果如图 3所示，重力多尺度边缘检测以线性构造为主，反映了构造断裂、地层和岩体边界.化极磁异常多尺度边缘检测结果显示低延拓高度大多呈现环形异常，高延拓高度大多呈现线状异常，此是由于浅部磁异常的分布广泛形成了较多的小型环形异常.因此，小型环形异常主要反映了浅部磁性体的边界，较大的环形异常可能反映了中基性岩体的边界，而规模较大的线状构造则反映了断裂构造.本文从重磁异常划分断裂构造的主要依据是重磁多尺度边缘检测，同时结合重磁场平面特征和地质信息，开展断裂构造的划分，具体依据如下：重磁多尺度边缘检测：在同一图幅内，将不同延拓高度检测结果叠加到一起(图 3)，采用不同颜色、大小的线型表示不同深度尺度的信号边界形迹，不同深度边界信号形迹在分布位置上所体现的相似性即可获知该构造形迹的发育深度及倾向特征：线束越密集表示边界构造切割深度越大，线束稀疏则表示其切割发育的深度较浅；线束组合越宽表示该构造倾向越缓，反之则表示该边界构造发育产状较陡、倾角较小.
+
+点击查看原图	
+图 3 琼河坝地区重力多尺度边缘检测(a)与化极磁异常多尺度边缘检测(b)结果
+线束从蓝色到红色反映构造深度从浅到深的变化.
+Fig. 3 Multiple-scale edge detection result of Bouguer gravity (a) and reduction to the pole magnetic anomalies (b) overlapped on geological map of Qiongheba area
+The color lines from blue to red reflect the change of structural depth from shallow to deep.
+按照上述的原则，以重磁多尺度边界检测为主要手段，分别根据重力和磁力多尺度边缘检测结果划分了断裂构造，然后根据地质填图和其他相关信息，对断裂系统进行了修正，得到了琼河坝地区断裂构造简图(图 4).根据构造特征分析，三条骨干断裂将本区划分为四个大的构造分区(图 4).F1断裂由南北两段追踪而成，走向从北部的北西向逐渐转换为北西西向，北部产状较陡，到中部逐渐变为北东倾向，这可能反映了研究区中部的大岩基是从北东方向侵入过来的.F1断裂将研究区北部分为Ⅰ和Ⅱ两个差别明显的构造分区，Ⅰ区构造方向以北东和近东西为主，Ⅱ区则以北西方向为主，Ⅰ区岩体侵入时代以志留系为主，Ⅱ区岩体以石炭纪为主，Ⅰ区出露地层为奥陶、石炭、二叠和侏罗，奥陶纪地层对应为高重力异常，而Ⅱ区主要出泥盆系地层，表现出琼河坝中央高重力异常带.F2断裂和F3断裂将南北分为Ⅱ、Ⅲ和Ⅳ区，F2断裂是横亘研究区中部一条大断裂，无论从重力、磁力还是地形、地质分析都可清晰看到这条断裂，断裂走向为北西西，总体朝北东反向倾，西端产状较缓，东段产状较陡.F3走向北东东，倾向朝东，这是一条推测断裂，在磁力多尺度边缘检测上显示明显.F3及F2断裂将研究区南部划分为Ⅲ和Ⅳ区，Ⅲ区断裂以北西和北东两组方向为主，Ⅳ区断裂则以北西为主，这些断裂与F2小角度交汇，说明F2断裂具有右行特征.Ⅲ中岩体以基性为主，侵入时代多为石炭纪，Ⅳ区岩体以中酸性为主，侵入时代多为志留系，且多为隐伏岩体，推测存在隐伏的大岩基.
+
+点击查看原图	
+图 4 琼河坝地区断裂识别与构造分区
+Fig. 4 Fault identification and structural division in Qiongheba area
+1.3 隐伏岩体识别
+严加永等(2009，2014a，b)在长江中下游成矿带铜陵矿集区、庐枞矿集区和沙溪矿床用重磁三维反演研究岩浆岩的三维形态，根据这些实例，探索了利用重磁三维反演方法识别岩浆岩体的基本原理和方法.首先对重磁数据进行处理：对布格重力异常采用位场分离技术分离区域场与局部场，提取研究目标深度内的剩余重力异常；对磁异常数据先进行化极处理，再采用位场分离技术分离区域场与局部场，提取目标深度内的磁异常信息；然后将剩余重力和磁异常作为反演数据，采用相同的网格剖分，进行三维物性反演，得到地下半空间磁化率和密度差三维数据体；最后，根据研究区岩体与围岩的磁性和密度参数差异，结合其他地质信息，确定圈定岩体的磁化率和密度差阈值，满足磁化率和密度差的阈值组合部分即可视为是岩浆岩体的反映，通过三维可视化的交互分析，可以确定岩浆岩体三维空间形态.本次工作采用加拿大大不列颠哥伦比亚大学开发的三维物性反演软件UBC Mag3D和Grav3D，软件的核心算法基于Li和Oldenburg(1996, 1998)提出的重磁反演算法，该软件提供了开展先验信息约束的接口，可以开展带先验信息约束反演(Williams，2008).
+
+首先对重力和磁力进行匹配滤波，提取10 km以浅的局部重磁场，对重磁数据分别反演，获取三维密度数据体和磁化率数据体，然后根据各类岩体对应的不同密度和磁化率组合，对密度体和磁化率体交集运算，满足交集的部分即视为是对应类型的岩体(Yan et al.，2019).图 5a为中基性岩体三维分布特征，图 5b为酸性岩体三维分布特征，由于中基性岩体具有一定磁性和较高的密度，与围岩的物性差异明显，圈定的结果与地表实际情况吻合度高.而酸性岩体无磁性或磁性较弱，密度较低，与围岩的物性差异相对较小，所以圈定效果与实际情况有一定偏差，如和尔赛—铜华岭—拉伊克勒克一带的隐伏岩体未能有效的刻画出来，但总体来看，圈定的岩体与地表出露岩体实际情况基本吻合.在三维可视化软件中，通过旋转、切片、调整透明的等操作，进行人机交互分析岩体的三维形态，以及岩体与矿床、地层之间的关系，极大的方便了地质解释工作的开展.
+
+点击查看原图	
+图 5 基于重磁三维反演识别的岩体分布立体图
+(a) 中基性岩体；(b) 酸性岩体，底图为地质图.
+Fig. 5 3D perspective diagram (view from SE to NW) of intrusions derived from gravity and magnetic 3D inversion
+(a) Intermediate-basic intrusion; (b) Acid intrusion. The base map is geological map.
+1.4 蚀变信息提取
+地球化学异常直接反映了蚀变矿化的可能，而极化率间接的反映了地质体蚀变特征.我们利用新疆物化探大队采集的1 ∶ 50000激电中梯面积性数据进行处理和分析.由于1 ∶ 50000激电测量由于供电极距大，测量范围大，参数设置不一定能完全合乎工区的各类地表环境，所以极化率受近地表地质条件影响较大，在低阻区容易出现测不准的情况，造成出现畸变点甚至假异常，而在高阻区往往会出现无法改善接地条件、供电不足导致一次电位太低，也可能出现畸变点，给区域解释带来不便，为突出区域极化率的分布特征，对原始极化率进行滑动窗口滤波处理，获得相对清晰的区域极化率分布图(图 6).
+
+点击查看原图	
+图 6 琼河坝地区极化率异常及编号
+Fig. 6 Induced polarization chargeability anomalies and number in Qiongheba area
+总体来看上强度较大或背景较高的极化率场分布在研究区北部，一般呈面状分布，规模较大，这种特征主要与普查区北部分布的奥陶系荒草坡群有密切的关系，由于该地层受到不同时期的侵入岩体的热液活动使其硫化物(主要黄铁矿)富集所致.其他多数地区极化率背景不高，形成的异常规模较小，这种特征正是反映研究区岩性主要以一套海相火山岩、火山喷发岩以及分布较为广泛的中酸性侵入岩为主的地质环境.
+
+根据异常特征，可划分出编号IP-1到IP-17共17个主要极化率异常，可分为以下几种类型：
+
+(1) 东北部与荒草坡群地层密切相关的IP-1-IP-4异常.该异常区极化率异常走向以北东东向为主，异常强度大，多呈面状分布.异常带出露的地层以奥陶系荒草坡群为主，岩性与以小面积的下泥盆系托让格库都克下段为辅，岩性为灰绿色-浅紫红色玄武岩和中酸性的凝灰岩.后期侵入岩体的期次较多，主要为石炭纪的黑云母二长花岗岩、黑云母花岗闪长岩，志留世第一侵入期次的石英闪长岩、第二、第三、第四侵入期次的英云闪长岩等.强极化率背景上叠加了矿(化)致异常，蒙西铜矿、201金矿、桑南铜矿和琼河坝铜矿位于IP-1中，鑫源铁矿位于IP-4异常中.
+
+(2) 与泥盆纪地层出露区的异常(IP-7、IP-10).这几个极化率异常位于泥盆系火山岩出露区，对应中部的高重力异常区，异常呈面状分布，这可能与泥盆纪火山岩中广泛发育的黄铁矿化、褐铁矿化有关，矿化富集的地段形成矿床，如IP-10中的北山金矿、IP-7中的宝山铁矿、绿石沟铜矿，IP-9中矿化点分布较多，如琼东铜矿、琼河坝铁矿等.
+
+(3) 与岩体、隐伏岩体对应的极化率异常(IP-6、IP-8、IP-12、IP-13、IP-14).这些异常与岩体(隐伏岩体)空间关系密切，可能与对应岩体中硫化物分布广泛有关，此类异常区是寻找斑岩铜矿的有利地段.IP-5和IP-6异常经过新疆物化探大队的查证，发现了多处孔雀石化、黄铁矿化，实施的钻孔未发现工业规模矿体，但黄铁矿广泛分布，说明这两处岩体中热液活动强烈，在合适部位仍有可能富集成矿.IP-8地表为石炭系黑石头组，但异常中心部位为二长岩，推测极化率与后期岩浆活动有关，且成为多条断裂的交汇部位，也有组合的化探异常叠加，是找矿的有利地段.IP-11对应为赛北岩体，虽然目前还没见到工业品位矿体，但仍有良好的找矿前景.IP-12为新发现的拉伊克勒克铜多金属矿区，其东段为第四系覆盖，西端出露泥盆系地层，目前的验证工作表明，此异常为硫化物引起，局部地段铜矿化富集成矿，由于该异常规模较大且排除了碳质等其他因素的干扰，该异常具有良好的找矿前景，初步推测能形成中型铜(钼、锌)矿.IP-13为铜华岭铜矿，IP-14为和尔赛铜矿，这两个矿已经完成了初步勘探，求出了储量.
+
+(4) 与含碳火山岩或煤系地层有关的异常(IP-11、IP-16、IP-17).此类异常由石炭系和侏罗系中的煤系地层和碳质引起，IP-16为横干河北的煤矿化引起，IP-17为侏罗沟附近的煤矿化所引起.此类异常主要对应石炭系那林卡拉组中酸性火山熔岩夹中酸性沉凝灰岩，以及侏罗纪砂岩、泥质砂岩等.石炭系那林卡拉组地层中的极化率异常相对较少，多数异常分布在侏罗纪地层之中，从目前发现的矿点看普查区侏罗系地层除煤矿以外，仅有菱铁矿点分布其中，因此这些激电异常对寻找金属矿床的意义不大.
+
+(5) 与明矾石相关的异常(IP-5、IP-9、IP-15).此类异常与明矾石及硫铁矿中的大量黄铁矿化关系密切，如IP-15淖毛湖北山明矾石矿地表褐铁矿化蚀变强烈，岩石裂隙中黄铁矿化广泛发育.本区激电极化率异常特征十分明显，强度较高的极化率异常有四类主要源体引起：①黄铁矿化普遍的奥陶系火山凝灰岩；②石炭纪黄铁矿化发育的中酸性火山岩(明矾石矿点)；③中泥盆统北塔山组局部的含碳泥质火山片岩；④石炭—侏罗系含碳地层及含煤系地层.这其中，前两类地质因素值得重视，在奥陶系火山岩中，与侵入斑岩体密切相关的蒙西大型铜矿；在与火山—侵入岩密切相关的北山明矾石矿附近综合化探异常显示有进一步寻找隐伏铜金矿前景.中等强度的激电异常影响因素较多，如北山金矿、绿石沟铜矿及和尔赛、铜华岭及拉伊克勒克附近的激电异常，引起异常的原因多是与成矿有直接联系的黄铁矿化密切相关.
+
+金属因子(极化率与电阻率的比值)与地质情况也有一定的对应关系(图 7).受碳质影响，金属因子最强(大于2.82)的为IP-16和IP-17对应的石炭系和侏罗系中的极化率异常，金属因子第二强(1.4~2.28)的多为覆盖区，这是由于覆盖区电阻率低造成的，此级别金属因子还有一部分是隐伏斑岩铜矿，如拉伊克勒克矿区、蒙西铜矿等；金属因子在1~1.25的区域中一部分与矿化岩体、矿床关系密切，如铜华岭、和尔赛、琼河坝铜矿等地；金属因子在0.85以下的区域反映了蚀变矿化均不强烈的岩体.从金属因子分析，在琼河坝地区寻找斑岩及热液型硫化物金属矿的有利地段主要在1~1.25及1.4~3之间范围之间.
+
+点击查看原图	
+图 7 琼河坝地区激电中梯金属因子图
+Fig. 7 Metallic factors of central gradient array induced polarization in Qiongheba area
+1.5 靶区预测
+找矿靶区预测主要是根据推断划分的断裂构造、圈定的岩体和化探异常，并结合已知的地质资料综合分析研究，进行找矿预测(王巧云等，2020).在琼河坝铁铜金矿集区，矽卡岩-斑岩型铜矿、矽卡岩型铁铜金矿及浅成低温热液构造蚀变岩型金矿是本区最主要的矿床类型.孟贵祥等(2021)对宝山磁铁矿、蒙西斑岩型铜矿和北山构造蚀变岩金矿进行地球物理、地球化学和矿床地质解剖，总结了琼河坝地区这三类矿床的地球物理和构造标志.
+
+斑岩铜金矿找矿标志：(1)与隐伏岩体关系密切，物探异常组合具有明显的高极化、高重力、中等电阻率、中等磁异常的“两高、两过渡带”特征.(2)构造标志：北西向、东西向主干断裂的次级断裂破碎带是含矿斑岩侵入的通道.(3)化探异常标志：矿床指示元素组合：以Au、Cu、Mo元素异常为主的Au、Cu，Au、Cu、Zn，Cu、Mo、Au和Cr、Co、Ni综合异常组合.
+
+矽卡岩型铁铜金矿找矿标志：(1)岩体边部的高磁异常，在三维反演结果表现为高磁性高密度地质体.(2)地面物探组合特征：区内3000~4000 nT以上的磁异常主要是磁铁矿所引起，1000~3000 nT的磁异常多为玄武岩及玄武质凝灰岩引起，部分2000~3000 nT磁异常套合重力低缓异常部位是深部可能存在隐伏盲矿体所引起，需要根据地表出露的岩石加以区别.
+
+构造蚀变岩型金矿找矿标志：(1)区域上北西向主干深大断裂附近的次级北东、北西向、近南北和近东西向构造蚀变带是直接找矿标志.(2)岩浆岩标志：隐伏的花岗闪长岩、闪长岩是间接找矿标志，重磁三维反演识别的中酸性岩体边部是重要找矿地段.地面物探组合异常是高极化、低阻异常、弱-负磁异常及位于重力梯级带中，即“一高两低一过渡”异常组合是寻找该类矿床的物探标志.(3)化探标志：分散流Au、Ag、As、Co、Cu、Zn异常分布范围指示矿化分布范围.(4)地层标志：中泥盆统北塔山组，特别是隐伏岩体之上的第二亚组(D2b2)地层是间接找矿标志.
+
+根据上述标志，结合本文给出的构造、岩体分布，圈定了7处找矿靶区(图 8)，顺通靶区：斑岩型铜矿；坝西靶区：斑岩型铜矿；绿石沟—宝山靶区：矽卡岩型铁铜矿；横干河靶区：矽卡岩型铁铜矿；北山外围靶区：构造蚀变岩型金矿；拉伊克勒克靶区：斑岩型-矽卡岩型铁铜矿；狮子沟靶区：构造蚀变岩型金矿.
+
+点击查看原图	
+图 8 琼河坝地区岩体、构造与找矿靶区预测图
+Fig. 8 Intrusions, faults and prospecting targets in Qiongheba area
+2 拉伊克勒克隐伏矿床定位
+2.1 隐伏矿定位与勘查技术
+拉伊克勒克靶区(图 8中6号靶区)，地表绝大部分为第四系覆盖，根据岩体识别结果和断裂划分结果，该区下面存在隐伏的偏酸性岩体，还有2条北西南东向断裂发育，并且有地球化学组合异常和高极化率异常，“构造+岩体+矿化蚀变”信息俱全，是寻找矽卡岩、斑岩型矿床的有利靶区.由于拉伊克勒克靶区大部分地段为第四系覆盖，常规的方法难于进一步甄别矿在何处，为定位隐伏矿体和扩大矿床规模，我们采用图 9所示的技术路线开展进一步的工作.
+
+点击查看原图	
+图 9 拉伊拉克覆盖区隐伏矿定位技术路线
+Fig. 9 Location technology route for concealed ore deposits in Layikeleke cover area
+2.2 隐伏矿发现—预查
+预查阶段前期主要任务是圈定找矿重点地段，为获取足够的信息，我们在拉伊克勒克靶区布设了1 ∶ 5000的大比例尺重力、磁力和1 ∶ 10000激电面积测量(中间梯度装置)，圈定出异常后，在异常区进一步加密测线，局部地段加密到1 ∶ 2000比例尺.通过重磁三维反演、结合地球化学异常，圈定出找矿重点区段.然后在再部署电磁测深、激电测深等工作量，结合重磁交互正演等手段，进行定量(半定量)分析，确定矿体可能赋存的位置，实施钻孔验证.
+
+(1) 矽卡岩铁铜矿的发现
+
+拉伊克勒克靶区地表为第四系覆盖，根据岩体识别和断裂划分结果，该区下面存在着隐伏的偏酸性岩体和发育有两条北西—南东向断裂. 开展1 ∶ 5000的重力、1 ∶ 2000的磁力测量和1 ∶ 10000大功率激电中梯面积性测量，并在异常组合有利地段部署了音频大地电磁测深和对称四极激电测深，对靶区开展查证工作(图 10).
+
+点击查看原图	
+图 10 拉伊克勒克矿床极化率异常、地球化学异常与矿区地质图
+1—第四系；2—新近系上新统；3—石炭系下统姜巴斯套组；4—泥盆系中统北塔山组；5—泥盆系下统托让格库都克组；6—英云闪长斑岩；7—闪长岩; ；8—辉绿岩脉；9—英云闪长玢岩脉；10—矿床点；11—地球化学异常；12—钻孔.
+Fig. 10 Map showing geology, induce polarizability anomalies and geochemical anomalies in the Layikeleke deposit
+1—Quaternary; 2—Neogene poliocene; 3—Jiangbasitao Formation of Lower Carboniferous series; 4—Beitashan Formation of Middle Devonian series; 5—Tuorangekuduke Formation of Lower Devonian series; 6—Quartz mica dioritic porphyry; 7—Diorite; 8—Diabase dikes; 9—Quartz mica dioritic porphyrite vein; 10—Deopsit point; 11—Geochemical anomalies; 12—Borehole.
+对磁异常进行化极处理后获得化极磁异常(石磊等，2012)，异常总体呈北西走向，局部高磁异常为北东向，磁异常最高为12000 nT.为提取浅部密度体信息，对重力数据进行了匹配滤波，获得了剩余重力异常，重力异常形态与磁异常基本一致，说明二者为同源异常，高磁异常与高重力异常位置基本吻合.大功率中梯激电获取的视极化率异常现了一处主体异常和小异常，异常为北西向，由于背景极化率很低(0.3%)，0.7%以上的极化率即可视为高异常，推测极化率异常为金属硫化物所致.中梯视电阻率走向也为北西向，由于地表覆盖较厚，整体电阻率较低，最高仅400 Ωm，高电阻率反映了地层或岩体的隆起.高磁高重地段的异常组合为“三高一中”，即高重力异常、高磁异常、高极化率异常和中等电阻率异常，极高的磁异常反映地下肯定有强磁性物质的存在，加之高重力异常，高极化率异常，通过综合分析排除了基性岩体的可能，推测该异常组合可能由磁铁矿和金属硫化物矿体所引起.重磁三维反演揭示了该组合异常下方存在高磁性高密度的地质体，各类异常位置基本一致(图 11).根据上述物探异常特征和重磁三维反演结果，部署了zk1号钻孔，开孔揭穿12 m厚的第四系覆盖层之后即发现了矽卡岩型富铜铁矿体，矿体连续视厚度达46 m，为该隐伏矿床的发现打开了局面.
+
+点击查看原图	
+图 11 拉伊克勒克矿床综合地球物理异常三维显示图(修改自严加永等，2017)
+Fig. 11 Three-dimensional display of comprehensive geophysical anomalies in the Layikeleke deposit(modified from Yan et al., 2017)
+(2) 斑岩铜矿的发现
+
+在zk1孔发现夕卡岩铜铁矿后，可初步确定极化率异常与成矿关系密切.通过对极化率的进一步分析，经激电中梯等测量发现了一个形态较规整的极化率异常，它以1%等值线划分的异常大致呈北西向带状展布，长度大于5 km，异常宽度500~1000 m，异常形态不规则，在异常中部有南北分叉现象(图 10).该极化率异常西北段对应HS-7号化探异常，该异常为Cu、Au、Zn、As、Mn、Co等多元素的综合异常，尤其以Cu、Au、Zn较为富集.该激电异常对应为低磁异常和低重力异常，局部地段为高极化率、低重力、低磁力和低电阻率的异常组合，故推测为由矿化岩体所引起.2011年决定对该极化率异常进行钻探验证，首先在垂直异常走向的零线上，布置了zk2钻孔(图 10)，在40 m厚的第四系和泥盆系盖层之下，查明存在一厚达近千米强蚀变似斑状英云闪长岩体，并在其中发现了较好的铜(钼)矿化，揭开了拉伊克勒克大型铜矿的面纱.
+
+2.3 矿床规模扩大-普查详查
+进入普查、详查阶段后，为扩大矿床规模，进行合理部署钻孔.在该阶段，我们通过预查钻孔岩性物性分析，将勘探线剖面与地球物理探测结果进行综合对比分析，优选出有效的方法技术组合，为普查、详查的钻孔布设提供依据.
+
+首先我们对比了激电中梯、测深与矿体的对应关系.在激电中梯面积测量的基础上，在276线开展了对称四极激电测深试验(测线位置如图 10所示)，发现激电测深高极化率中心与中梯激电高极化率中心偏差300 m(图 12)，在中梯极化率异常中心和北侧实施了276-1和276-2钻孔.276-1钻孔见到了不同程度的铜、钼矿化体，但矿体连续性较差，未能圈出较厚矿体(表 1).276-2钻孔见到泥岩等围岩地层，云英闪长岩范围较小，只有零星蚀变和矿化，为发现具有工业价值的矿体.激电测深发现ZK276-1孔虽然在中梯激电异常中心，但在测深极化率断面上明显极化体的外侧，ZK276-2则离极化体更远，故未钻遇矿体，分析认为这是ZK276-1和ZK276-2孔未见连续矿体的主要原因.依据激电极化率测深成果，在极化体中心部署的ZK276-3孔揭露了9层铜矿体(表 1)，其中最厚一层厚达近157 m，铜平均品位大于0.3%，表明激电测深可以揭示厚覆盖下的隐伏矿体，而中梯激电反映的为覆盖较浅地段的极化体，同时，也说明了激电测深结果可作为扩大矿体规模阶段钻孔部署的重要依据.
+
+点击查看原图	
+图 12 276线综合地球物理探测剖面
+(a) 重力异常剖面; (b) 磁异常剖面; (c) 激电中梯剖面; (d) 高频大地电磁电阻率断面; (e) 对称四极测深极化率断面.
+Fig. 12 Integrated geophysical profiles of Line 276
+(a) Gravity anomaly; (b) Magenetic anomaly; (c) Gradient induced polarization; (d) High frequency magnetotelluric resistivity; (e) Symmetric four-pole IP sounding.
+点击查看表格内容	
+表 1 276线钻孔编录表
+Table 1 Logging data of boreholes in Line 276
+为进一步指导钻孔部署以扩大矿床规模，垂直图 10中的中梯高极化异常带部署了对称四极激电测深，完成了421个激电测深点.图 13为拉伊克勒克铁铜矿区激电测深获取的极化率和电阻率经三维插值后获取的矿区极化体和电阻率体的三维空间分布示意图，为详查、勘探阶段钻孔部署提供了直接依据.钻探验证结果表明，见矿较好的地段为高极化体南西侧、高电阻率体北东侧，也即二者重合部位是目前发现矿体较好的地段(图 13).
+
+点击查看原图	
+图 13 拉伊克勒克矿区高极化体(a)和高电阻率体(b)与钻孔三维空间特征
+Fig. 13 Three-dimensional characteristics of Layikeleke deposit with (a) high-polarization body and (b) high-resistivity body
+根据综合地球物理方法资料的综合分析下，在拉伊克勒克矿区共部署施工钻孔53个，有效进尺共计22446.4 m，发现并评价为大型铜多金属矿.斑岩铜钼矿主体产于英云闪长岩体中，少部分延伸于岩体外的火山岩地层及黑云母二长花岗岩体内.据工程控制目前连接矿体的特点，斑岩型铜钼矿带平面分布呈北西向延长的不规则纺缍状，垂向上呈中间延深大，东西两端薄而扬起的“船”形(图 14).矿体在走向上变化较大，相邻孔见矿层数和厚度差别较大.矿体在垂向上大体呈串状相叠，稀疏不均.横向上主体延伸比较连续和平稳，部分有断续和波状起伏，整体具有成层组集中的特点.铜钼矿体中主要为铜矿体，共生少量钼矿体，分为同体共生或异体共生，以同体共生为主.斑岩型铜钼矿多为同体共生，钼矿体分布范围较广但矿体分散且规模均较小.矽卡岩型铜铁矿产于中基性火山岩地层之中，为盲矿体.矽卡岩型铜铁矿基本为同体共生矿体，但不完全重叠.其中，铁矿整体赋存于火山岩地层之中，矿体呈沿倾向略长的马鞍形透镜体状，平面投影范围呈南北向略长的不规则椭圆状.铜矿体为主要工业铜矿体，与磁铁矿矿体赋存位置基本相同，但规模略小.矿体为透镜体状，局部有波状弯曲和起伏，中部向上拱起，北段平缓近于水平，南段向南下部倾伏.通过块段法，全区求得铜矿金属量(333+334)118万吨，全区铜矿伴生银矿1404.44吨，钼矿(333+334)6376吨，高品位磁铁矿矿石量251万吨.
+
+点击查看原图	
+图 14 拉伊克勒克矿床矿体三维形态
+MFe-磁铁矿体；Mo-钼矿体；Cu-铜矿体.
+Fig. 14 Three-dimensional shape of the ore body in Layikeleke deposit
+MFe-magnetite ore body; Mo-molybdenum ore body; Cu-copper ore body.
+3 结论
+(1) 在总结新疆琼河坝地区三类主要矿床均与岩体和构造有着密切关系的基础上，通过1 ∶ 50000重磁资料的处理和挖掘，厘定了断裂系统，识别了岩体分布，结合1 ∶ 5激电中梯的极化率和化探信息，预测了7处找矿靶区.对其中的拉伊克勒克靶区进行了查证，从预查到详查，通过地球物理的创新组合，在地表没有矿化线索的荒漠戈壁，新发现和评价了拉伊克勒克大型铜多金属矿，包括大型斑岩铜钼矿和小型矽卡岩型富铁铜矿2个矿段，在琼河坝地区荒漠戈壁覆盖区实现找矿突破.
+
+(2) 合理的技术组合加正确的找矿思路是覆盖区隐伏矿发现的关键，研究结果表明本文提出的荒漠覆盖区预覆盖预测与定位技术，在类似荒漠覆盖景观区具有一定的示范意义.
+
+(3) 拉伊克勒克大型铜多金属矿的发现，说明在新疆、内蒙等戈壁荒漠覆盖层下找矿潜力巨大，是国家战略性矿产勘查的重要方向.
+
+致谢  新疆地矿局物化探大队提供了琼河坝地区1 ∶ 5重磁和激电数据，参加拉伊克勒克地球物理数据采集的有张振林、夏福成、赵建豪、刘有峰、郭建华、胡浩、丁峰、邵陆森等，参加钻孔编录、储量计算等地质工作的有邵星月、杨超、张树德、许亚宁、童英、吴健、李高峰、吕博、黄伟等，项目开展期间得到了新疆地勘基金得大力支持，中国地质调查局及西安地质调查中心和中国地质科学院矿产资源研究所领导专家多次到野外指导，拉伊克勒克铜多金属矿的发现离不开上述个人和单位支持和帮助，三位匿名审稿人提出了建设性意见，在此一并表示衷心感谢！
+References
+Cao J J, Hu R Z, Liang Z R, et al. 2009. TEM observation of geogas-carried particles from the Changkeng concealed gold deposit, Guangdong Province, South China. Journal of Geochemical Exploration, 101(3): 247-253. DOI:10.1016/j.gexplo.2008.09.001
+Cheng Q M. 2012. Ideas and methods for mineral resources integrated prediction in covered areas. Earth Science-Journal of China University of Geosciences (in Chinese), 37(6): 1109-1125.
+Cui M L, Zhang B L, Liang G H, et al. 2010. The technical combination of comprehensive geophysical prospecting in the Molybdenum mines with loess-covered: A case study at the Shapoling Molybdenum mine. Progress in Geophysics (in Chinese), 25(2): 602-611. DOI:10.3969/j.issn.1004-2903.2010.02.033
+Dong L H, Xu X W, Qu X, et al. 2009. Tectonic setting and formation mechanism of the circum-Junggar porphyritic copper deposit belts. Acta Petrologica Sinica (in Chinese), 25(4): 713-737.
+Guo L H, Gao R, Meng X H, et al. 2015. A hybrid positive-and-negative curvature approach for detection of the edges of magnetic anomalies, and its application in the South China Sea. Pure and Applied Geophysics, 172(10): 2701-2710. DOI:10.1007/s00024-014-0956-y
+Hao X Z, Yang Y H, Li Y P, et al. 2013. Application of integrated ore prognosis method in covered area: a case study of Shanxian iron deposit in Shandong province, China. Journal of Jilin University (Earth Science Edition) (in Chinese), 43(2): 641-648.
+Hosseini-Dinani H, Aftabi A. 2016. Vertical lithogeochemical halos and zoning vectors at Goushfil Zn-Pb deposit, Irankuh district, southwestern Isfahan, Iran: Implications for concealed ore exploration and genetic models. Ore Geology Reviews, 72: 1004-1021. DOI:10.1016/j.oregeorev.2015.09.023
+Hu S G, Tang J T, Ren Z Y, et al. 2019. Normalized facet edge detection and enhancement in potential field sources with the scale-space technique. Chinese Journal of Geophysics (in Chinese), 62(1): 331-342. DOI:10.6038/cjg2019L0317
+Huang G Z. 2014. Overview of new prospecting methods of Gobi-overburden Area. Resources Environment & Engineering (in Chinese), 28(1): 69-73.
+Jin Z B, Zhou X P, Zhang S K, et al. 2014. Study on prospecting test of deep-penetrating geochemical Multi-mathod in thick loess coverage area of the Zhongtiao mountain. Geological Survey and Research (in Chinese), 37(3): 197-202.
+Lü Q T, Han L G, Yan J Y, et al. 2010. Seismic imaging of volcanic hydrothermal iron-sulfur deposits and its hosting structure in Luzong ore district. Acta petrologica Sinica, 26(9): 2598-2612.
+Lü Q T, Liu Z D, Tang J T, et al. 2014. Upper crustal structure and deformation of Lu-Zong ore district: constraints from integrated geophysical data. Acta Geologica Sinica (in Chinese), 88(4): 447-465.
+Li Y G, Oldenburg D W. 1996. 3-D inversion of magnetic data. Geophysics, 61(2): 394-408. DOI:10.1190/1.1443968
+Li Y G, Oldenburg D W. 1998. 3-D inversion of gravity data. Geophysics, 63(1): 109-119. DOI:10.1190/1.1444302
+Liu G D, Hao T Y. 1995. Searching of hidden mineral deposits by geophysical methods. Acta Geophysica Sinica (in Chinese), 38(6): 850-854.
+Mei Y X, Pei R F, Yang D F, et al. 2009. Global metallogenic domains and districts. Mineral Deposits (in Chinese), 28(4): 383-389.
+Meng G X, Lü Q T, Yan J Y, et al. 2021. Laikeleke Copper Deposit, Yiwu County, Xinjiang (in Chinese). Beijing: Geological Publishing House.
+Meng G X, Tang H J, Yang Y Q, et al. 2016. Age determination of Late Paleozoic intrusive rocks in Qiongheba ore concentration area, Xinjiang and its constraints on mineralizationt (in Chinese). //13th National Conference on Mineral Deposits, Expanded Abstracts. Hefei: Chinese Geological Society, Chinese Society of Mineral and Rock Geochemistry, China Mining Federation, 91-92.
+Meng G X, Yan J Y, Yang Y Q, et al. 2015. Iron deposit types and metallogenic characteristics in Qiongheba area, Xinjiang. Mineral Deposits (in Chinese), 34(2): 361-378.
+Meng X H, Shi L, Guo L H, et al. 2012. Multi-scale analyses of transverse structures based on gravity anomalies in the northeastern margin of the Tibetan Plateau. Chinese Journal of Geophysics (in Chinese), 55(12): 3933-3941. DOI:10.6038/j.issn.0001-5733.2012.12.006
+Perello J, Cox D, Garamjav D, et al. 2001. Oyu Tolgoi, Mongolia: siluro-devonian porphyry Cu-Au-(Mo) and high-sulfidation Cu mineralization with a cretaceous chalcocite blanket. Economic Geology, 96(6): 1407-1428. DOI:10.2113/gsecongeo.96.6.1407
+Qu X, Xu X W, Liang G L, et al. 2009. Geological and geochemical characteristics of the Mengxi Cu-Mo deposit and its constraint to tectonic setting of the Qiongheba magmatic arc in eastern Junggar, Xinjiang. Acta Petrologica Sinica (in Chinese), 25(4): 765-776.
+Seltmann R, Porter T M. 2005. The porphyry Cu-Au/Mo deposits of Central Eurasia: 1. Tectonic, geologic and metallogenic setting and significant deposits. //Porter T M ed. Super Porphyry Copper & Gold Deposits: A Global Perspective. Adelaide: PGC Publishing, 2: 467-512.
+Shah A K, Bedrosian P A, Anderson E D, et al. 2013. Integrated geophysical imaging of a concealed mineral deposit: A case study of the world-class Pebble porphyry deposit in southwestern Alaska. Geophysics, 78(5): B317-B328. DOI:10.1190/geo2013-0046.1
+Shen Y C, Wang X H, Cong R C, et al. 2013. Eco-geographical zoning of Deserts and Gobi in China. Journal of Arid Land Resources and Environment (in Chinese), 27(1): 1-13.
+Shi L, Guo L H, Meng X H, et al. 2012. The modified pseudo inclination method for magnetic reduction to the pole at low latitudes. Chinese Journal of Geophysics (in Chinese), 55(5): 1775-1783. DOI:10.6038/j.issn.0001-5733.2012.05.035
+Sun K. 2018. Research on integrated application of geophysical information on geological mapping of Barkol basin[Ph. D. thesis] (in Chinese). Wuhan: China University of Geosciences.
+Tang J T, Shi Q B, Hu S G, et al. 2019. Edge detection based on curvature of gravity gradient tensors. Chinese Journal of Geophysics (in Chinese), 62(5): 1872-1884. DOI:10.6038/cjg2019M0427
+Wang D H, Li H Q, Ying L J, et al. 2009. Copper and gold metallogenic epoch and prospecting potential in Qiongheba area of Yiwu County, Xinjiang. Mineral Deposits (in Chinese), 28(1): 73-82.
+Wang Q J, Wei Y M, Chen Y, et al. 2017. Remote sensing porphyry copper deposit exploration model and its application in low vegetated areas: an example from the taken Balkhash-western Junggar metallogenic zones. Acta Geologica Sinica (in Chinese), 91(2): 400-410.
+WangQ S, Zhang J H, You M, et al. 2021. Detecting steeply inclined gold deposits in thick-covered areas buy using current magnetic field method. Progress in Geophysics (in Chinese), 36(1): 281-289. DOI:10.6038/pg2021EE0083
+Wang Q Y, Du L M, Hu C Y, et al. 2020. Geophyisical characteristics and prospecting prediction of Jiaojia gold metallogenic belt, Shandong province. Progress in Geophysics (in Chinese), 35(3): 1061-1067. DOI:10.6038/pg2020DD0323
+Wang X D, Liu D Q, Tang Y L, et al. 2006. Metallogenic characteristics and perspective of the porphyry copper in Qiongheba, Yiwu county. Xinjiang Geology (in Chinese), 24(4): 398-404.
+Williams N C. 2008. Geologically-constrained UBC-GIF gravity and magnetic inversions with examples from the Agnew-Wiluna greenstone belt, Western Australia[Ph. D. thesis]. Vancouver: University of British Columbia.
+Xiong S Q, Yang H, Ding Y Y, et al. 2016. Characteristics of Chinese continent Curie point isotherm. Chinese Journal of Geophysics (in Chinese), 59(10): 3604-3617. DOI:10.6038/cjg20161008
+Yan J Y, Chen X B, Meng G X, et al. 2019. Concealed faults and intrusions identification based on multiscale edge detection and 3D inversion of gravity and magnetic data: A case study in Qiongheba area, Xinjiang, Northwest China. Interpretation, 7(2): T331-T345. DOI:10.1190/INT-2018-0066.1
+Yan J Y, Lü Q T, Chen M C, et al. 2015. Identification and extraction of geological structure information based on multi-scale edge detection of gravity and magnetic fields: An example of the Tongling ore concentration area. Chinese Journal of Geophysics (in Chinese), 58(12): 4450-4464. DOI:10.6038/cjg20151210
+Yan J Y, Lü Q T, Chen X B, et al. 2014a. 3D lithologic mapping test based on 3D inversion of gravity and magnetic data: A case study in Lu-Zong ore concentration district, Anhui Province. Acta Petrologica Sinica (in Chinese), 30(4): 1041-1053.
+Yan J Y, Lü Q T, Meng G X, et al. 2009. Aeromagnetic 3D inversion imaging for intermediate-acid intrusive bodies and its indication significance of deep ore prospecting in Tongling ore concentration district. Mineral Deposits (in Chinese), 28(6): 838-849.
+Yan J Y, Lü Q T, Meng G X, et al. 2011. Tectonic framework research of the lower and middle Yangtze metallogenic belt based on gravity and magnetic multi-scale edge detection. Acta Geologica Sinica (in Chinese), 85(5): 900-914.
+Yan J Y, Lü Q T, Wu M A, et al. 2014b. Prospecting indicator of Anhui Shaxi porphyry copper deposit based on regional gravity and magnetic 3D Inversion. Acta Geologica Sinica (in Chinese), 88(4): 507-518.
+Yan J Y, Meng G X, Yang Y Q, et al. 2017. Discovery and metallogenic characteristics of Layikeleke magmatic skarn type of rich copper-iron deposit, Eastern Junggar, Xinjiang. Geological Review (in Chinese), 63(2): 413-426.
+Yang F Q, Yan S H, Liu G R, et al. 2010. Geological characteristics and metallogenesis of porphyry copper deposits in Junggar, Xinjiang. Mineral Deposits (in Chinese), 29(6): 956-971.
+Yu G P, Xu T, Liu J T, et al. 2020. Late Mesozoic extensional structures and gold mineralization in Jiaodong Peninsula, eastern North China Craton: an inspiration from ambient noise tomography on data from a dense seismic array. Chinese Journal of Geophysics (in Chinese), 63(5): 1878-1893. DOI:10.6038/cjg2020N0446
+Zhang X D, Meng X H, Chen Z X, et al. 2018. Comprehensive study of the geological and geophysical characteristics of the metallogenic belt in Southwest Fujian——A case study in the Yongding-Dapai polymetallic ore deposit. Chinese Journal of Geophysics (in Chinese), 61(4): 1588-1595. DOI:10.6038/cjg2018L0666
+Zhang Y, Zhang S X, Liang Q, et al. 2015. Application of boundary identifying technologies using gravity and magnetic maps in three-dimensional geological mapping of western Junggar area. Earth Science-Journal of China University of Geosciences (in Chinese), 40(3): 431-440. DOI:10.3799/dqkx.2015.035
+Zheng Q, Guo H, Zhang G B, et al. 2019. Research and application of edge detection based on full tensor magnetic gradient direction Theta method. Progress in Geophysics (in Chinese), 34(4): 1568-1576. DOI:10.6038/pg2019CC0328
+Zhou W Y, Yan J Y, Chen C X. 2021. Multiscale geophysics and mineral system detection: status and progress. Progress in Geophysics (in Chinese), 36(3): 1208-1225. DOI:10.6038/pg2021EE0192
+成秋明. 2012. 覆盖区矿产综合预测思路与方法. 地球科学-中国地质大学学报, 37(6): 1109-1125.
+崔敏利, 张宝林, 梁光河, 等. 2010. 黄土覆盖区钼矿综合地球物理找矿技术组合: 以沙坡岭钼矿为例. 地球物理学进展, 25(2): 602-611. DOI:10.3969/j.issn.1004-2903.2010.02.033
+董连慧, 徐兴旺, 屈迅, 等. 2009. 初论环准噶尔斑岩铜矿带的地质构造背景与形成机制. 岩石学报, 25(4): 713-737.
+郝兴中, 杨毅恒, 李英平, 等. 2013. 综合找矿方法在覆盖区的应用——以山东省单县大刘庄铁矿勘查为例. 吉林大学学报(地球科学版), 43(2): 641-648.
+胡双贵, 汤井田, 任政勇, 等. 2019. 基于尺度空间技术的归一化Facet模型位场边界识别. 地球物理学报, 62(1): 331-342. DOI:10.6038/cjg2019L0317
+黄桂珍. 2014. 荒漠戈壁覆盖区的矿产勘查技术探讨. 资源环境与工程, 28(1): 69-73. DOI:10.3969/j.issn.1671-1211.2014.01.020
+靳职斌, 周新鹏, 张双奎, 等. 2014. 深穿透地球化学多方法组合在中条山厚层黄土覆盖区找矿试验研究. 地质调查与研究, 37(3): 197-202. DOI:10.3969/j.issn.1672-4135.2014.03.007
+刘光鼎, 郝天珧. 1995. 应用地球物理方法寻找隐伏矿床. 地球物理学报, 38(6): 850-854. DOI:10.3321/j.issn:0001-5733.1995.06.018
+吕庆田, 韩立国, 严加永, 等. 2010. 庐枞矿集区火山气液型铁、硫矿床及控矿构造的反射地震成像. 岩石学报, 26(9): 2598-2612.
+吕庆田, 刘振东, 汤井田, 等. 2014. 庐枞矿集区上地壳结构与变形: 综合地球物理探测结果. 地质学报, 88(4): 447-465.
+梅燕雄, 裴荣富, 杨德凤, 等. 2009. 全球成矿域和成矿区带. 矿床地质, 28(4): 383-389. DOI:10.3969/j.issn.0258-7106.2009.04.001
+孟贵祥, 吕庆田, 严加永, 等. 2021. 新疆伊吾县拉伊克勒克铜矿床. 北京: 地质出版社.
+孟贵祥, 汤贺军, 杨岳清等. 2016. 新疆琼河坝矿集区晚古生代侵入岩时代的厘定及其对成矿作用的制约. //第十三届全国矿床会议论文集. 合肥: 中国地质学会, 中国矿物岩石地球化学学会, 中国矿业联合会, 91-92.
+孟贵祥, 严加永, 杨岳清, 等. 2015. 新疆琼河坝地区铁矿床类型及其成矿特征. 矿床地质, 34(2): 361-378.
+孟小红, 石磊, 郭良辉, 等. 2012. 青藏高原东北缘重力异常多尺度横向构造分析. 地球物理学报, 55(12): 3933-3941. DOI:10.6038/j.issn.0001-5733.2012.12.006
+屈迅, 徐兴旺, 梁广林, 等. 2009. 蒙西斑岩型铜钼矿地质地球化学特征及其对东准噶尔琼河坝岩浆岛弧构造属性的制约. 岩石学报, 25(4): 765-776.
+申元村, 王秀红, 丛日春, 等. 2013. 中国沙漠、戈壁生态地理区划研究. 干旱区资源与环境, 27(1): 1-13.
+石磊, 郭良辉, 孟小红, 等. 2012. 低纬度磁异常化极的伪倾角方法改进. 地球物理学报, 55(5): 1775-1783. DOI:10.6038/j.issn.0001-5733.2012.05.035
+孙凯. 2018. 巴里坤盆地地质填图中地球物理信息综合应用研究[博士论文]. 武汉: 中国地质大学.
+汤井田, 史庆斌, 胡双贵, 等. 2019. 基于重力梯度张量曲率的边界识别. 地球物理学报, 62(5): 1872-1884. DOI:10.6038/cjg2019M0427
+王登红, 李华芹, 应立娟, 等. 2009. 新疆伊吾琼河坝地区铜、金矿成矿时代及其找矿前景. 矿床地质, 28(1): 73-82.
+王钦军, 魏永明, 陈玉, 等. 2017. 低植被覆盖区斑岩铜矿遥感找矿模型及其应用——以环巴尔喀什-西准噶尔成矿带为例. 地质学报, 91(2): 400-410. DOI:10.3969/j.issn.0001-5717.2017.02.007
+王晓地, 刘德权, 唐延龄, 等. 2006. 伊吾县琼河坝地区斑岩铜矿成矿地质特征及远景评价. 新疆地质, 24(4): 398-404. DOI:10.3969/j.issn.1000-8845.2006.04.015
+熊盛青, 杨海, 丁燕云, 等. 2016. 中国陆域居里等温面深度特征. 地球物理学报, 59(10): 3604-3617. DOI:10.6038/cjg20161008
+王巧云, 杜利明, 胡创业, 等. 2020. 山东焦家金成矿带地球物理特征及找矿预测. 地球物理学进展, 35(3): 1061-1067. DOI:10.6038/pg2020DD0323
+汪青松, 张金会, 尤淼, 等. 2021. 电流磁场法在厚覆盖区探测陡倾斜金矿的试验效果. 地球物理学进展, 36(1): 281-289. DOI:10.6038/pg2021EE0083
+严加永, 吕庆田, 陈明春, 等. 2015. 基于重磁场多尺度边缘检测的地质构造信息识别与提取-以铜陵矿集区为例. 地球物理学报, 58(12): 4450-4464. DOI:10.6038/cjg20151210
+严加永, 吕庆田, 陈向斌, 等. 2014a. 基于重磁反演的三维岩性填图试验——以安徽庐枞矿集区为例. 岩石学报, 30(4): 1041-1053.
+严加永, 吕庆田, 孟贵祥, 等. 2009. 铜陵矿集区中酸性岩体航磁3D成像及对深部找矿方向的指示. 矿床地质, 28(6): 838-849. DOI:10.3969/j.issn.0258-7106.2009.06.012
+严加永, 吕庆田, 孟贵祥, 等. 2011. 基于重磁多尺度边缘检测的长江中下游成矿带构造格架研究. 地质学报, 85(5): 900-914.
+严加永, 吕庆田, 吴明安, 等. 2014b. 安徽沙溪铜矿区域重磁三维反演与找矿启示. 地质学报, 88(4): 507-518.
+严加永, 孟贵祥, 杨岳清, 等. 2017. 新疆东准噶尔拉伊克勒克岩浆矽卡岩型富铜-铁矿的发现及其成矿特征. 地质论评, 63(2): 413-426.
+杨富全, 闫升好, 刘国仁, 等. 2010. 新疆准噶尔斑岩铜矿地质特征及成矿作用. 矿床地质, 29(6): 956-971.
+俞贵平, 徐涛, 刘俊彤, 等. 2020. 胶东地区晚中生代伸展构造与金成矿: 短周期密集台阵背景噪声成像的启示. 地球物理学报, 63(5): 1878-1893. DOI:10.6038/cjg2020N0446
+张兴东, 孟小红, 陈召曦, 等. 2018. 闽西南多金属成矿带地质地球物理特征综合研究——以永定大排多金属矿区为例. 地球物理学报, 61(4): 1588-1595. DOI:10.6038/cjg2018L0666
+张壹, 张双喜, 梁青, 等. 2015. 重磁边界识别方法在西准噶尔地区三维地质填图中的应用. 地球科学-中国地质大学学报, 40(3): 431-440.
+郑强, 郭华, 张贵宾, 等. 2019. 基于全张量磁梯度方向Theta法进行边界识别的研究与应用. 地球物理学进展, 34(4): 1568-1576. DOI:10.6038/pg2019CC0328
+周文月, 严加永, 陈昌昕. 2021. 多尺度地球物理与成矿系统探测: 现状与进展. 地球物理学进展, 36(3): 1208-1225. DOI:10.6038/pg2021EE0192

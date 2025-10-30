@@ -1,0 +1,240 @@
+江南造山带深部边界及成矿制约: 来自综合地球物理的认识
+严加永1,2,3yanjy@163.com, 吕庆田1,2, 张永谦1,2, 刘卫强4, 王栩1,2, 陈昌昕1,2, 徐峣1,2, 刘家豪1,2     
+摘要: 江南造山带位于组成华南大陆的扬子地块和华夏地块之间，是揭示华南陆块演化及其动力学过程、探索该地区大规模岩浆多金属成矿作用的关键窗口。前人在构造学、岩石学和矿床学等方面取得了诸多进展，但仍对江南造山带的深部结构认识不明，导致对其定义、边界范围、形成时代及演化过程等方面长期存在争议，故亟需开展综合地球物理探测工作，为解决上述争议问题提供约束。鉴于后期构造运动对上地壳大幅改造的影响，致使对于江南造山带的深部边界存在不同认识，本文以重力数据和航磁数据为主、辅以大地电磁测深结果、并与水系沉积物地球化学资料相结合，厘定江南造山带的深部边界。综合重磁多尺度边缘检测、深部电性结构及75种元素水系沉积物地球化学数据聚类分析结果，推测钦杭结合带可能为江南造山带东南侧深部边界，并推断了江南造山带北部可能的深部边界和周缘的断裂构造。基于上述结果和认识，分析了区域构造对金、铜矿床的控制作用，认为江南造山带深部边界及深部断裂扮演了成矿系统中"导矿通道"的角色，从深大断裂形成之初就提供了铜、金等幔源成分为主的矿物质，在合适位置就位成矿；后期复杂的构造运动，使得局部位置再次活化，成矿物质重新富集迁移，在次级断裂等有利位置形成不同时代、不同类型的铜金等矿床。因此，本文基于综合地球物理探测所识别和划分的断裂构造格架，不仅可为厘定江南造山带的深部边界提供参考，也可为寻找幔源为主的金属矿床提供指示。
+关键词: 江南造山带    重磁    综合地球物理    电阻率    地球化学聚类分析    成矿系统通道    
+The deep boundaries of Jiangnan orogenic belt and its constraints on metallogenic: From the understanding of integrated geophysics
+YAN JiaYong1,2,3yanjy@163.com, Lü QingTian1,2, ZHANG YongQian1,2, LIU WeiQiang4, WANG Xu1,2, CHEN ChangXin1,2, XU Yao1,2, LIU JiaHao1,2     
+Abstract: The Jiangnan orogenic belt, located between the Yangtze and Cathaysian blocks, is a key window to understand the evolution and dynamic process of the South China Block, and to reveal the large-scale magmatism and the accompanied metal mineral resources in this area. Predecessors have made a lot of progress in its tectonics, petrology and ore deposit science, but there are long-term disputes in its definition, boundaries, formation age and evolution process. The fundamental reason is that the deep structure is unclear, therefore, it is urgent to carry out deep exploration to provide support for dispute resolution. This paper focuses on the deep boundaries of Jiangnan orogenic belt, and detects the density and magnetism boundaries and inverses the deep electrical structure mainly by using gravity and aeromagnetic data together with supplemented magnetotelluric data. Combined with the cluster analysis results of 75 element stream sediment geochemical data, it is considered that the Qinhang junction belt is the southeast boundary of the Jiangnan orogenic belt, and the possible deep boundary in the north of the Jiangnan orogenic belt is further inferred and determined. On this basis, the fault structures around the Jiangnan orogenic belt are identified and re-determined, and the control of regional structures on gold and copper deposits is analyzed. It is considered that the deep boundaries and deep faults of the Jiangnan orogenic belt play the role of "ore guide path" in the metallogenic system, and provide minerals which dominated by mantle derived components such as copper and gold from the beginning of the formation of deep faults. The mineralization is in place at the appropriate position, and the complex tectonic movement in the later stage reactivates the local position, enriches and migrates the ore-forming materials again, and forms copper gold deposits of different ages and different types in favorable positions such as secondary faults. Therefore, the fault tectonic identified framework in this paper can also provide an indication for the exploration for mantle correlated metal deposits.
+Key words: Jiangnan orogenic belt    Gravity and magnetic data    Integrated geophysics    Resistivity inverted from magnetotelluric data    Geochemical cluster analysis    Pathway of mineral system    
+华南陆块位于欧亚大陆东南缘，作为新元古代以来全球地质构造演化最为复杂的地区之一，经历了多阶段超大陆的聚合与裂解过程，古生代、中生代复杂的碰撞、陆内造山过程，以及随后的伸展过程，是创新大陆地质理论、认识大陆演化过程的经典地区(Zhao et al., 2021)。虽然对华南陆块大地构造等地球科学研究已持续了几十年，但仍有大量的科学问题尚未解决，这些问题包括：华南岩石圈物质组成和基底属性，华南陆内块体相互作用、构造演化，深部过程及其与古太平洋板块俯冲的关系，大花岗岩省的形成机制、时空演化等(Zhao et al., 2018a, b)。要解决华南在不同地质时期的构造演化、岩浆活动及成矿动力学背景，其关键在于查明深部结构，从深部来寻求答案。华南陆块经历碰撞、拼贴、裂解、破坏、再造的复杂构造演化(Fang et al., 2018)，查清华南基底和建立前寒武纪构造格架具有重大意义(舒良树，2012)。而理解华南前寒武纪的地质演化，关键是识别和分析组成华南陆块的扬子地块和华夏地块的边界和拼贴演化过程。处于扬子和华夏地块拼接地带的江南造山带便成为理解华南陆块演化、动力学过程及大规模岩浆作用的关键窗口(王孝磊等，2017)。要深入了解江南造山带这一关键窗口，首当其冲的是要确定江南造山带的深部边界。鉴于后期构造活动对江南造山带上地壳大幅改造的影响，其深部边界很可能并不是地表地质观测所得的寒武纪新元古代“喇叭”状区域(张国伟等，2013；毛建仁等，2014；周永章等，2017)。目前，对扬子地块与江南造山带北西侧的界线分歧较小，大多数研究者认为该边界基本沿着前寒武纪地层出露的黄山-九江-咸宁-怀化-凯里-桂林-柳州一带展布；鉴于江南造山带北东段地层出露较好，江绍断裂带作为江南造山带与华夏地块接触边界的认识已基本成为共识，但该断裂是否继续西延及如何延伸仍然存在很多争议(周新民，2003)。
+
+地球物理方法可以探测深至岩石圈地幔的结构信息，其中深反射和宽频地震是深部结构探测的最为有效手段。地球物理学者从天然地震、重磁、电等方法入手，探讨了江南造山带的可能边界。如He et al.(2013)利用天然地震固定台站计算了波速比和莫霍面，分析了扬子和华夏地块的边界。Guo et al.(2018, 2019)结合泊松比和重磁资料，给出了江南造山带东界和西界。严加永等(2019)利用综合地球物理，认为钦杭结合带可能是江南造山带南东侧边界。但受限于现有的深反射、宽频地震等综合地球物理探测剖面多集中在东段，西南段的剖面探测基本还是空白，未能完全控制整个造山带的深部边界和结构。虽然上述工作基于各自方法结果，均分析提出了江南造山带的可能边界，但均未达成普遍共识，还需继续开展深入研究。
+
+要了解江南造山带从北往南的深部结构特征，需将其作为一个完整的研究对象，从全局分析其深部边界。同时，由于华夏和扬子陆块是在新元古代碰撞拼合，其后经受了多期次的构造运动，上地壳很大部分可能已经被改造重建，地球物理探测结果往往反映了深部构造，有可能揭示江南造山带深部边界。本文基于覆盖华南的重磁和大地电磁资料，采用针对性的处理和反演方法，获取了华南岩石圈结构的密度、磁性和电阻率三种不同物性特征，并与水系沉积物地球化学聚类特征相结合，进行综合分析，推断了江南造山带的深部边界。在此基础上，总结了江南造山带及其周缘区域断裂分布与幔源成矿物质关系密切的铜、金矿之间的规律，分析了江南造山带对铜、金矿床的控制作用。
+
+1 地质构造背景
+华南陆块是欧亚板块重要的地质块体之一，位于其东南一隅，西北以龙门山断裂为边界与青藏高原东缘的松潘-甘孜地体比邻，西部以鲜水河断裂为界与青藏高原东缘的昌都-兰坪-思茅地块相连，东北部分别通过襄樊-广济断裂与秦岭-大别造山带相连、通过郯庐断裂与华北克拉通相接，西南以越南马江断裂与东南亚块体相连(图 1)。在华南陆块中部，分布有一条近北东向的以前寒武纪地层为主的地质体，东起浙北，经皖南、赣北、鄂南、湘西、黔东北、黔西南到桂北，全长约1500km，呈“喇叭口”状，北窄南宽，将华南陆块一分为二，扬子地块在其西北侧，华夏地块在其东南侧，地质学家多将其称为江南造山带。对图 1中横亘于扬子和华夏块体中的这个前寒武纪地体，前人根据各自的研究，对其形成有不同的认识，也产生了几种不一样的命名。黄汲清(1945)将该地质体命名为“江南古陆”，1954年改名为“江南地块”(黄汲清，1954)，后续进一步研究认为在前震旦纪褶皱的基础上，江南古陆进一步叠加了加里东期褶皱造山，并把其名称改为“江南地背斜”(黄汲清，1959)，随后，又因江南地背斜呈线状隆起于扬子地块和华夏地块，遂将其在此改名为“江南地轴”(黄汲清，1960)。许靖华等(1987)曾将其称为“湘赣浙缝合带”。板块构造理论登陆中国后，郭令智等(1984)研究发现扬子和华夏结合带存是一套形成元古代的“沟-弧-盆”体系，于是将其称为“江南古岛弧”，从而引发了对华南陆块大地构造性质和动力学演化历史认识的根本性变化。后续在岛弧火山岩、造山带岩浆岩、蛇绿岩套、高压变质岩等方面取得了不少新认识(周新民和王德滋，1988；周国庆等，1989；周新民等，1989；程海，1991；马长信等，1991；周国庆和赵建新，1991；徐备等，1992；徐夕生和周新民，1992；周新民和朱云鹤，1992；Zhou and Zhu, 1993；舒良树和孙岩，1995；杨明桂等，2002；邓国辉等，2003；楼法生等，2003；周新民，2003；Zhou et al., 2006, 2009)，使得扬子地块与华夏地块之间存在一个中元古代到新元古代的造山带的观点被广泛接受，这也是江南造山带(舒良树等，1993; 舒良树和孙岩，1995)这一名称的由来。王孝磊等(2017)在总结前人研究的基础上，认为江南造山带这一命名本来是自“江南古陆”的概念演变而来，因此，在定义上具有一定的继承性，且在区域上有广泛的代表性，用它来代表华夏地块和扬子地块之间的这一前寒武纪地质单元相对更合理。同时也指出，江南造山带一词本身仅是分布于扬子和华夏地块之间的一条中元古代到新元古代的造山带的一个客观表述，对该造山作用的动力学过程、性质、资源能源效应、构造极性等方面并没有明确限定。
+
+点击查看原图	
+图 1 华南陆块区域构造地质简图(据Shi et al., 2015)
+Fig. 1 Regional tectonic and geological map of South China (modified after Shi et al., 2015)
+对于江南造山带是不是板块拼接带的问题，不同观点曾经尖锐对立，焦点在于是否存在洋盆？华夏陆块或华夏陆块残留体在哪里？虽历经长期研究，但华夏与扬子之间多被晚古生代以来地层所覆盖，相对而言，直接接触关系不易被观察到(胡肇荣，2010)。迄今为止，这些问题仍存争议，焦点则在华夏古陆和古华南洋是否真的存在？水涛等(1987)认为华夏地块与扬子地块之间的赣湘桂粤海盆属于残留洋盆性质；而金文山和孙大山(1997)则认为华夏地块与扬子地块之间可能不存在洋盆，自新元古代以来，华南构造格架总体上以陆内裂谷作用或弧后盆地构造背景为主。经过多年资料积累和众多学者研究，江南造山带是华夏和扬子地块在中元古代到新元古代的碰撞拼贴带基本已经达成共识(郭令智等，1984；Chen et al., 1991；Li et al., 1999, 2003, 2009；Zhao and Cawood, 1999；Ling et al., 2001；Zhou et al., 2009；王孝磊等, 2013, 2017; Yao et al., 2013, 2014；Wang et al., 2014)。
+
+尽管很多人认同江南造山带为中元古代到新元古代的造山运动形成的，但在具体的形成时代上仍存不少争议；此外，华南陆块晋宁期、加里东期和印支期等三个时代的构造-岩浆事件都非常活跃，华夏地块与扬子地块的拼合究竟与这三期事件如何关联是问题的关键。许靖华等(1987)在对比了华南陆块与北美阿巴拉契亚地区构造特征后，提出江南造山带是扬子和华夏地块在印支期发生碰撞作用形成的造山带(Hsü et al., 1988, 1990)。Wong et al.(2011)通过对江绍断裂带两侧中生代酸性岩的研究认为，这两个块体在新元古代时期可能并未完全拼合。徐备等(1992)则认为扬子地块和华夏地块在加里东时期曾有过一次碰撞事件。大量的沉积学证据表明早古生代扬子地块和华夏地块之间不是开放的大洋盆地，而是陆缘海或边缘海环境(王博和舒良树，2001；吴新华等，2004)，这说明华夏地块和扬子地块在古生代之前就已经拼合在一起了。结合更多的地质事实(杨群等，2005；舒良树等，2007；Shu et al., 2014)，江南造山带是一个可能发育于中元古代、结束于新元古代早期(860~800Ma)的造山带，其形成导致了华夏地块和扬子地块的聚合。
+
+板块缝合带是识别板块碰撞、汇聚运动存在的最重要标志，而蛇绿岩套、增生楔和剪切带是研究造山带形成和演化最有力的切入点。由于江南造山带东段岩石地层出露较好，且赣东北、皖南等地有蛇绿岩带出露，故其东段边界基本趋于一致，即其南边界为江绍断裂，北边界为九江-石台断裂(薛怀民等，2012; 薛怀民，2021)。但其南西段，造山带的边界和范围还没有统一。近期也有研究认为扬子地块和华夏地块的汇聚带是由多条断裂带组成的缝合带，由于是多个小板块软碰撞多期次汇聚而成，因此形成了现今在赣东北地区看到的约200km宽的板块汇聚带(宋传中等，2019)，并按不同演化阶段分别定义了江南造山带的名称，对江南造山带东段的演化和边界提出了新的挑战。
+
+江南造山带后期经历构造破坏与叠加复合等长期演化，为金属矿的形成提供了有利条件。该带是我国新元古代与晚中生代时期最为丰富的铜-金成矿带，在前寒武系浅变质岩系中，已经发现各类金矿床250余个，金总储量超过1000余吨(Deng and Wang, 2016)。江南造山带东南侧是我国为数不多的与深源性壳幔同熔型中酸性岩浆有关的铜金成矿带，也即钦杭成矿带，拥有世界著名的德兴铜金矿集区和一批重要的铜多金属矿床。
+
+2 地球物理数据处理与结果
+2.1 重磁数据
+地面重力资料一直是研究区域构造格架、提取找矿信息的重要数据。近些年来，随着技术的进步，卫星重力测量精度逐年提高，虽然目前其精度和分辨率仍然没有地面重力高，但已经足够满足对大尺度、宏观区域构造研究的需要。另一方面，由于卫星在地表以上上百千米的近地轨道运行，不受浅表局部因素干扰和地域限制，数据更新快，时效性搞，基本已经覆盖全球范围。卫星重力观测数据是自由空气异常，根据布格改正理论，只需利用高精度数字地形资料，解算地形改正值和中间层改正值，从观测数据中去除这两个改正值，所得结果即为布格重力异常(黄宗理等，2016)。德国地学中心(GFZ)、欧洲航空局(ESA)、国际重力场模型组织(ICGEM)等研究机构以GOCE、GRACE和CHAMP三大专业重力卫星获取的海量卫星重力数据为基础，结合常陆地测量的重力数据，对卫星、航空、海洋、陆地等多种不同来源重力数据进行有机融合，构建了EGM、GGM和EIGEN等地球重力场模型。由于这些模型观测数据来源不尽相同，导致不同模型解算的自由空气重力异常空间分辨率和数据精度有所差异。根据球谐理论，球谐展开次数越高，解算出的数据精度和分辨率越高，万晓云等(2017)对GFZ公开发布大于1000阶的重力模型进行对比，也证明了重力异常精度和空间分辨率与阶次正相关。为兼顾卫星重力数据精度、分辨率、覆盖范围和计算效率，本文选取以GOCE任务数据为基础，联合LAGEOS和GRACE等卫星重力场进行多源融合的EIGEN模型，选择其6C4版本中的重力数据为自由空气重力异常数据。用于地形改正和中间层改正的高程数据选择ETOPO1全球地形模型提供的高精度地形数据。
+
+华南地区河湖纵横，水域和深山等其他难于进入开展重力测量地区较多，地面重力还存在不少空白区，通过对卫星重力进行地形改正和中间层改正，解算华南陆块布格重力异常，可以弥补地面重力测量的空白区，为华南陆块研究大区域大尺度构造格架提供完整的重力数据。地面观测重力异常，在解算为布格重力异常的过程中，由于测量范围限制，一般改正到166.7km半径，在这种情况下可以不用考虑地球曲率对改正精度的影响，因此，地形改正计算公式是都是基于平面直角坐标系。而卫星重力覆盖面积大，需要考虑地球曲率的影响，采用球面坐标校正方法进行地形改正，能大幅提高重力地形校正的精度(江丽，2014)。本文研究的华南陆块东西长约2000km、南北宽约1300km，面积更大，故而重力异常解算必须采用基于球坐标的计算公式和相应处理方法。目前球坐标系下的重力计算模型可分为Tesseroid单元体模型和球冠体模型两种，前者具有精度高、误差小等特点，被广泛的应用于球坐标系下的重力值计算。Uieda et al.(2016)提出了Tesseroid模型计算方法，罗凡等(2019)在此基础上进一步完善了计算方法，提高了计算精度和效率，本文利用该方法，采用EIGEN-6C重力模型和ETOP1地形数据，计算获得了完整覆盖华南陆块布格重力异常(图 2)。华南布格重力异常幅值总体趋势为从沿海到内陆逐渐降低，区域场整体反映了区域地壳厚度变化。在这个大背景下，分布多个局部高重力异常，东经115°往东的局部异常多为北东向的带状异常，南阳-宜昌-铜仁-百色一线则近北北东向，其为中国南部重力梯度带在华南的延伸，四川盆地等地也出现了局部高重力异常，这些局部异常多反映了华南陆块地壳局部减薄和壳内局部密度体的不均匀分布，以及块体边界和大型断裂构造。
+
+点击查看原图	
+图 2 基于球坐标系计算的华南陆块卫星布格重力异常图
+F1、F2、F3为本文推测江南造山带深部边界断裂，后图同
+Fig. 2 Bouguer gravity anomalies of South China calculated by satellite gravity under spherical coordinates
+F1, F2, F3 are inferred deep boundary faults, the same as the following figures
+磁异常是地球内部磁性体的反映，在大陆地区，磁异常主要指示了岩石圈结构和热演化，在近地表则指示了铁磁性矿物的分布，为找矿勘查提供依据；在海洋地区，磁异常走向平行于年龄等时线，形成海洋磁条带，明显的反映洋壳演化过程。对磁异常进行处理分析，可获取深部结构和物质组成信息，从而被广泛应用于构造地质和矿产资源勘查中。本文从地质云收集了自然资源航空物探遥感中心提供的中国大陆航空磁测产品，该数据整合了不同年代航磁测量数据，经过调平等处理后形成覆盖整个华南陆块陆域部分5km×5km网度的航磁数据。受地球磁化方向不一的影响，磁异常数据对地下磁性体位置在垂向空间位置对应上往往会产生偏移。中国大部分地区位于北半球的中磁纬度地区，地下的磁性地质体受倾斜磁化的作用，导致通过测量所获得的磁异常数据与地下磁性地质体的位置并非垂直对应，使得磁异常的复杂形态，一方面给磁性体位置、磁异常边界的准确定位带来很大不确定性，另一方面，也容易造成地质解释的偏差。为克服磁异常与场源之间的位置对应问题，在对磁异常数据进行反演、解释之前，将斜磁化的磁异常数据换算成垂直磁化条件下的磁异常数据，这一过程称为“化到地磁极”，简称为化极。化极需要磁倾角、磁偏角、正常场等地磁三参数，但是，这些参数随位置、随时间变化而变化，在面积相对小的局部范围内，一般利用研究区中心对应的地磁三参数对整个研究区域进行处理，这样得到的化极磁异常误差在容许范围内。当研究区范围变大时，磁参数将会产生较大的变化，在这种情况下，用中心点的磁参数来代替全区的方法就会产生很大误差，导致异常形态改变，制约地质解释的准确性(Guo et al., 2013)。为减少磁参数变化导致化极异常出现位置偏差，本文采用了滑动窗口变参数化极方法，即将研究区分为不同的小窗口，在每个窗口取其中心的地磁三参数，进行化极处理，然后在讲所有窗口的化极磁异常拼接缝合到一起，获取整个研究区可靠的化极磁异常。我们通过试验对比不同大小的窗口，发现采用300km×300km的窗口(约3°×3°)所得的华南航磁化极磁异常更加清晰合理(图 3)。从图 3可以看出，研究区的高磁异常主要分布在东南部和西北部，且多呈条带状分布，东部和西部条带以北东向为主，中部北部区域北西向分布，研究区中部大片区域为平静磁场区，局部分布有团块状高磁异常。
+
+点击查看原图	
+图 3 华南陆块航磁化极异常图
+Fig. 3 Reduction to the pole aeromagnetic anomalies of South China
+2.2 重磁多尺度边缘检测
+不同块体之间、断裂构造带等由于形成时代、岩石破碎程度存在明显差异，导致密度、磁化率等物理属性也存在不同程度的变化，导致地质构造边界上方出现不同的重磁场特征，多呈梯度变化带出现，这些梯度带蕴涵了地下不同地质体边界等丰富信息。因此，对重磁场进行针对性的处理，可以提取出场源边界，进而推断断裂构造等信息(张壹等，2015)。利用重磁识别构造的方法较多，常用的方法是先对包含场源信息重磁数据进行增强处理，在此基础上，再采用合适的边缘检测方法识别和厘定边界具体位置和形态(Guo et al., 2015)。重磁异常边缘增强与检测的方法种类繁多，常用的有斜导数法、垂向导数法、归一化总梯度法、斜导数水平梯度法、Theta图法等。事实上，由于每种方法的原理不尽相同，适用的地质环境和前提条件也不尽一致，即使是完全相同的一套的重磁数据，用不同方法处理，所得的检测结果也可能存在差异。在对不同地区或地质背景下开展重磁异常构造解释之前，需要以实际地质背景为参考，对不同的边缘检测和增强方法所得结果进行对比分析，筛选出适宜的方法，试验不同的参数，最后，再结合已有地质、地球物理和地球化学等资料进行综合地质解译。严加永等(2015)等构建了区域大尺度条件下模型，然后利用产生的正演重磁异常测试了多尺度边缘检测法(WORMS)、Theta图法、斜导数法和水平梯度法, 发现多尺度边缘检测法更加适合大区域、宏观尺度前提下的重磁异常边界增强和检测。该方法在在长江中下游成矿带、铜陵矿集区等地构造信息提取和断裂构造识别等工作中得到了广泛应用，为区域构造研究和找矿预测提供了有益支撑(严加永等，2011)。
+
+本文利用多尺度边缘检测方法，对卫星重力解算的华南陆块布格重力异常(图 2)和航磁化极磁异常(图 3)进行边缘增强和识别，以获取华南陆块构造信息。根据位场上延到一定高度，其形态不再发生明显变化的原则，通过试验发现上延50km后重力场形态不再发生明显变化，选择50km为最大延拓高度。华南陆块卫星布格重力异常多尺度边缘检测结果如图 4所示，线束颜色从蓝色到紫色的变化代表边界的深度由浅至深渐变。从图 4中可以看出，密集连续的检测线束多呈线状分布，个别地方出现环状或半环状形态。线状线束反映了断裂、块体边界，代表深部的紫色构造线在研究区东北部多呈北北东向展布，西南部则以北西向为主，在广西、贵州和云南等地局部为北北东向；部分代表浅部的蓝-绿色构造线方向变化较大，反映了地壳浅部构造的复杂性。研究区东部的环状和半环状线束则主要反映了侵入岩体、火山岩盆地的边界。
+
+点击查看原图	
+图 4 华南陆块卫星布格重力多尺度边缘检测结果
+Fig. 4 Multiscale edge detection results of bouguer gravity anomaly in South China
+与重力多尺度边缘检测同理，通过试验发现上延87km后航磁异常形态不再发生明显变化，因此，本文选择87km为航磁多尺度边缘检测的最大延拓高度。华南陆块航磁化极异常多尺度边缘检测振幅强度如图 5所示。重力边缘检测反映的是密度差异的边界，而航磁边缘检测线束反映则是有磁性差异地质体的边界，只有存在磁性差异的时候才能出现磁异常边界。线状分布的线束多为块体边界或断裂，环形线束主要反映了岩体、隐伏岩体或火山岩盆地的边界。从图 5可以看出，华夏地块、扬子地块和秦岭-大别造山带航磁多尺度边缘检测线束形状特征差异明显。华夏地块除了线状构造外，环状、半环状线束较多，特别是在东南沿海地区，从深到浅不同尺度的环形线束更加明显，这些环状构造大多反映了华夏地块东部大火山岩省岩体及隐伏岩体的分布。扬子地块内部多尺度边缘检测线束多以线状为主，北部方向多以北东东占主导，南部则多为北西或近南北向，鉴于扬子地块研究活动不发育，推测这些线性组和更多的是体内部地层，特别是磁性地层边界的反映；大别造山带东侧的北东向线束为郯庐断裂的反映，北西向分布的两条边界分别大别南界的襄樊-广济断裂和大别北界的晓天-磨子潭断裂。航磁化极异常多尺度边缘检测振幅信号强度可以判断边缘检测所得边界存在的可能性，振幅弱的地段说明存在磁性体边界的概率较低，反之亦然。同时，振幅强度区域性变化，也指示了不同块体的分界。图 5中华夏地块、扬子地块和华北板块均表现出强振幅，而扬子和华夏地块中间则呈现出完全迥异的低振幅强度，说明二者交汇部分为一个独立的且不同于其他的地质块体。
+
+点击查看原图	
+图 5 华南航磁化极异常多尺度边缘检测振幅强度
+Fig. 5 Amplitude intensity of multiscale edge detection of RTP aeromagnetic anomaly of South China
+2.3 华南深部电性特征
+SinoProbe专项以及中国地质调查局“钦杭结合带及邻区深部地质调查”等项目完成了覆盖华南东部(107°以东)的大地电磁阵列数据，107°以西拟在新一轮中国地质调查局地质调查项目补充采集完善。数据网度总体为0.5°×0.5°(约50km点距)，在东南沿海等地点距20~30km。由于华南东部人文干扰相对严重，本文首先对华南东部大地电磁阵列数据(MT)进行了数据挑选，将数据质量较差或测点距离过小的测点剔除；其次对所有数据经过互参考技术、Robust阻抗估计和功率谱挑选等技术处理后，获得了100~0.0001Hz频率范围内质量较高的阻抗张量数据；然后以100Ωm的均匀半空间为初始模型，选取全阻抗张量模式，采用ModEM三维反演程序(Kelbert et al., 2014)进行三维反演。最后经过201次迭代反演后，获得了RMS误差为2.5193的华南东部三维电阻率模型。
+
+基于华南东部三维电阻率模型对江南造山带深部的电性结构进行对比分析。本文截取了21km深度和31km深度电阻率水平切片(图 6)。如图 6所示，电阻率多呈团块状分布，但从宏观角度仍可以看出电阻率分布有一定的规律和趋势，在可能存在地质体边界的地段，电阻率有明显的变化。
+
+点击查看原图	
+图 6 华南中东部大地电磁三维反演电阻率水平切片
+(a)21km深度；(b)31km深度
+Fig. 6 Horizontal slices of magnetotelluric 3D inversion resistivity in central and eastern South China
+(a) depth at 21km; (b) depth at 31km
+3 讨论
+3.1 江南造山带深部边界
+重磁多尺度边缘检测结果(图 4、图 5)蕴涵了华南陆块断裂构造、岩体、火山岩边界、磁性地层、新老地体边界等丰富信息，线状分布的线束多为断裂、块体边界的反映，环状分布的线束多为岩体、火山岩盆地、沉积盆地边界。重力多尺度边缘检测是密度体边界的响应，更多的反映了断裂构造分布，而航磁多尺度边缘检测则主要反映的是磁性地质体边界，当断裂中有岩浆活动时，如拉张情况下的形成的深断裂，由于岩浆活动一般会形成有磁性的岩浆岩，正常情况下可识别和厘定出边缘检测线束。反过来，没有岩浆活动的断裂则不会产生相应的磁性边界线束。要给出可信的构造和边界，需要综合各类信息，本文以重磁多尺度边缘检测结果为主，结合大地电磁阵列反演所得的深部电性结构，75种元素地球化学聚类分析，参考泊松比等资料探讨江南造山带深部边界。
+
+从图 4所示的重力多尺度边缘检测结果可以发现，自北东向南西，沿舟山-绍兴-金华-上饶-抚州-吉安南-贺州-梧州-北海东一线，有一条明显的连续的密集线束，我们认为沿此线的F1为一条追踪断裂，是钦杭结合带的南部边界断裂。F1自抚州往北东段与江山-绍兴断裂基本一致，抚州往南则比前人划分的边界往南东偏离，推测该段深部边界比地表所见要更靠近华夏地块一侧。沿南通-苏州-黄山-鹰潭北-宜春-萍乡-永州-桂林东-玉林-钦州一线存在另外一条间断分布的边缘检测线束，沿该线束可断续追踪，可形成一条断裂F3，我们认为F3是钦杭结合带的北界。从重力边缘检测线束幅值强度来看(严加永等，2019)，F1切割深度较F3大，形态也更完整。从天然地震层析成像获得泊松比分布也发现扬子块体和华夏块体的波速比相对均较高(Zhang et al., 2021a)，而二者结合部位则表现出明显的低波速比特征，且异常高波速比南界与本文推测的F1基本重合。上述探测结果都说明F1可能是华夏地块向扬子地块俯冲的主边界，也即江南造山带的南边界。从图 4还可以看出，沿扬州-九江-咸宁-益阳-常德-铜仁还存在一条明显的线束，其幅值强度与F2相当，结合航磁异常多尺度边缘检测(图 5)、大地电磁反演电阻率(图 6)和泊松比(Zhang et al., 2021b)结果，推测扬州-九江-咸宁-益阳-常德-铜仁一线的F2为江南造山带北部深部边界断裂。
+
+电性结构指示了深部结构和热状态，为探讨其反映的深部块体边界位置，本文从三维反演数据体中提取了21km深度和Moho深度附近(31km)深度电阻率水平切片(图 6)。从图 6可以看出华南陆块东部电性结构虽然稍显杂乱，但仍然可以看出成群分带的特征。从电阻率总体趋势来看，华南陆块西部扬子地块电阻率相对较低，异常形态规整连续，而其东部的华夏地块的电阻率相对较高，异常多为离散团块状。以重磁多尺度边缘检测识别的F1为界，两侧电阻率也存在明显差异：F1南东侧电阻率整体较高，局部存在团块状的低阻异常；F1北西侧电阻率普遍较低，局部有团块状、条带状高阻异常。这种电性差异边界与重磁多尺度边缘检测所识别的钦杭结合带南界总体一致，说明F1是一条区域块体尺度的边界断裂。无论是21km深度还是31km深度，沿苏州-九江-咸宁-岳阳-常德-怀化一线，均存在一条位置与F3断裂大致吻合的明显高阻异常带，说明深部存在一个明显的边界，进一步佐证了F3可能是江南造山带的北边深部边界断裂。
+
+中国地质调查局完成了覆盖华南地区12个省及自治区约230万平方千米的75种元素水系沉积物地球化学数据采集和分析工作(Cheng et al., 2014)，Liu et al.(2021)对这批数据进行了聚类分析。当聚类数为5时地球化学块体反映的情况与综合地球物理有很高的吻合性(图 7)，聚类1富集MgO、CaO、Sr、Na2O、Co、Ni、V，亏损W、Sn、Bi、Zr、Hf、Th、I、SiO2等元素，反映了扬子地块上方古生代至早中生代沉积盖层的元素组成。聚类2富集Ge、N、Ba、Ho、C、Er、Sr、Tr，反映了各块体之间的过渡区。聚类3富集Cd、Sb、Te、Y、Zn、I、Hg，反映了华南西南部右江盆地的低温成矿区。聚类5富集Rb、K2O、Sn、Hf、Zr、Th、Ta、Tl，亏损Cr、Ni、V、Z、Co、Cu、CaO、MgO，反映了华夏块体中生代岩浆岩。聚类4位于聚类1和聚类5之间，其中Ca、Mg、Sr、Na的含量低于聚类1，高于聚类5，与之相反，SiO2和K2O的含量高于聚类1，低于聚类5，可能反映江南造山带的分布。总体来看F2以北明显为同一类地球化学块体，F1以南为同一类地球化学块体组合特征，二者之间为北段为一类，间或有偏华夏地块特征，说明可能受到了华夏部分的影响更多，南段为另一类，可能是华夏和扬子拼合后再受到改造所致。
+
+点击查看原图	
+图 7 华南75种地球化学元素聚类分析富集规律(据Liu et al., 2021修改重绘)
+Fig. 7 Clustering analysis and enrichment pattern of 75 geochemical elements in South China(modified after Liu et al., 2021)
+基于上述分析，本文认为75种元素的地球化学聚类分析结果与综合地球物理反映的位置边界虽然局部存在差异，但总体反映的位置边界基本趋于一致。因此，本文推断F1和F3组成的带状区域为钦杭结合带(严加永等，2019)，该带为扬子与华夏地块多软块汇聚带，也即这个多条缝合线组成的结合带就是江南造山带南部深部边界，而F2断裂则可能对应江南造山带北部的深部边界。
+
+3.2 江南造山带区域构造格架及其对矿床制约
+江南造山带是一个包含钦杭成矿带的多金属复合成矿带，已经发现大中型矿床多处，且有巨大找矿前景(陈峰等，2019; 孙思辰等，2018；赵正等，2022)。但依然存在一些问题，如：是什么原因控制了不同类型矿集区的分布？什么地方可能发现新的矿床、矿集区？要解决这些问题需要系统地考虑矿床形成的要素，根据最新的成矿系统理论，把成矿过程分为成矿“源区”、导矿“通道”以及聚矿“场所”等三个大的部分，将岩石圈深部的成矿“始端”到浅部地壳矿床就位的“末端”作为一个整体来研究(Lü et al., 2021)。研究区域的断裂构造分布，不仅可以探索成矿制约条件，也可以为下一步找矿提供依据。
+
+在重新厘定江南造山带深部边界的基础上，本文以重力多尺度边缘检测结果为主(图 4)，并兼顾其他地球物理资料(图 5、图 6)，对江南造山带周边区域断裂进行了识别和推断(图 8)。将F4推断为长乐-南澳断裂，F5推测为政和-大浦断裂，将华夏地块分为东西两部分，东部为沿海火山岩区。F6主要为河源-邵武断裂，F7为建始-彭水断裂，F8为齐岳山断裂，F9可能为华蓥山断裂的一部分，F12为新推测巴中-宜昌断裂(局部与天阳坪-监利断裂重合)。F10为郯庐断裂，F11为长江深断裂，F13为襄樊-广济断裂，F14为晓天-磨子潭断裂，F15推测为铜陵-台州断裂，F16为紫阳-罗甸断裂。
+
+点击查看原图	
+图 8 基于综合地球物理和水系沉积物地球化学推断江南造山带边界及周边断裂构造图
+Fig. 8 Inferred map of deep boundaries of Jiangnan orogenic belt and other faults based on integrated geophysics
+将与幔源关系密切的金矿和铜矿投到区域构造格架图上(图 8)，可以看出江南造山带金矿床密集分布，是一条横亘华南陆块中部的“金腰带”。从金矿床与区域构造格架的对应关系出发，发现无论是造山带型，还是矽卡岩型的较大规模金矿大多位于深大断裂及其边部次级断裂上。矿床学家的研究(毛景文和李红艳，1997)也发现江南造山带里金矿床大多以新元古代浅变质岩作为容矿地层，而且在空间分布上与岩浆岩并无明显的对应关系。通过同位素定年方法对江南造山带内的造山型金矿岩石标本的定年结果为881~70Ma(杨光治和顾尚义，2013)，说明金矿的形成从晋宁期一直延续至燕山期，与华夏、扬子拼接时在江南造山带内形成深大断裂的时间同期。不仅扬子地块中的砂岩型铜矿属于深大断裂控矿，斑岩型、矽卡岩型铜矿也具有深大断裂控矿特征，如新推测的铜陵-台州深大断裂(F15)，其对铜陵、庐枞等矿集区的形成具有明显的控制作用。倪培和王国光(2017)研究认为江南造山带至少经历了五期成矿作用，从最早具有OIB特征玄武岩相关的VMS铜矿，到燕山期的斑岩铜矿。也都说明深大断裂是江南造山带铜矿床形成的主控要素之一。
+
+综合江南造山带内铜、金矿的位置分布、形成时代与深大断裂之间的关系，本文推测该区域范围内的铜、金矿形成主要受控于深大断裂。受扬子和华夏地块拼接过程形成的深大断裂，为江南造山带的铜、金成矿物质提供深部运移通道；且后续多期次的拉张和挤压作用，对断裂构造带起到了活化作用，使得铜、金矿床在江南造山带中密集产出。与江南造山带的铜、金成矿相似，秦岭-大别造山带及其边缘也形成了明显的铜、金成矿带。
+
+江南造山带富铜金成矿元素的晚中元古代-新元古代初生地壳为铜金成矿奠定成矿物质基础，深大断裂则是一级控矿要素。深大断裂从形成之初就提供了铜、金等幔源成分为主的矿物质，在合适位置就位成矿，后期复杂的构造运动，使得局部位置再次活化，成矿物质重新富集迁移，在次级断裂等有利位置形成不同时代、不同类型的铜、金矿床。总体来说，这些深大断裂扮演了成矿系统中的“通道”角色。因此，本文通过综合地球物理探测结果所厘定的断裂构造格架，可为寻找幔源为主的铜、金矿床提供指示。
+
+4 结论
+(1) 由于华夏和扬子陆块是在新元古代碰撞拼合，后期构造运动频繁，上地壳可能已经被改造，我们认为地球物理探测结果更有可能反映了深部的构造边界。综合重磁电综合地球物理和水系地球化学资料分析，本文认为江南造山带的北部深部边界可能大致沿扬州-九江-咸宁-益阳-常德-铜仁-凯里分布，而F1和F3围限的钦杭结合带是江南造山带的南边界，深部边界断裂F1大致沿舟山-绍兴-金华-上饶-抚州-吉安南-贺州-梧州-北海东一线分布。
+
+(2) 江南造山带边界断裂两侧为铜、金矿集中产出地带，造山带范围内铜、金矿床密集分布，认为江南造山带深部边界扮演了成矿系统中“导矿通道”的角色，从形成之初到后期多期次活化，制约形成了横亘于华南的“金腰带”。因此，本文识别和划分的断裂构造格架，可为幔源为主的金属矿床勘查提供指示。
+
+致谢      中国地质大学(北京)郭良辉教授、两位匿名审稿人和本刊编辑对论文完善提供了建设性意见和建议；中国地质科学院矿产资源研究所赵正研究员为本文写作提供了有益启发；谨此致谢！
+
+参考文献
+Chen F, Yan DP, Qiu L, Yang WX, Tang SL, Guo QY and Zhang YX. 2019. The brittle-ductile shearing and uranium metallogenesis of the Motinaling dome in the southwestern Jiangnan orogenic belt. Acta Petrologica Sinica, 35(9): 2637-2659 (in Chinese with English abstract) DOI:10.18654/1000-0569/2019.09.02
+Chen JF, Foland KA, Xing FM, Xu X and Zhou TX. 1991. Magmatism along the southeast margin of the Yangtze Block: Precambrian collision of the Yangtze and Cathysia blocks of China. Geology, 19(8): 815-818 DOI:10.1130/0091-7613(1991)019<0815:MATSMO>2.3.CO;2
+Cheng H. 1991. The Late Proterozoic collision orogen in northwestern Zhejiang Province. Geological Review, 37(3): 203-213 (in Chinese with English abstract)
+Cheng ZZ, Xie XJ, Yao WS, Feng JZ, Zhang Q and Fang JD. 2014. Multi-element geochemical mapping in southern China. Journal of Geochemical Exploration, 139: 183-192 DOI:10.1016/j.gexplo.2013.06.003
+Deng GH, Lou FS, Song ZR, Wu XH and Luo CL. 2003. Mapping of the low-grade terrains in the northeast of Jiangxi-the south of Anhui tectonic-rock block-strata method. Journal of East China Geological Institute, 26(1): 32-37 (in Chinese with English abstract)
+Deng J and Wang QF. 2016. Gold mineralization in China: Metallogenic provinces, deposit types and tectonic framework. Gondwana Research, 36: 219-274 DOI:10.1016/j.gr.2015.10.003
+Fang GC, Zhao Z, Chen YC, Chen ZH, Krapez B and Mao JW. 2018. Genetic relationship between granitic magmatism and W mineralization recorded in the Nanling Scientific Drilling (SP-NLSD-2) in the Pangushan W mining district, South China. Ore Geology Reviews, 101: 556-577 DOI:10.1016/j.oregeorev.2018.07.012
+Guo LH, Shi L and Meng XH. 2013. The antisymmetric factor method for magnetic reduction to the pole at low latitudes. Journal of Applied Geophysics, 92: 103-109 DOI:10.1016/j.jappgeo.2013.02.018
+Guo LH, Gao R, Meng XH and Zhang GL. 2015. A hybrid positive-and-negative curvature approach for detection of the edges of magnetic anomalies, and its application in the South China Sea. Pure and Applied Geophysics, 172(10): 2701-2710 DOI:10.1007/s00024-014-0956-y
+Guo LH and Gao R. 2018. Potential-field evidence for the tectonic boundaries of the central and western Jiangnan belt in South China. Precambrian Research, 309: 45-55 DOI:10.1016/j.precamres.2017.01.028
+Guo LH, Gao R, Shi L, Huang ZR and Ma YW. 2019. Crustal thickness and Poisson's ratios of South China revealed from joint inversion of receiver function and gravity data. Earth and Planetary Science Letters, 510: 142-152 DOI:10.1016/j.epsl.2018.12.039
+Guo LZ, Shi YS, Ma RS, Ye SF and Lu HF. 1984. Tectonostratigraphic terranes of Southeast China. Journal of Nanjing University (Natural Sciences), (4): 732-739 (in Chinese with English abstract)
+He CS, Dong SW, Santosh M and Chen XH. 2013. Seismic evidence for a geosuture between the Yangtze and Cathaysia blocks, South China. Scientific Reports, 3: 2200 DOI:10.1038/srep02200
+Hsü KJ, Sun S and Li JL. 1987. South China orogenic belt rather than South China platform. Science in China (Series B), (10): 1107-1115 (in Chinese)
+Hsü KJ, Sun S, Li JL, Chen HH, Pen HB and Sengor AMC. 1988. Mesozoic overthrust tectonics in South China. Geology, 16(5): 418-421 DOI:10.1130/0091-7613(1988)016<0418:MOTISC>2.3.CO;2
+Hsü KJ, Li JL, Chen HH, Wang QC, Sun S and Şengör AMC. 1990. Tectonics of South China: Key to understanding West Pacific geology. Tectonophysics, 183(1-4): 9-39 DOI:10.1016/0040-1951(90)90186-C
+Hu ZR. 2010. Study on Yangtze and Cathaysian block connect age. Journal of East China Institute of Technology, 33(2): 139-142 (in Chinese with English abstract)
+Huang JQ. 1945. Main geological structural units in China. Special Report on Geology of Central Geological Survey (Type A), 20: 1-165 (in Chinese)
+Huang JQ. 1954. Characteristics of regional geology in China. Acta Geologica Sinica, 34(3): 217-229, 231-244 (in Chinese)
+Huang JQ. 1959. Preliminary discussion on the basic signs of geological structure in China. Geology in China, (7): 24-33, 43 (in Chinese)
+Huang JQ. 1960. A preliminary summary of the basic characteristics of geological structures in China. Acta Geologica Sinica, 40(1): 1-31 (in Chinese)
+Huang ZL, Wang D, Yan JY and Zhang H. 2016. A huge deep fault system at the east edge of Eurasia: The new tectonic interpretation based on satellite gravity. Acta Geoscientica Sinica, 37(1): 25-34 (in Chinese with English abstract)
+Jiang L. 2014. Research and implementation of terrain correction using sector cylinder models in spherical coordinate. Master Degree Thesis. Beijing: China University of Geosciences (Beijing) (in Chinese with English abstract)
+Jin WS and Sun DZ. 1997. Deep Crustal Structure and Evolution of South China Continent. Beijing: Geological Publishing House (in Chinese)
+Kelbert A, Meqbel N, Egbert GD and Tandon K. 2014. ModEM: A modular system for inversion of electromagnetic geophysical data. Computers & Geosciences, 66: 40-53
+Li XH, Li ZX, Ge WC, Zhou HW, Li WX, Liu Y and Wingate MTD. 2003. Neoproterozoic granitoids in South China: Crustal melting above a mantle plume at ca. 825Ma?. Precambrian Research, 122(1-4): 45-83 DOI:10.1016/S0301-9268(02)00207-3
+Li XH, Li WX, Li ZX, Lo CH, Wang J, Ye MF and Yang YH. 2009. Amalgamation between the Yangtze and Cathaysia blocks in South China: Constraints from SHRIMP U-Pb zircon ages, geochemistry and Nd-Hf isotopes of the Shuangxiwu volcanic rocks. Precambrian Research, 174(1-2): 117-128 DOI:10.1016/j.precamres.2009.07.004
+Li ZX, Li XH, Kinny PD and Wang J. 1999. The breakup of Rodinia: Did it start with a mantle plume beneath South China?. Earth and Planetary Science Letters, 173(3): 171-181 DOI:10.1016/S0012-821X(99)00240-X
+Ling HF, Shen WZ, Wang RC and Xu SJ. 2001. Geochemical characteristics and genesis of Neoproterozoic granitoids in the northwestern margin of the Yangtze Block. Physics and Chemistry of the Earth, Part A: Solid Earth and Geodesy, 26(9-10): 805-819 DOI:10.1016/S1464-1895(01)00129-6
+Liu WQ, Lü QT, Cheng ZZ, Xing GF, Yan JY, Yuan LL and Chen CX. 2021. Multi-element geochemical data mining: Implications for block boundaries and deposit distributions in South China. Ore Geology Reviews, 133: 104063 DOI:10.1016/j.oregeorev.2021.104063
+Lou FS, Huang ZZ, Song ZR and Wu XH. 2003. Geotectonic evolution modal of the Middle-New Proterozoic orogenic belt in the central part of South China. Geological Survey and Research, 26(4): 200-206 (in Chinese with English abstract)
+Lü QT, Meng GX, Zhang K, Liu ZD, Yan JY, Shi DN, Han JG and Gong XJ. 2021. The lithospheric architecture of the Lower Yangtze Metallogenic Belt, East China: Insights into an extensive Fe-Cu mineral system. Ore Geology Reviews, 132: 103989 DOI:10.1016/j.oregeorev.2021.103989
+Luo F, Yan JY, Fu GM, Wang H, Tao X and Luo L. 2019. Crust thickness and its apocalyptic of mineralization in South China: Constraint from Satellite Gravity data. Geology in China, 46(4): 759-774 (in Chinese with English abstract)
+Ma CX. 1991. New achievements of samarium and neodymium isotopic age of Paleoproterozoic Zhanggong Mountion Group in Northeast Jiangxi and geological significance. Chinese Science Bulletin, 36(19): 1518-1519 (in Chinese) DOI:10.1360/csb1991-36-19-1518
+Mao JR, Li ZL and Ye HM. 2014. Mesozoic tectono-magmatic activities in South China: Retrospect and prospect. Science China (Earth Sciences), 57(12): 2853-2877 DOI:10.1007/s11430-014-5006-1
+Mao JW and Li HY. 1997. Research on genesis of the gold deposits in the Jiangnan Terrain. Geochimica, 26(5): 71-81 (in Chinese with English abstract)
+Ni P and Wang GG. 2017. Multiple episodes of Cu-Au mineralization in the northeastern section of the Qin-Hang metallogenic belt induced by reworking of continental crust. Acta Petrologica Sinica, 33(11): 3373-3394 (in Chinese with English abstract)
+Shi W, Dong SW, Zhang YQ and Huang SQ. 2015. The typical large-scale superposed folds in the central South China: Implications for Mesozoic intracontinental deformation of the South China Block. Tectonophysics, 664: 50-66 DOI:10.1016/j.tecto.2015.08.039
+Shu LS, Sun Y and Li YJ. 1993. Paleomagnetism features and its tectonic significance in the middle part of the Jiangnan belt, South China. Journal of Nanjing University (Natural Sciences Edition), 29(1): 125-134 (in Chinese)
+Shu LS and Sun Y. 1995. Simulating experiments for the deformation and microstructures of granite in the central part of the Jiangnan Belt, South China. Science in China (Series B), 25(11): 1226-1233 (in Chinese)
+Shu LS, Wang B and Zhu WB. 2007. Age of radiolarian fossils from the Heiyingshan ophiolitic mélange, southern Tianshan belt, NW China, and its tectonic significance. Acta Geologica Sinica, 81(9): 1161-1168 (in Chinese with English abstract)
+Shu LS. 2012. An analysis of principal features of tectonic evolution in South China Block. Geological Bulletin of China, 31(7): 1035-1053 (in Chinese with English abstract)
+Shu LS, Jahn BM, Charvet J, Santosh M, Wang B, Xu XS and Jiang SY. 2014. Early Paleozoic depositional environment and intraplate tectono-magmatism in the Cathaysia Block (South China): Evidence from stratigraphic, structural, geochemical and geochronological investigations. American Journal of Science, 314(1): 154-186 DOI:10.2475/01.2014.05
+Shui T. 1987. Tectonic framework of the southeastern China continental basement. Science in China (Series B), 17(4): 414-422 (in Chinese)
+Song CZ, Li JH, Yan JY, Wang YY, Liu ZD, Yuan F and Li ZW. 2019. A tentative discussion on some tectonic problems in the east of South China continent. Geology in China, 46(4): 704-722 (in Chinese with English abstract)
+Sun SC, Zhang L, Wu SG, Gao L, Peng JS and Wen T. 2018. Metallogenic mechanism of the Huangjindong gold deposit, Jiangnan orogenic belt: Constraints from mineral formation environment and physicochemical conditions of metallogenesis. Acta Petrologica Sinica, 34(5): 1469-1483 (in Chinese with English abstract)
+Uieda L, Barbosa V C F and Braitenberg C. 2016. Tesseroids: Forward-modeling gravitational fields in spherical coordinates. Geophysics, 81(5): F41-F48 DOI:10.1190/geo2015-0204.1
+Wan XY, Zhang RN, Sui SH and Chen L. 2017. Analysis of Earth gravity field detection based on satellite data. Spacecraft Engineering, 26(2): 121-129 (in Chinese with English abstract)
+Wang B and Shu LS. 2001. Notes on Late Paleozoic radiolarians of northeastern Jiangxi Province. Geological Review, 47(4): 337-344 (in Chinese with English abstract)
+Wang XL, Yu JH, Shu XJ, Tang CH and Xing GF. 2013. U-Pb geochronology of detrital zircons from the Para-metamorphic rocks of the Zhoutan Group, central Jiangxi Province. Acta Petrologica Sinica, 29(3): 801-811 (in Chinese with English abstract)
+Wang XL, Zhou JC, Griffin WL, Zhao GC, Yu JH, Qiu JS, Zhang YJ and Xing GF. 2014. Geochemical zonation across a Neoproterozoic orogenic belt: Isotopic evidence from granitoids and metasedimentary rocks of the Jiangnan orogen, China. Precambrian Research, 242: 154-171 DOI:10.1016/j.precamres.2013.12.023
+Wang XL, Zhou JC, Chen X, Zhang FF and Sun ZM. 2017. Formation and evolution of the Jiangnan orogen. Bulletin of Mineralogy, Petrology and Geochemistry, 36(5): 714-735 (in Chinese with English abstract)
+Wong J, Sun M, Xing GF, Li XH, Zhao GC, Wong K and Wu FY. 2011. Zircon U-Pb and Hf isotopic study of Mesozoic felsic rocks from eastern Zhejiang, South China: Geochemical contrast between the Yangtze and Cathaysia blocks. Gondwana Research, 19(1): 244-259 DOI:10.1016/j.gr.2010.06.004
+Wu XH, Lou FS, Wang YJ, Song ZR, Yang Q, Deng GH, Huang ZZ and Ling LH. 2004. Geochemical characteristics for siliceous rocks of different ages in northeastern Jiangxi and their geological significance. Geological Journal of China Universities, 10(2): 209-216 (in Chinese with English abstract)
+Xu B, Guo LZ and Shi YS. 1992. Proterozoic Terrane and Multiphase Collisional Orogenic Belt in Anhui Zhejiang Jiangxi Area. Beijing: Geological Press, 1-112 (in Chinese)
+Xu XS and Zhou XM. 1992. Precambrian S-type granitoids in South China and their geological significance. Journal of Nanjing University (Natural Sciences Edition), 28(3): 423-430 (in Chinese with English abstract)
+Xue HM, Ma F and Song YQ. 2012. Mafic-ultramafic rocks from the Fanjingshan region, southwestern margin of the Jiangnan orogenic belt: Ages, geochemical characteristics and tectonic setting. Acta Petrologica Sinica, 28(9): 3015-3030 (in Chinese with English abstract)
+Xue HM. 2021. Geochronology, geochemistry and stratospheric interactions of Late Mesozoic granitoids near the boundary between Anhui and Zhejiang provinces in the eastern segment of the Jiangnan orogenic belt. Acta Petrologica Sinica, 37(2): 433-461 (in Chinese with English abstract) DOI:10.18654/1000-0569/2021.02.07
+Yan JY, Lü QT, Meng GX, Zhao JH, Deng Z and Liu Y. 2011. Tectonic framework research of the Lower and Middle Yangtze metallogenic belt based on gravity and magnetic multi-scale edge detection. Acta Geologica Sinica, 85(5): 900-914 (in Chinese with English abstract)
+Yan JY, Lü QT, Chen MC, Deng Z, Qi G, Zhang K, Liu ZD, Wang J and Liu Y. 2015. Identification and extraction of geological structure information based on multi-scale edge detection of gravity and magnetic fields: An example of the Tongling ore concentration area. Chinese Journal of Geophysics, 58(12): 4450-4464 (in Chinese with English abstract)
+Yan JY, Lü QT, Luo F, Chen AG, Ye GF, Zhang YQ, Zhang K, Zhao JH, Zhang C, Liu ZD and Liu Y. 2019. Where is Qinzhou-Hangzhou juncture belt? Evidence from integrated geophysical exploration. Geology in China, 46(4): 690-703 (in Chinese with English abstract)
+Yang GZ and Gu SY. 2013. Discussion on mineralization age of gold deposits in Jiangnan Orogen. Guizhou Science, 31(3): 73-79, 82 (in Chinese with English abstract)
+Yang MG, Wang FN and Zeng Y. 2002. The ore-forming environment and its process in Northeast Jiangxi. Resources Survey & Environment, 23(2): 122-129 (in Chinese with English abstract)
+Yang Q, Wang YJ, Yin LM, Shu LS, Lou FS and Wang B. 2005. On the age of ophiolitic melange in Northeast Jiangxi: Evidence from microbiopaleontology. Acta Geologica Sinica, 79(3): 316 (in Chinese)
+Yao JL, Shu LS, Santosh M and Li JY. 2013. Geochronology and Hf isotope of detrital zircons from Precambrian sequences in the eastern Jiangnan Orogen: Constraining the assembly of Yangtze and Cathaysia blocks in South China. Journal of Asian Earth Sciences, 74: 225-243 DOI:10.1016/j.jseaes.2012.08.010
+Yao JL, Shu L S and Santosh M. 2014. Neoproterozoic arc-trench system and breakup of the South China Craton: Constraints from N-MORB type and arc-related mafic rocks, and anorogenic granite in the Jiangnan orogenic belt. Precambrian Research, 247: 187-207 DOI:10.1016/j.precamres.2014.04.008
+Zhang GW, Guo AL, Wang YJ, Li SZ, Dong YP, Liu SF, He DF, Cheng SY, Lu RK and Yao AP. 2013. Tectonics of South China continent and its implications. Science China (Earth Sciences), 56(11): 1804-1828 DOI:10.1007/s11430-013-4679-1
+Zhang Y, Zhang SX, Liang Q and Chen C. 2015. Application of boundary identifying technologies using gravity and magnetic maps in three-dimensional geological mapping of western Junggar area. Earth Science (Journal of China University of Geosciences), 40(3): 431-440 (in Chinese with English abstract) DOI:10.3799/dqkx.2015.035
+Zhang YQ, Shi DN, Lü QT, Xu Y, Xu ZW, Yan JY, Chen CX and Xu T. 2021a. The crustal thickness and composition in the eastern South China Block constrained by receiver functions: Implications for the geological setting and metallogenesis. Ore Geology Reviews, 130: 103988 DOI:10.1016/j.oregeorev.2021.103988
+Zhang YQ, Shi DN, Lü QT, Xu Y, Xu ZW, Gong XJ, Yan JY and Xu T. 2021b. A fine crustal structure and geodynamics revealed by receiver functions along the Guangchang-Putian line in the Cathaysia Block, South China. Tectonophysics, 815: 229007 DOI:10.1016/j.tecto.2021.229007
+Zhao GC and Cawood P A. 1999. Tectonothermal evolution of the Mayuan assemblage in the Cathaysia Block: Implications for Neoproterozoic collision-related assembly of the South China Craton. American Journal of Science, 299(4): 309-339 DOI:10.2475/ajs.299.4.309
+Zhao Z, Liu C, Guo NX, Zhao WW, Wang PA and Chen ZH. 2018a. Temporal and spatial relationships of granitic magmatism and W mineralization: Insights from the Xingguo orefield, South China. Ore Geology Reviews, 95: 945-973 DOI:10.1016/j.oregeorev.2018.03.022
+Zhao Z, Zhou XP, Guo NX, Zhang HY, Liu ZY, Zheng YL, Zeng ZL and Chen YC. 2018b. Superimposed W and Ag-Pb-Zn (-Cu-Au) mineralization and deep prospecting: Insight from a geophysical investigation of the Yinkeng orefield, South China. Ore Geology Reviews, 93: 404-412 DOI:10.1016/j.oregeorev.2018.01.017
+Zhao Z, Fu TY, Gan JW, Liu C, Wang DH, Sheng JF, Li WB, Wang PA, Yu ZF and Chen YC. 2021. A synthesis of mineralization style and regional distribution and a proposed new metallogenic model of Mesozoic W-dominated polymentallic deposits in South China. Ore Geology Reviews, 133: 104008 DOI:10.1016/j.oregeorev.2021.104008
+Zhao Z, Chen YC, Wang DH, Li JK, Liu SB, Chen ZY, Guo CL and Wang PA. 2022. Transformation of Mesozoic dynamic systems and superposition of metallogenic series of W-Sn-Li-Be-Nb-Ta-REE mineral deposits in South China. Acta Petrologica Sinica, 38(2): 301-322 (in Chinese with English abstract) DOI:10.18654/1000-0569/2022.02.01
+Zhou GQ, Shu LS and Wu HL. 1989. The high temperature and pressure metamorphic rocks related to ophiolite in northeastern Jiangxi and a discussion on the superimposition metamorphism. Acta Petrologica et Mineralogica, 8(3): 220-231, 219 (in Chinese with English abstract)
+Zhou GQ and Zhao JX. 1991. Sm-Nd isotopic study of Northeast Jiangxi ophiolites in the southeastern margin of the Yangtze craton in South China. Chinese Science Bulletin, 36(2): 129-132 (in Chinese) DOI:10.1360/csb1991-36-2-129
+Zhou JC, Wang XL and Qiu JS. 2009. Geochronology of Neoproterozoic mafic rocks and sandstones from northeastern Guizhou, South China: Coeval arc magmatism and sedimentation. Precambrian Research, 170(1-2): 27-42 DOI:10.1016/j.precamres.2008.11.002
+Zhou MF, Ma YX, Yan DP, Xia XP, Zhao JH and Sun M. 2006. The Yanbian terrane (southern Sichuan Province, SW China): A Neoproterozoic arc assemblage in the western margin of the Yangtze Block. Precambrian Research, 144(1-2): 19-38 DOI:10.1016/j.precamres.2005.11.002
+Zhou XM and Wang DZ. 1988. The peraluminous granodiorites with low initial 87Sr/86Sr ratio and their genesis in southern Anhui Province, Eastern China. Acta Petrologica Sinica, 4(3): 37-45 (in Chinese with English abstract)
+Zhou XM, Zou HB, Yang JD and Wang YX. 1989. Sm-Nd isochronous age of Fuchuan ophiolite suite in Shexian County, Anhui Province and its geological significance. Chinese Science Bulletin, 16: 1243-1245 (in Chinese)
+Zhou XM and Zhu YH. 1992. Magmatic mixing and Precambrian Geology on both sides of Jiangshao fault zone. Science in China (Series B), (3): 296-303 (in Chinese)
+Zhou XM and Zhu YH. 1993. Late Proterozoic collisional orogen and geosuture in southeastern China: Petrological evidence. Chinese Journal of Geochemistry, 12(3): 239-251 DOI:10.1007/BF02843363
+Zhou XM. 2003. My thinking about granite geneses of South China. Geological Journal of China Universities, 9(4): 556-565 (in Chinese with English abstract)
+Zhou YZ, Li XY, Zheng Y, Shen WJ, He JG, Yu PP, Niu J and Zeng CY. 2017. Geological settings and metallogenesis of Qinzhou Bay-Hangzhou Bay orogenic juncture belt, South China. Acta Petrologica Sinica, 33(3): 667-681 (in Chinese with English abstract)
+陈峰, 颜丹平, 邱亮, 杨文心, 汤双立, 郭庆银, 张翼西. 2019. 江南造山带西南段摩天岭穹隆脆韧性剪切与铀成矿作用. 岩石学报, 35(9): 2637-2659.
+程海. 1991. 浙西北晚元古代早期碰撞造山带的初步研究. 地质论评, 37(3): 203-213. DOI:10.3321/j.issn:0371-5736.1991.03.002
+邓国辉, 楼法生, 宋志瑞, 吴新华, 罗春林. 2003. 赣东北-皖南中元古代低级变质地层区的填图方法——构造-岩块-地层法. 华东地质学院学报, 26(1): 32-37. DOI:10.3969/j.issn.1674-3504.2003.01.008
+郭令智, 施央申, 马瑞士, 叶尚夫, 卢华复. 1984. 中国东南部地体构造的研究. 南京大学学报(自然科学版), (4): 732-739.
+胡肇荣. 2010. 扬子与华夏地块拼接时代的再研究. 东华理工大学学报(自然科学版), 33(2): 139-142. DOI:10.3969/j.issn.1674-3504.2010.02.004
+黄汲清. 1945. 中国主要地质构造单元. 中央地质调查所地质专报(甲种), 20: 1-165.
+黄汲清. 1954. 中国区域地质的特征. 地质学报, 34(3): 217-229, 231-244.
+黄汲清. 1959. 中国地质构造基本特征的初步探讨. 地质月刊, (7): 24-33, 43.
+黄汲清. 1960. 中国地质构造基本特征的初步总结. 地质学报, 40(1): 1-31.
+黄宗理, 王典, 严加永, 张怀. 2016. 欧亚大陆东缘存在一个巨型深断裂系统——基于卫星重力的新发现. 地球学报, 37(1): 25-34.
+江丽. 2014. 球坐标系下基于扇形柱体的地形改正研究与实现. 硕士学位论文. 北京: 中国地质大学(北京)
+金文山, 孙大中. 1997. 华南大陆深部地壳结构及其演化. 北京: 地质出版社.
+楼法生, 黄志忠, 宋志瑞, 吴新华. 2003. 华南中部中新元古代造山带构造演化探讨. 地质调查与研究, 26(4): 200-206. DOI:10.3969/j.issn.1672-4135.2003.04.002
+罗凡, 严加永, 付光明, 王昊, 陶鑫, 罗磊. 2019. 华南地区地壳厚度变化及对成矿类型的制约: 来自卫星重力数据的约束. 中国地质, 46(4): 759-774.
+马长信. 1991. 赣东北古元古宙障公山群的钐钕同位素年龄新成果及其地质意义. 科学通报, 36(19): 1518-1519.
+毛建仁, 厉子龙, 叶海敏. 2014. 华南中生代构造-岩浆活动研究: 现状与前景. 中国科学(地球科学), 44(12): 2593-2617.
+毛景文, 李红艳. 1997. 江南古陆某些金矿床成因讨论. 地球化学, 26(5): 71-81. DOI:10.3321/j.issn:0379-1726.1997.05.007
+倪培, 王国光. 2017. 大陆再造与钦杭带北东段多期铜金成矿作用. 岩石学报, 33(11): 3373-3394.
+舒良树, 孙岩, 李雅绵. 1993. 江南造山带中段古地磁特征与构造意义. 南京大学学报(自然科学版), 29(1): 125-134. DOI:10.3321/j.issn:0469-5097.1993.01.002
+舒良树, 孙岩. 1995. 江南中段花岗岩天然变形与显微构造模拟实验研究. 中国科学(B辑), 25(11): 1226-1233.
+舒良树, 王博, 朱文斌. 2007. 南天山蛇绿混杂岩中放射虫化石的时代及其构造意义. 地质学报, 81(9): 1161-1168. DOI:10.3321/j.issn:0001-5717.2007.09.001
+舒良树. 2012. 华南构造演化的基本特征. 地质通报, 31(07): 1035-1053. DOI:10.3969/j.issn.1671-2552.2012.07.003
+水涛. 1987. 中国东南大陆基底构造格局. 中国科学(B辑), 17(4): 414-422.
+宋传中, 李加好, 严加永, 王阳阳, 刘振东, 袁芳, 李振伟. 2019. 华南大陆东部若干构造问题的思考. 中国地质, 46(4): 704-722.
+孙思辰, 张良, 吴圣刚, 高磊, 彭劲松, 文亭. 2018. 江南造山带黄金洞金矿床成矿机制: 矿物形成环境与金成矿物理化学条件制约. 岩石学报, 34(5): 1469-1483.
+万晓云, 张润宁, 眭晓虹, 陈亮. 2017. 基于卫星观测数据的地球重力场探测技术发展趋势分析. 航天器工程, 26(2): 121-129. DOI:10.3969/j.issn.1673-8748.2017.02.017
+王博, 舒良树. 2001. 对赣东北晚古生代放射虫的初步认识. 地质论评, 47(4): 337-344. DOI:10.3321/j.issn:0371-5736.2001.04.001
+王孝磊, 于津海, 舒徐洁, 唐成虎, 邢光福. 2013. 赣中周潭群副变质岩碎屑锆石U-Pb年代学. 岩石学报, 29(3): 801-811.
+王孝磊, 周金城, 陈昕, 张凤凤, 孙梓铭. 2017. 江南造山带的形成与演化. 矿物岩石地球化学通报, 36(5): 714-735. DOI:10.3969/j.issn.1007-2802.2017.05.003
+吴新华, 楼法生, 王玉净, 宋志瑞, 杨群, 邓国辉, 黄志忠, 凌联海. 2004. 赣东北地区不同时代硅质岩的地球化学特征及其地质意义. 高校地质学报, 10(2): 209-216. DOI:10.3969/j.issn.1006-7493.2004.02.007
+徐备, 郭令智, 施央申. 1992. 皖浙赣地区元古代地体和多期碰撞造山带. 北京: 地质出版社, 1-112.
+许靖华, 孙枢, 李继亮. 1987. 是华南造山带而不是华南地台. 中国科学(B辑), (10): 1107-1115.
+徐夕生, 周新民. 1992. 华南前寒武纪S型花岗岩类及其地质意义. 南京大学学报(自然科学版), 28(3): 423-430. DOI:10.3321/j.issn:0469-5097.1992.03.001
+薛怀民, 马芳, 宋永勤. 2012. 江南造山带西南段梵净山地区镁铁质-超镁铁质岩: 形成时代、地球化学特征与构造环境. 岩石学报, 28(9): 3015-3030.
+薛怀民. 2021. 江南造山带东段皖浙交界附近晚中生代花岗岩类的年代学、地球化学与层圈相互作用讨论. 岩石学报, 37(2): 433-461.
+严加永, 吕庆田, 孟贵祥, 赵金花, 邓震, 刘彦. 2011. 基于重磁多尺度边缘检测的长江中下游成矿带构造格架研究. 地质学报, 85(5): 900-914.
+严加永, 吕庆田, 陈明春, 邓震, 祁光, 张昆, 刘振东, 汪杰, 刘彦. 2015. 基于重磁场多尺度边缘检测的地质构造信息识别与提取——以铜陵矿集区为例. 地球物理学报, 58(12): 4450-4464. DOI:10.6038/cjg20151210
+严加永, 吕庆田, 罗凡, 陈安国, 叶高峰, 张永谦, 张昆, 赵金花, 张冲, 刘振东, 刘彦. 2019. 钦杭何在? 来自综合地球物理探测的认识. 中国地质, 46(4): 690-703.
+杨光治, 顾尚义. 2013. 江南造山带金矿成矿年龄的讨论. 贵州科学, 31(3): 73-79, 82. DOI:10.3969/j.issn.1003-6563.2013.03.016
+杨明桂, 王发宁, 曾勇. 2002. 赣东北地区的成矿环境与成矿作用. 资源调查与环境, 23(2): 122-129. DOI:10.3969/j.issn.1671-4814.2002.02.007
+杨群, 王玉净, 尹磊明, 舒良树, 楼法生, 王博. 2005. 论赣东北蛇绿混杂岩的时代——来自微体古生物学的证据. 地质学报, 79(3): 316.
+张国伟, 郭安林, 王岳军, 李三忠, 董云鹏, 刘少峰, 何登发, 程顺有, 鲁如魁, 姚安平. 2013. 中国华南大陆构造与问题. 中国科学(地球科学), 43(10): 1553-1582.
+张壹, 张双喜, 梁青, 陈超. 2015. 重磁边界识别方法在西准噶尔地区三维地质填图中的应用. 地球科学(中国地质大学学报), 40(3): 431-440.
+赵正, 陈毓川, 王登红, 李建康, 刘善宝, 陈振宇, 郭春丽, 王平安. 2022. 华南中生代动力体制转换与钨锡锂铍铌钽稀土矿床成矿系列的叠加演化. 岩石学报, 38(2): 301-322.
+周国庆, 舒良树, 吴洪亮. 1989. 与赣东北元古代蛇绿岩有关的高温、高压变质岩和重变质作用机制的讨论. 岩石矿物学杂志, 8(3): 220-231, 219.
+周国庆, 赵建新. 1991. 华南扬子克拉通东南缘赣东北蛇绿岩的Sm-Nd同位素研究. 科学通报, 36(2): 129-132.
+周新民, 王德滋. 1988. 皖南低87Sr/86Sr初始比的过铝花岗闪长岩及其成因. 岩石学报, 4(3): 37-45. DOI:10.3321/j.issn:1000-0569.1988.03.004
+周新民, 邹海波, 杨杰东, 王银喜. 1989. 安徽歙县伏川蛇绿岩套的Sm-Nd等时线年龄及其地质意义. 科学通报, (16): 1243-1245. DOI:10.3321/j.issn:0023-074X.1989.16.003
+周新民, 朱云鹤. 1992. 江绍断裂带的岩浆混合作用及其两侧的前寒武纪地质. 中国科学(B辑), (3): 296-303.
+周新民. 2003. 对华南花岗岩研究的若干思考. 高校地质学报, 9(4): 556-565. DOI:10.3969/j.issn.1006-7493.2003.04.009
+周永章, 李兴远, 郑义, 沈文杰, 何俊国, 虞鹏鹏, 牛佳, 曾长育. 2017. 钦杭结合带成矿地质背景及成矿规律. 岩石学报, 33(3): 667-681.

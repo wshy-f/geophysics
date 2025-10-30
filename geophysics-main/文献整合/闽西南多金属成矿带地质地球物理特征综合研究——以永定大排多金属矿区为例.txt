@@ -1,0 +1,141 @@
+闽西南多金属成矿带地质地球物理特征综合研究——以永定大排多金属矿区为例
+张兴东1,2cugbzxd@163.com, 孟小红1 通讯作者mxh@cugb.edu.cn, 陈召曦1, 王俊1, 修春晓1     
+摘要：闽西南地区位于福建武夷山成矿带西南部，自远古宙以来经历了多期次的构造演化.该区地处东南沿海构造-岩浆-成矿带上，为环太平洋大陆边缘多金属成矿带与南岭多金属成矿带复合部位，是我国重要的多金属矿产地.永定大排多金属矿区作为近年来武夷山成矿带新发现的大型多金属矿，区内叠加作用和控矿作用相对复杂，现有的地质地球物理工作程度不足以满足对该区域成矿规律的深入认识，一些基础地质问题亟待解决.因此，本文在深入收集永定大排矿区地质地球物理资料基础上，综合分析区域成矿背景与成矿构造，在重点区域布设综合地球物理勘探工作，包括1：1万高精度磁测、可控源音频大地电磁剖面及反射地震剖面.基于上述工作：1）开展了研究区航磁数据三维磁化率反演与分布特征分析与大地电磁二维电阻率反演与分布特征分析，开展了地震资料真地表深度偏移成像，获得了更加准确的地震剖面成像结果.2）结合推覆体控矿特征，地震剖面和电阻率剖面、航磁反演结果相互验证和约束，勾画了地下构造形态.地表地质剖面延伸和标定了构造形态的地质内涵，获得了从地表到3000 m深度的构造解释结果.解释结果清晰地显示了与推覆相关的构造、控矿层位以及岩体信息，为三位一体的找矿思路提供了地球物理依据.
+关键词: 闽西南成矿带      大排多金属矿      航磁      可控源音频大地电磁      反射地震     
+Comprehensive study of the geological and geophysical characteristics of the metallogenic belt in Southwest Fujian——A case study in the Yongding-Dapai polymetallic ore deposit
+ZHANG XingDong1,2cugbzxd@163.com, MENG XiaoHong1Corresponding authormxh@cugb.edu.cn, CHEN ZhaoXi1, WANG Jun1, XIU ChunXiao1     
+Abstract: The Southwestern Fujian area locates in the southeastern coastal tectonic magma metallogenic belt which is the composite part between the Pacific continental margin polymetallic metallogenic belt and the Nanling polymetallic metallogenic belt. It is one of the important polymetallic ore orogens in our country. Along with the increase of difficulty in finding superficial mineral resources, the prospecting focus has shifted to the search for deep concealed deposits. Dapai is a large polymetallic ore area with complicated tectonic conditions found along the Wuyishan metallogenic belt in recent years. The existing geological and geophysical works in this area are not enough for the deep understanding of the metallogenic regularity of this region. And there exist some basic geological problems to be solved. In the work discussed in this paper, geological and geophysical data of this area are collected. The regional metallogenic setting has been analyzed based on these collected data. Moreover, some effective comprehensive geophysical works have also been conducted in this area, including the high-precision aeromagnetic, the controlled source audio frequency magnetotelluric (CSAMT) method and the reflection seismic method. Based on above mentioned works, 1) Three dimensional magnetic susceptibility inversion and two dimensional magnetotelluric resistivity inversion have been carried out in the study area. Moreover, the physical characteristics have been analyzed based on the inversion results. The true depth migration of seismic data has been carried out, and more accurate seismic profile imaging results have been obtained. 2) According to the ore control characteristics of the nappe structure, the seismic and resistivity profile and the aeromagnetic inversion results have been verified and constrained by each other. Meanwhile, the structure of the underground structure has been outlined. The surface geological section was extended and elucidated the geological connotations of the structural form. The result of structural interpretation depicted the structure in the depth from the surface to 3 kilometers. The interpretation results clearly show the structure, ore control strata, and rock mass information of the nappe, and provide geophysical basis for the thought of the trinity prospecting.
+Key words: Metallogenic belt in the Southwest Fujian    Dapai polymetallic ore    Aeromagnetic    CSAMT    Reflection seismic    
+0 引言
+闽西南地区自元古代以来经历了长期复杂的构造演化，使得该地区在不同的时期具有不同的大地构造背景(张达，2011).在此构造背景下，闽西南及邻区也经历印支—燕山运动多期次构造变形及岩浆作用.特别是中侏罗世以来由于东亚岩石圈大规模的板块运动造成中国大陆及周缘地带产生强烈的构造变形(董树文等，2007).华南大陆岩石圈总体上处于持续挤压状态，产生大规模NE-NEE向褶皱及逆冲推覆构造(张岳桥等，2009).扬子板块东南缘、武夷山隆起带、闽西南坳陷等东南沿海地区均受到强烈的推覆构造变形改造，使不同时代的地层发生易位、层序倒置以及重复或缺失(徐备等，1989).中生代以来，由于古太平洋板块俯冲作用的影响，造就了该区域良好的成矿地质条件以及丰富的矿产资源(毛建仁等，2001；林东燕，2011).新元古代晚期，闽西南地区政和—大埔断裂一带的拉张裂谷中，发生海底基性-酸性火山喷发沉积，伴随海底火山的多次喷发，含矿热水发生喷流，矿质发生沉淀、堆积，形成块状硫化物型铅巧矿层或含巧、铅、铜、银等的矿源层.加里东期褶皱隆起和区域变质作用，导致部分矿质聚集或形成新的矿层.此外，燕山期岩浆活动对早期海底火山喷发沉积矿床产生强烈的热液叠加和改造作用，对矿质富集具有重要意义(丰成友等，2007).永定大排地区作为找矿突破战略行动首批整装勘查区，长期以来，前人对该区区域构造演化、成矿地质条件、成矿规律以及成矿系列做了部分工作，取得了找矿成果，明确了主攻的找矿区带，特别是1999年实施国土资源大调查和2010年马坑—汤泉铁多金属成矿区被列为国家首批整装勘查区以来，武夷山成矿带开展了大量的矿产资源评价项目，发现了一批大、中型矿产普查基地和重要的找矿远景区段，确定了以铁为主的主攻矿种和以马坑—汤泉式铁矿为主攻类型的矿床类型，在已有的典型矿床周边发现了一批矿点或矿化点，并积累了大量的地质、地球物理资料.但由于该区经历了多期次的构造演化，构造变形复杂，岩浆作用发育，形成了一系列的推覆构造，导致外来岩系覆盖于原地赋矿岩系之上，增加了深部找矿的困难(张承帅等, 2012, 张振杰，2015).
+
+许乃政等(2008)通过对大排铁铅锌多金属矿床成矿地质条件的总结后得出矿床类型应属于与燕山期花岗闪长(斑)岩有关的层控矽卡岩型铜、铅、锌矿床，并具有层控矽卡岩型矿床兼有海底热水成矿型矿床特征.杨庆镰(2009)通过对大排地区的地质、地球物理、地球化学等资料进行综合分析和研究，认为区内物化探异常范围大，叠合条件较好，具备一定的地质成矿条件.倪建辉(2012)在此基础上，系统研究矿床成矿地质背景，总结找矿标志，建立找矿模型，认为大排铁铅锌多金属矿床为沉积-改造型多金属矿床，矿床的成因主要为陆源-海相沉积作用，并与石炭统-二叠统的火山活动密切相关.赵希林等(2016)对大排铁铅锌多金属矿矿床开展的同位素年代学研究显示，大排铁铅锌多金属的主成矿期可能为燕山期，该期铁铅锌多金属矿与区内花岗岩质岩浆作用存在密切的时间以及成因联系.结合区域地质物性资料以及前人研究成果，初步判断大排铁铅锌多金属矿床为矽卡岩型-斑岩型复合型矿床.
+
+为了进一步研究多金属矿床控矿模式，本文将结合实测航磁数据、大地电磁数据，地震数据，通过对区域电磁特征、大地电磁反演以及地震成像结果进行分析，结合相关地质资料与物性资料，勾画区域构造形态，得到了该区地表到3 km深度的构造解释结果，为闽西南地区的成矿地质研究提供有利的科学依据.
+
+1 区域地质地球物理背景
+1.1 区域地质概况
+闽西南地区属于东南沿海构造-岩浆-成矿一部分，是特提斯东西向构造域环太平洋亚洲大陆边缘北东向构造时空演化交替的典型地区(毛建仁等，2001).自元古代以来，经历了前泥盆纪基底、晚古生代坳陷盆地形成与发育、以及中生代以来强烈的构造岩浆活动等几个重要的演化阶段.由于中生代以来的构造—岩浆活动与成矿作用强度大，地质记录相对完整，使闽西南地区所在的武夷山成矿带成为环太平洋中、新生代巨型构造—岩浆活动带中重要的成矿区之一，是我国重要的多金属矿产地(张达等，2011；张旭等，2012).区域上，除缺失志留纪及早泥盆世地层外，前寒武纪-第四纪地层均有发育，根据地层岩性、岩相、成岩环境的差异可分为3大岩系：前泥盆纪基底岩系、晚泥盆统-中三叠统以海相沉积为主的盖层岩系以及晚三叠统-新生代陆相碎屑-火山岩系(袁远等，2014).
+
+1.2 研究区地质背景
+矿区内存在燕山早中期浅层次褶皱逆冲推覆构造体系的一些规模不等的叠瓦状逆冲断裂和层间裂隙，总体呈北北东走向，南东东倾，逆冲推覆构造为矿区控矿和容矿构造.矿区内主要岩浆岩为燕山晚期二长花岗斑岩，二长花岗斑岩为沉积介质中的铁铅锌多金属提供矿化热液，起到活化、叠加、转移和富集的作用(林东燕，2011).岩体整体呈北东向展布，顶面倾向总趋势是自南东往北西方向逐渐降低的.
+
+1.3 区域地球物理背景
+研究区航磁异常结果显示，研究区属于航磁低缓异常带，北部为大范围弱负磁异常, 强度为-50~-200 nT, 呈北西向展布；南部则为大片正磁异常，强度0~100 nT.区内经地面磁法测量, 磁场强度总体表现平稳, 多在-50~+50 nT之间(杨庆镰，2009).选定的剖面位置处于正负异常的交界位置，大体推测与区内的断裂分布有关.岩体出露区域显示团块正异常，说明区域岩体磁化率较高.
+
+福建省的布格重力异常图显示，区域重力异常呈北东向长椭圆状、似船形的重力场特征，重力异常变化范围大，梯级带明显.区内总体上异常值为负，以负异常为主，高值区呈点状零星分布，异常值范围在(-60~-46)×10-5m·s-2，为全省最低，北东东走向，其周边值较高为(-44~-38)×10-5m·s-2，即具有四周高中间低的特点，和闽西南坳陷吻合，推断深部可能和地幔凹陷对应(林东燕，2011).区域地表主要为花岗岩分布，局部地区变质岩及上古生界沉积岩发育，研究区布格重力异常呈现相对重力高，反映为北东向展布的上地幔坳陷带，坳陷带的两侧上地幔相对抬升.另外在坳陷带上，上地幔也有凹凸起伏变化，从北东往南西，上地幔呈“凹-凸-凹-凸”的变化趋势.
+
+1.4 测区岩石地球物理特征
+根据区内岩石的出露以及钻探取得的岩芯情况，我们分别选取了灰岩、泥岩、大理岩、矽卡岩、花岗岩以及含磁铁矿的岩石进行了磁化率、密度以及纵波速度的测量.从测量的结果来看，泥岩磁化率普遍偏小，综合来看存在矿化蚀变的各类岩石磁化率相对没有蚀变的岩石磁化率高，矽卡岩以及花岗岩类是研究区中磁化率较高的岩石类型，而围岩如灰岩、泥岩等，磁化率都很小，说明区域围岩不具有磁性.根据区域物性资料，区内岩石的电性特征变化较大，低阻体岩石与高阻体岩石交互出现，其中，泥岩随着泥质的增加，电阻率也不断降低.花岗岩类通常电阻率较高.
+
+点击查看表格内容	
+表 1 研究区岩石物理特征
+Table 1 Perophysical properties of the survey area
+2 综合地球物理数据采集、处理与分析
+根据区域地质资料，研究区构造及地层总体展布方向为北北东向，因此本研究选择了垂直地质总体走向布置东西向测线(如图 1)，在测线上同时进行了高精度磁法、CSAMT测深法和反射地震三种地球物理方法.
+
+点击查看原图	
+图 1 研究区区域构造简图
+1早三叠世溪口组；2晚三叠世文笔山组；3早侏罗世下村组；4早石炭世林地组；5晚泥盆世桃子坑组；6早二叠世船山组；7燕山早期第三阶段黑云母花岗岩；8中二叠世童子岩组；9中二叠世文笔山组；10中二叠世栖霞组；11晚二叠世翠屏山组；12晚二叠世罗坑组.
+Fig. 1 Regional tectonic map of the study area
+1 Early Triassic Xikou Formation; 2 Late Triassic Wenbishan Formation; 3 Lower Jurassic Xiacun Formation; 4 Early Carboniferous Lindi Formation; 5 Late Devonian Taozikeng Formation; 6 Early Permian Chuanshan Formation; 7 Biotite granite; 8 Middle Permian Tongziyan Formation; 9 Middle Permian Wenbishan Formation; 10 Middle Permian Qixia Formation; 11 Late Permian Cuipingshan Formation; 12 Late Permian Luokeng Formation.
+2.1 磁异常数据分析与反演解释
+由于研究区地形复杂，植被覆盖率高，开展地面面积性磁测难度较大.本文所利用的面积性磁测数据为航磁数据，采用AS350B3型直升机搭载航空磁测系统进行1：10000面积性磁力数据采集.测线方向为东西向，线距100 m.
+
+该数据经过正常场校正、飞行方向差校正、数据调平等预处理后，得到该区域ΔT异常等值线平面图(图 2a).从ΔT异常图的结果来看，磁场主体异常正负伴生，呈南北向分布.南侧正场呈近等轴状，半径约2900 m，峰值约140 nT.北侧负场呈北西向椭圆状，北西长约2400 m，北东宽约1800 m，峰值约-145 nT.在主体异常正负交替部位出现叠加异常，亦为正负伴生.南侧正场峰值约195 nT，北侧负场峰值约-150 nT.
+
+点击查看原图	
+图 2 (a) 航磁ΔT异常等值线平面图；(b)航磁ΔT异常化极异常等直线平面图
+Fig. 2 (a) Aeromagnetic anomaly distribution of the survey area; (b) Polar magnetic anomaly distribution of the survey area
+在实际工作中，由于受到斜磁化的影响，磁性地质体产生的磁异常在垂向上的位置会存在偏移.为了进行正确的反演解释工作，必须把斜磁化的异常转化为垂直磁化(化到地磁极上)，消除由于磁化场的磁偏角和磁倾角引起的磁异常的不对称性.由于本次测区纬度变化不大，可以将测区各处磁倾角和磁偏角认为是一样的.采用单点化极的方法，选择的磁倾角为37°25′，磁偏角为-3°35′，得到该区域ΔT异常化极异常等直线平面图(图 2b).从航磁ΔT异常化极异常结果来看，在测区西北部存在团块状正异常，引起磁异常增强的原因可能是火山机构在浅部的反应；区域南部存在两个串珠状异常，推测该区域分布磁化率较高的花岗岩类(倪建辉，2011).
+
+利用三维约束反演技术(Li and Oldenburg, 1996, 1998, 2003)对区域化极异常数据进行三维磁化率反演.图 3所示为反演得到的图 1所标示测线的地下磁化率分布.从反演结果看出，地下3 km范围内存在局部高磁化率矿体，如图中水平位置4 km、9 km及12 km处.反演高磁化率分布位置与磁测数据的高幅值位置存在较好的对应性.局部高磁化率矿体推测与该地区高磁化率火成岩相关.
+
+点击查看原图	
+图 3 化极磁异常剖面反演结果图
+(a)剖面化极磁异常结果; (b)化极磁异常反演结果.
+Fig. 3 Inversion result of polar magnetic anomaly
+(a) Result of polar magnetic anomaly; (b) Inversion result of polar magnetic anomaly.
+2.2 大地电磁测深数据采集、分析与反演解释
+可控源音频大地电磁测深(CSAMT)技术具有探测深度大、能够直接探测来自深部隐伏矿体的微弱信息的特点，因而对深部隐伏矿床(体)的成功预测具有重要意义.本研究利用的大地电磁数据使用了美国Zonge工程公司生产的GDP-32Ⅱ多功能电法工作站采集，采用标量观测方式进行野外数据采集，即在每个测点测量沿测线方向的电场和垂直测线方向的磁场分量.测区内数据剖面长度为13 km，剖面位置如图 4所示，测线点距约为40 m.获取的数据经过数据转换、平滑、滤波等预处理后，采用二维共轭梯度反演方法(Rodi and Mackie, 2001)进行电阻率反演计算，得到测线剖面电阻率反演结果图(图 4).
+
+点击查看原图	
+图 4 大排地区大地电磁测深剖面电阻率反演结果图
+Fig. 4 MT resistivity inversion result map of Dapai area
+反演结果表明，剖面上不同区域之间的电阻率异常分布较为不均，电阻率在测线内变化较为剧烈.从整体上看，该测线由西向东电阻率由低阻向高阻变化.在近地表处，测线区域主要由高低阻值相间的异常体组成，规模较小.在测线4 km、9 km和12 km处，存在三个规模大、深度深的高阻异常体，其阻值最大可达到8000 Ωm，这三者中间还夹杂着规模较小的低阻异常体.
+
+结合区域电性特点及地质资料初步推测：从局部区域来看，地下结构出现高阻层和中低阻层上下相互倒置的现象，存在部分较老的地层上覆于新地层之上，由于推覆构造的广泛发育，导致赋矿的新地层均被覆盖到老地层之下，赋矿岩层在地表仅零星出现，大部分隐伏于地下.
+
+2.3 反射地震数据分析和解释
+本次地震数据采集仪器为法国Sercel公司的428XL数字地震仪，二维地震测线长度13 km，测线位置如图 1所示.由于工作区植被覆盖率密集，地表高差变化大，地表结构复杂，从传统的基于水平层状假设的时间偏移难以对推覆构造进行有效的成像.真地表叠前逆时偏移可以通过没有倾角的限制和单程传播的假设，利用棱柱波、多次波对地表下推覆体以及复杂构造进行成像.因此采集的地震数据经过一系列数据预处理后，采用真地表逆时偏移成像(Liu et al., 2013)，得到地震剖面成像结果(图 5).
+
+点击查看原图	
+图 5 大排地区真地表深度偏移成像结果
+Fig. 5 True surface depth migration imaging results of Dapai area
+从成像剖面可以看到，连续的同相轴显示在层状构造和推覆构造分界面处.根据同相轴产状和断面波，很清晰地能够识别出自剖面右边向左边推覆的推覆构造，总体特征为从右向左倾角变大.
+
+3 地表地质和综合地球物理建模
+闽西南地区属于推覆体控矿，推覆构造延伸到地表，无论是地震成像还是电磁法等的反演，从真地表算起的成像结果对于识别推覆构造提供了数据基础.同时，地表地质剖面提供了可见的，最为直接的构造和物性特征，综合地震和电法等的深层构造解释和前层特征，可综合构建从地表开始的构造模型，并根据地表的物性资料以及反演的结果，推断深层结构的物性.
+
+结合地表地质、电法资料等近地表的解释，构建了研究区近地表构造和物性分布，利用地震数据真地表偏移，推断该区推覆构造的总体特征.另外，大理岩速度等物性参数与围岩的巨大差异以及其于磁铁矿和铅锌矿的直接接触关系，为矿体的识别提供了基础.CSAMT为地震解释提供了大的框架接触，而地震和磁法数据可以在CSAMT的解释框架基础上更清楚地识别高阻的岩体和高阻的林地组砂岩.综上认识，构建的从地表到3 km深度的构造模型，见图 6.
+
+点击查看原图	
+图 6 地表以下的3 km深度构造模型图
+Fig. 6 Structure of the subsurface 3 km from the ground
+从模型中可以看出，研究区内的主要含矿岩系为晚石炭世经畲组(C2j)和中二叠世栖霞组(P2q)的滨海—浅海相碎屑岩及灰岩.其中，经畲组(C2j)岩性变化较大，栖霞组(P2q)下部岩性为灰-深灰中厚层状含燧石灰岩、夹泥灰岩等，灰岩部分已大理岩化或成大理岩.根据地震成像和电法反演结果显示，研究区内存在一系列规模不等的叠瓦状逆冲断裂和层间裂隙，断裂和裂隙总体呈北北东走向，其中逆冲推覆构造为矿区的主要控矿构造.CSAMT高阻部分与地震剖面中识别的岩体有一定的对应关系，而在地震剖面中的推覆体内部及周边层状构造中，由于构造沉积层含水，表现为低阻特征，结合区域地质资料，推断低阻体与推覆体内部层位存在联系，高阻体为岩浆侵入(福建省地质调查研究院，2006).
+
+4 结论与讨论
+根据区域地质地球物理存在的科学问题，我们利用实测航磁数据、大地电磁数据、地震数据应用于永定大排多金属地区矿区的地质地球物理研究中，通过对永定大排地区的磁异常特征、大地电磁剖面电性特征以及相关地质地球物理资料的分析，得到以下几点认识：
+
+(1) 大排地区的磁异常特征表现为南高北低，化极磁异常结果显示西北部为团块状正异常，说明区域分布磁化率高的花岗岩类.化极磁异常反演结果显示测线4 km、9 km、12 km处表现为略高的磁化率值的块体，反映了区域经历了岩浆侵入活动.
+
+(2) 大排地区的大地电磁剖面电阻率反演结果反映出不同区域之间的电阻率异常分布较为不均.从整体上看，测线由西向东电阻率由低阻向高阻变化.在近地表处，测线区域主要由高、低阻值相间的异常体组成，规模较小，由于推覆构造的广泛发育，导致赋矿的新地层均被覆盖到老地层之下.
+
+(3) 大排地区的地震剖面成像结果反映出区域的层状构造和推覆构造分界面处，根据同相轴产状和断面波，很清晰地能够识别出自工作剖面右边向左边推覆的推覆构造，总体特征为从右向左倾角变大.
+
+(4) 结合推覆体控矿特征，地震剖面和电阻率剖面、航磁反演结果相互验证和约束，勾画了地下构造形态.地表地质剖面延伸和标定了构造形态的地质内涵，获得了从地表到3000 m深度的构造解释结果.
+
+本文的研究结果对闽西南多金属成矿带的认识以及进一步研究提供了部分科学依据，为将来深部矿产资源勘探提供了重要的基础参考数据.
+
+致谢
+福建省地质八队的倪建辉高级工程师在论文写作过程中提供了相关地质资料；中国地质大学(北京)郭良辉副教授和刘国峰副教授在文章修改过程中提出了许多宝贵的修改建议；审稿人提出的中肯建议，对文章完善做出了有益的贡献，在此一并致以衷心的感谢.
+
+参考文献
+Dong S W, Zhang Y Q, Long C X, et al. 2007. Jurassic tectonic revolution in China and new interpretation of the Yanshan movement. Acta Geologica Sinica, 81(11): 1449-1461.
+Fujian Institute of Geological Investigation and Research. 2006. Survey geological report of Chang Keng iron ore area (in Chinese). Fujian: Yongding County.
+Li Y G, Oldenburg D W. 1996. 3-D inversion of magnetic data. Geophysics, 61(2): 394-408. DOI:10.1190/1.1443968
+Li Y G, Oldenburg D W. 1998. 3-D inversion of gravity data. Geophysics, 63(1): 109-119. DOI:10.1190/1.1444302
+Li Y G, Oldenburg D W. 2003. Fast inversion of large-scale magnetic data using wavelet transforms and a logarithmic barrier method. Geophysical Journal International, 152(2): 251-265. DOI:10.1046/j.1365-246X.2003.01766.x
+Lin D. Y. 2011. Research on late Paleozoic-Trassic tectonic evolution and metallogenetic regularities of iron-polymetalic deposits in the Southwestern Fujian Province [Ph. D. thesis] (in Chinese). China University of Geosciences (Beijing).
+Lin F L, Wang G J, Yang X Y. 2016. Application of comprehensive electromagnetic study in deep mineralization mechanism-A case study of the Wuxi polymetallic ore deposit, South Anhui. Chinese Journal of Geophysics, 59(11): 4323-4337. DOI:10.6038/cjg20161132
+Liu G F, Liu Y N, Ren L, et al. 2013. 3D seismic reverse time migration on GPGPU. Computers & Geosciences, 59: 17-23.
+Lou D B, Song G X, Li N, et al. 2008. The application of magnetic method in national mineral prediction. Progress in Geophysics, 23(1): 249-256.
+Lv L. J. 2014. Discussions on Features of Mesozoic Thrust-fault Belts and Relationship between Thrust-fault Belts and Magmatism in Southwestern Fujian and Adjacent Regions [Ph. D. thesis] (in Chinese). China University of Geosciences (Beijing).
+Lv Q T, Dong S W, Tang J T, et al. 2015. Multi-scale and integrated geophysical data revealing mineral systems and exploring for mineral deposits at depth:a synthesis from Sinoprobe-03. Chinese Journal of Geophysics, 58(12): 4319-4343. DOI:10.6038/cjg20151201
+Mao J R, Tao K Y, Xie F G, et al. 2001. Rock-forming and ore-forming processes and tectonic environments in Southwest Fujian. Acta Petrologica et Mineralogica, 20(3): 329-336.
+Ni J H. 2012. Geological characteristics and prospecting model of Dapai iron-lead-zinc and polymetallic deposit. Geology of Fujian, 31(3): 206-214.
+Rodi W, Mackie R L. 2001. Nonlinear conjugate gradients algorithm for 2-d magnetotelluric inversion. Geophysics, 66(1): 174-187. DOI:10.1190/1.1444893
+Xu N Z, Mao J R, et al. 2008. Geological characteristics and new ore-finding progress in the Dapai Lead and zinc deposit of Yongding County, Fujian Province. Geology & Prospecting, 44(4): 20-23.
+Yang Q L. 2009. The features of geophysic site in Lead-zinc mineral area and analysis on physical exploration in Yongding Fujian province. Shandong Coal Science and Technology(5): 92-93. DOI:10.3969/j.issn.1005-2801.2009.05.060
+Yuan Y, Zhang D, Feng H, et al. 2014. The metallogenic chronology of the Shierpai molybdenum polymetallic deposit in Wuping, Fujian and its geological significance. Acta Geologica Sinica, 88(s2): 1027-1028. DOI:10.1111/1755-6724.12378_31
+Zhang C S, Su H M, Yu M, et al. 2012. Zircon U-Pb age and Nd-Sr-Pb isotopic characteristics of Dayang-Juzhou granite in Longyan, Fujian Province and its geological significance. Acta Petrologica Sinica, 28(1): 225-242.
+Zhang X, Zhang D, Tan H D, et al. 2012. Geological and geophysical model of thrust controlling on iron ore deposits in the southwestern Fujian Province. Earth Science-Journal of China University of Geosciences, 37(6): 1243-1251.
+Zhao X L, Yu S Y, Yu M G, et al. 2016. Geological characteristics and metallogenic epochs of the Dapai Fe-Pb-Zn polymetallic deposit in Yongding County, Fujian Province. Geology in China, 43(1): 174-187.
+Zhang Y, Xu X, Dong J. 2009. Deformation record of the change from Indosinian collision-related tectonic system to Yanshanian subduction-related tectonic system in South China during the Early Mesozoic. Earth Science Frontiers, 16(1): 234-247.
+Zhang Z J. 2015. The genesis of makeng Fe deposit and mineral prospectivity mapping in Southwest Fujian, China [Ph. D. thesis] (in Chinese). China University of Geosciences.
+董树文, 张岳桥, 龙长兴, 等. 2007. 中国侏罗纪构造变革与燕山运动新诠释. 地质学报, 81(11): 1449–1461. DOI:10.3321/j.issn:0001-5717.2007.11.001
+丰成友, 王松, 张德全, 等. 2007. 非硫化物型锌矿基本地质特征和成因. 矿物学报(S1): 251–252.
+福建省地质调查研究院. 2006. 福建省永定县樟坑铁矿区普查地质报告.
+林东燕. 2011. 闽西南地区晚古生代-三叠纪构造演化与铁多金属矿成矿规律研究[博士论文]. 北京: 中国地质大学(北京).
+毛建仁, 陶奎元, 谢芳贵, 等. 2001. 闽西南地区成岩成矿作用与构造环境. 岩石矿物学杂志, 20(3): 329–336.
+倪建辉. 2012. 福建永定大排铁铅锌多金属矿床地质特征及找矿模式探讨. 福建地质, 31(3): 206–214.
+徐备. 1989. 华南元古代地质研究进展述评. 地质科技情报(1): 1–8.
+许乃政, 毛建仁, 等. 2008. 福建省永定县大排铅锌矿床成矿地质特征及找矿新进展. 地质与勘探, 44(4): 20–23.
+杨庆镰. 2009. 福建永定大排铅锌矿区地球物理场特征及物探找矿初释. 山东煤炭科技(5): 92–93.
+袁远, 冯海滨, 张达, 等. 2013. 福建永定大排铁多金属矿床成矿年代学及其地质意义. 矿物学报(S2): 74–75.
+张承帅, 苏慧敏, 于淼, 等. 2012. 福建龙岩大洋-莒舟花岗岩锆石U-Pb年龄和Sr-Nd-Pb同位素特征及其地质意义. 岩石学报, 28(1): 225–242.
+张达, 吴淦国, 狄永军, 等. 2011. 闽西南中生代推覆构造对铁矿床控矿特征研究. 矿物学报(S1): 128–129.
+张旭, 张达, 谭捍东, 等. 2012. 闽西南推覆构造控矿的地质-地球物理模型. 地球科学-中国地质大学学报, 37(6): 1243–1251.
+张岳桥, 徐先兵, 等. 2009. 华南早中生代从印支期碰撞构造体系向燕山期俯冲构造体系转换的形变记录. 地学前缘(1): 234–247.
+张振杰. 2015. 闽西南马坑式铁矿床成因研究及定量预测与评价[博士论文]. 武汉: 中国地质大学(武汉).
+赵希林, 于胜尧, 余明刚, 等. 2016. 福建省永定大排铁铅锌多金属矿矿床特征及成矿时代. 中国地质, 43(1): 174–187. DOI:10.12029/gc20160113

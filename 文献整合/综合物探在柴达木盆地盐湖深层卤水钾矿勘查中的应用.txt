@@ -1,0 +1,175 @@
+综合物探在柴达木盆地盐湖深层卤水钾矿勘查中的应用
+何胜1,2 395579229@qq.com, 苏世杰2 , 侯利朋1     
+摘要：青海省柴达木盆地是著名的钾肥生产基地，也是中国盐类矿产的主要产地.以往盐类矿产勘查主要针对第四纪浅部盐类矿产，对第四纪深部及古近纪-新近纪卤水钾矿工作程度较低，资源勘查情况不明.由于盐湖区浅部卤水矿化度较高，会对电阻率类方法造成严重的低阻屏蔽效应，从而影响其探测深度，对于应用地球物理方法造成了极大的局限性.为查明该区深部卤水钾矿资源情况，采用对低阻异常敏感、信号强度大、纵横向分辨率高的瞬变电磁法（TEM），并结合勘探深度较大的大地电磁测深法（MT）对深层卤水钾矿进行探测.勘查结果识别出了相对低阻异常区，经后期钻孔验证，显示探测结果较为可靠，表明TEM、MT两种物探方法应用于盐湖区深层卤水钾矿探测是有效的，揭示了TEM、MT综合物探方法在盐湖区探测深层钾盐资源的良好应用前景.
+关键词：盐湖    深层卤水    瞬变电磁法    大地电磁测深    柴达木盆地    青海省    
+中图分类号：P631.2;P631.3            文献标志码：A            文章编号：1671-1947(2021)05-0628-09
+APPLICATION OF COMPREHENSIVE GEOPHYSICAL PROSPECTING IN DEEP BRINE POTASSIUM DEPOSIT EXPLORATION IN SALT LAKE OF QAIDAM BASIN
+HE Sheng1,2 395579229@qq.com, SU Shi-jie2 , HOU Li-peng1     
+Abstract: Qaidam Basin in Qinghai Province is a well-known potash fertilizer production base as well as major producer of salt minerals in China. The previous exploration mainly focused on the Quaternary shallow salt minerals, while the work on the Quaternary deep part and Paleogene-Neogene brine potash deposit was not enough, and the situation of resources is still unknown. Due to the high salinity of shallow brine in salt lake area, the resistivity method will have a serious low resistance shielding effect, thus affecting its detection depth and causing great limitations for application of geophysical methods. To find out the deep brine potassium mineral resources in the area, the transient electromagnetic method (TEM) with high sensitivity to low resistance, strong signal intensity and high vertical-lateral resolution, combined with the magnetotelluric sounding (MT) with large exploration depth, is used to explore the deep brine potassium deposit. The exploration results identify the relatively low resistivity anomaly area, and the detection results are reliable through later drilling verification, indicating that the geophysical methods of TEM and MT are effective in exploration of deep brine potassium deposit in salt lake areas, which reveals good prospects of the two methods in exploration of deep potassium resources in salt lake areas.
+Key words: salt lake    deep brine    TEM    MT    Qaidam Basin    Qinghai Province    
+
+0 引言
+钾盐是中国紧缺的战略资源矿种. 青海省柴达木盆地内分布着各种大小不同的地表卤水湖、半干涸湖和干涸盐湖. 在这些盐湖中蕴藏着极为丰富的盐湖矿产资源, 盐湖矿床具有分布广、规模大、品位富、矿种多、类型全之特点. 马海盐湖位于柴达木盆地东北部, 北起塞什腾山前, 南至茶冷口、南八仙, 西北自冷湖, 东至马海, 面积约3 700 km2; 蕴藏着丰富的钾盐资源. 2010年马海盐湖深部钻探(K1)揭示出深部储层卤水富钾且水量丰富, 显示其深层卤水开发的良好前景. 但由于深部盐湖资源地勘工作程度低, 资源勘查情况不清, 不能满足资源规模开发与规划项目建设需要, 资源保障能力不足, 需进一步勘查、研究. 地震波是揭示地球内部结构和物质属性的最有效工具之一. 随着分析技术的发展, 地震波不仅可以用于研究地球内部物质的速度、密度、岩石刚度等属性, 还可以用于探讨相关物性参数的变化[1]. 但卤水钾矿为液体矿产资源, 其矿化度高低对其速度无明显差异变化, 而其电阻率参数会随其矿化度升高而降低, 瞬变电磁法(TEM)和大地电磁测深法(MT)两种物探方法均能研究其电阻率变化规律. TEM具有对低阻异常敏感、信号强度大、纵横向分辨率高、探测时间较短、工作效率高、受地形影响小等优点, 结合MT探测深度大等特点, 能有效鉴别出相对低阻卤水钾矿异常区[2-4].
+
+笔者利用综合物探方法对马海地区深层卤水进行了探测, 主要任务是查明该区深层卤水空间分布范围, 为下一步深部钻探工程提供物探依据.
+
+1 区域地质概况
+区域范围内绝大部分地区分布新生界, 元古宇和中生界零星分布(如图 1). 出露地层主要为新近系砂岩、砾岩、含砂砾岩、砂质泥岩和泥岩; 第四系岩性为湖积碎屑夹盐类沉积及洪积物, 主要为含石膏粉砂的黏土、含石膏的黏土、黏土粉砂, 含砾的粉细砂、含粉砂的石盐、粉砂石盐、含石膏粉砂的石盐及含石膏的芒硝石盐.
+
+点击查看原图	
+图 1 研究区地质及工程布置图
+Fig.1 Geological sketch map of the study area with engineering layout
+1-含石膏的黏土粉砂及黏土淤泥(gypsum-bearing clay silt and clay sludge); 2-石膏粉砂黏土、粉砂黏土、黏土及砂砾、粉砂, 局部夹盐层(gypsum-bearing silt clay, silt clay, clay and sand gravel, silty sand, with salt bed locally); 3-泥岩、砂质泥岩夹砂岩、砾岩、泥灰岩及石盐石膏层(mudstone, sandy mudstone with sandstone, conglomerate, marl and halite gypsum layer); 4-砂砾岩、泥岩、粉砂岩、含砾砂岩等, 夹石膏(glutenite, mudstone, siltstone, pebbly sandstone, etc., mixed with gypsum); 5-上部灰紫色厚层细砂岩夹粉砂岩、下部紫红色巨厚层细砂岩夹含砾粗砂岩(grayish purple thick fine sandstone intercalated with siltstone in upper, mauve extra thick fine sandstone intercalated with pebbly coarse sandstone in lower); 6-滩间山群火山岩、片岩、板岩、千枚岩(volcanic rock, schist, slate and phyllite of Tanjianshan gr.); 7-花岗闪长岩(granodiorite); 8-灰色、浅红色中粗粒花岗闪长岩(gray, pale red medium coarse-grained granodiorite); 9-正断层(normal fault); 10-逆断层(reverse fault); 11-性质不明断层(unidentified fault); 12-背斜轴(anticline axis); 13-物探测线及编号(geophysical survey line and number); 14-钻孔编号及孔深(borehole number and depth)
+区域内矿产丰富, 尤以盐类矿产锂、硼、钾、镁盐为主. 盐类矿产主要分布在马海盆地内, 包括固体和液体矿. 固体矿产有钾盐矿和石盐矿, 其中以盐类为主的矿石类型为含光卤石粉砂的石盐, 含光卤石的粉砂石盐、含钾石盐粉砂的石盐、含钾石盐的粉砂石盐、含钾石盐的石盐粉砂、含石盐的黏土粉砂. 矿产赋存于石盐中. 液体矿的主要组分是KCl, 伴生组分是NaCl、MgCl2、MgSO4、LiCl、B2O3、Br, 其中LiCl、B2O3、Br分布零星, 各矿层之间的隔水层岩性一般为含粉砂及粉砂黏土, 厚度3.00~30.00 m. 由于隔水层弱透水性及承压水越流和顶托补给作用, 各矿层之间存在着一定的水力及水化学联系.
+
+马海地区位于柴达木盆地西部中央拗陷带的西部隆起区, 北东为柴北缘褶皱带, 北西为阿尔金构造带, 南缘为昆北断裂带. 总体观之, 区域内沉积厚度较大, 地质构造复杂. 研究区内主要分布有马海湖盆向斜构造、冷湖6号背斜构造、冷湖7号背斜构造、马海背斜构造, 冷湖6号、7号背斜构造有多条近平行的逆断层, 断层走向北西, 长约12 km, 两端为第四系覆盖, 倾向南西, 倾角陡, 主要发育在上新统中.
+
+2 地球物理特征
+地层、岩石物性是物探解释的依据和基础[5], 其特征变化是引起地球物理参量特征变化的主要因素. 特别是成岩程度及胶结性、富水性、地下水矿化度的强弱大小差异, 都会引起异常特征的一系列反应变化[6-7]. 而地层电阻率值是目前地球物理方法评价地下水矿化度主要的有效参数, 电阻率随着水矿化度的增长呈线性下降, 这对任何盐类都一样(见图 2). 卤水是富含以钾盐为主的溶液或饱和溶液, 属于强电解质、离子导电, 导电离子浓度越大, 矿化度越高, 电阻率则越低.
+
+点击查看原图	
+图 2 各种溶液的电阻率与其矿化程度的关系图(据V. N. Dakhnov)
+Fig.2 The diagram of resistivity of various solutions vs. mineralization degree (By V. N. Dakhnov)
+通过收集以往地球物理与含水层矿化度资料, 可知同一岩性电阻率与地下水矿化度紧密相关. 相同岩性矿化度由0.5 g/L增大20倍至10 g/L时, 其电阻率值减小为原来的1/20, 矿化度高则电阻率相对低值, 矿化度低则电阻率相对高值. 岩石电阻率与地下水矿化度间的这种相关性为圈定不同地下水矿化度分布空间提供了理论基础. 电阻率越小矿化度越高, 电阻率越高矿化度越低[8], 因此, 电阻率越低处, 赋存高矿化度卤水(钾矿)的可能性就越大.
+
+根据已有钻孔资料及马海地区TEM/MT资料、物探测井资料综合分析、统计后, 对该区物性层划分如表 1. 各岩石电阻率与含水率、岩石结构、组成成分及矿化度大小有关.
+
+点击查看表格内容	
+表 1 马海地区物性参数统计表
+Table 1 Physical parameters of Mahai area
+马海地区第四系石盐粉砂、黏土粉砂、含石膏的粉砂黏土、粉砂、细砂、粗砂、砾砂、含粉砂黏土等电性变化不大. 但上述地层当矿化度大小不同时仍存在一定的电性差异, 其中高矿化度的粉砂、细砂、粗砂、砾砂等电阻率值相对较低或极低(基本上小于1.0 Ωm), 为研究区主要高矿化度卤水富集地层. 而高矿化度的黏土、含粉砂黏土由于孔隙度较小、富水性较差, 电阻率值相对较高(均在1.0 Ωm以上). 低矿化度的黏土粉砂、粉砂、粉细砂、细砂、粗砂、砾砂等地层电阻率值则呈现相对高阻电性特征.
+
+新近系砂质泥岩, 相对于第四系地层电性差异明显, 砂质泥岩电阻率值最高, 最大电阻率值在30 Ωm左右, 为相对贫水或含水极差地层.
+
+从以上分析可看出, 利用瞬变电磁法、大地电磁测深法来查明研究区深部地层岩性、富卤水层位(段)具有一定的物性前提.
+
+3 数据采集及处理
+在研究区布置物探剖面(两种物探方法重合)1条, 总长度为22 050 m, 测线方位为31°. TEM测量方法以0为起始点号自南往北以单号递增, 点距50 m; MT测量方法以1为起始点号自南往北以单号递增, 点距150 m, 如图 1所示. 本研究采用的仪器是SM24瞬变电磁系统和加拿大凤凰公司生产的V8-system2000.net电法工作站. 通过试验工作确定TEM测量参数为: 1)发送电压110 V; 2)发送电流10~10.5 A; 3)发送基频0.25 Hz; 4)发送边长800 m × 800 m; 5)叠加次数16~32次; 6)取样道数43道; 7)工作装置, 大定源. MT测量参数为: 1)电极极距130 m; 2)采集频率0.001~320 Hz; 3)采集时间24 h以上; 4)增益调节4倍.
+
+TEM数据处理采用Maxwell软件进行预处理、多测道图分析、删除坏点衰减曲线和不合格通道、正演、反演、导出数据最终成图[9-12]. MT资料处理包括数据预处理、资料反演、资料定性分析3个阶段[13]. 采用SCS2D软件进行预处理, 预处理包括极化模式识别、去噪处理及静位移校正等[14-15]. 采用大地电磁场时间序列的Robust处理(Robust估计算法是在最小二乘法的基础上提出[16])、Rhoplus分析、复阻抗张量分解等处理技术对野外测量数据进行预处理(数据编辑平滑等), 得到视电阻率、阻抗相位等参数曲线[17]. 采用二维快速松弛反演(RRI)、Occam二维反演、二维共轭梯度反演、印模等方法, 对测量数据进行反演计算, 通过比较分析并结合其他地质、地球物理资料, 确定最终反演模型, 以利于突出更多的地质信息和进行电性层位的划分[18-20].
+
+4 资料解释及成果分析
+4.1 资料解释推断依据
+为了使电磁测深技术的探测顺利进行和分析对比, 在马ZK4010钻孔做了孔旁测深, 以确定与电磁测深曲线形态对应的地层岩性及富卤水异常特征, 建立物探解译模型.
+
+根据该钻孔资料设计地下介质的正演电性模型, 根据正演模型做1D正演, 获得相应频率的视电阻率(图 3). 然后再对正演得到的视电阻率做反演, 得到模拟的地下电性曲线. 最后将模拟数据反演得到的MT测深结果曲线与实测MT测深反演曲线进行拟合并对比分析(如图 4), 结果显示, 两条曲线类型形态基本一致, 说明应用该模型数据进行反演与实际地质情况基本吻合.
+
+点击查看原图	
+图 3 正演结果图
+Fig.3 Apparent resistivity data by forward modeling
+点击查看原图	
+图 4 模拟数据反演电阻率曲线与实测数据反演电阻率曲线对比图
+Fig.4 Comparison of inversion resistivity curves between simulated and measured data
+1-模拟数据反演曲线(inversion curve of simulated data); 2-实测数据反演曲线(inversion curve of measured data)
+根据研究区物性特点, 对物探电阻率二维反演图和钻探资料进行对比, 建立物探解译模型(图 4): 浅层为干燥、含水性较差的含黏土石盐、含粉砂黏土、粉细砂互层, 电阻率ρ=0.6~0.8 Ωm; 中部为高矿化度卤水层, 电阻率ρ < 1 Ωm; 深部电阻率逐渐升高, 含水岩层层位(段)减少, 水体矿化度逐渐降低, 为淡-卤水过渡区层位; 底部电阻率基本上大于1.5 Ωm, 推测该层位为贫水或含水极差的新近系砂质泥岩.
+
+综合对比分析后认为: 钻孔旁电磁测深曲线解释结果与已知钻孔地质剖面比较吻合, 其探测曲线可作为本区主要岩性层段地质解释的标志曲线.
+
+4.2 资料解释分析
+经对比分析, 区内电磁测深曲线主要分为两类(HKQH型、QH型), 另有较少的G型曲线(主要分布在北部山脚处). HKQH型曲线主要分布在剖面的南段, 其电性组合为ρ1 > ρ2 < ρ3 > ρ4 > ρ5 < ρ6(图 5). 其中细中砂、细砂、粉砂等层位为富卤层; ρ5电性层反映高矿化度卤水及淡-卤水过度层位; ρ6电性层特征为相对高阻层, 反映为贫水或赋水性极差的新近系砂质泥岩层.
+
+点击查看原图	
+图 5 J3/M1点HKQH型曲线图
+Fig.5 The HKQH-type curve at spot J3/M1
+ρ1-含石膏的黏土粉砂、石盐、粉砂黏土(gypsum-bearing clay silt, halite, silt clay); ρ2-粉砂黏土、黏土(silt clay, clay); ρ3-含石膏粉砂黏土(gypsum-bearing silt clay); ρ4-细中砂、黏土粉砂、含粉砂的黏土(fine-medium sand, clay silt, silt-bearing clay); ρ5-粉砂黏土、细砂、粗砂、砾砂(silt clay, fine sand, coarse sand, gravelly sand); ρ6-砂质泥岩(sandy mudstone)
+QH型曲线主要分布在剖面北端山前和盆地交接洼地过渡区, 其电性组合为ρ1 > ρ2 > ρ3 < ρ4(图 6). ρ1电性层反映表层的干燥不含水泥质砂砾石高阻电性层; ρ2电性层反映的地层为粉砂黏土、黏土(含水性差); ρ3反映低矿化度的含粉砂黏土、泥质粉砂互层; ρ4反映盆地底部高阻值新近系砂质泥岩层.
+
+点击查看原图	
+图 6 141/M1点QH型曲线图
+Fig.6 The QH-type curve at spot 141/M1
+The QH-type curve at spot 141/M1 ρ1-泥质砂砾石(argillaceous sand gravel); ρ2-粉砂黏土、黏土(silt clay, clay); ρ3-含粉砂黏土、泥质粉砂(silt-bearing clay, argillaceous silt); ρ4-砂质泥岩(sandy mudstone)
+高矿化度卤水地层电阻率明显低于低矿化度地层(图 7), 图 7中121/M1点电阻率曲线和141/M1点电阻率曲线分别为HKQH型和QH型曲线. 在埋深200~1100 m之间, 121/M1点曲线(ρ4、ρ5层)电阻率值基本上小于0.6 Ωm, 141/M1点曲线电阻率值则大于1.0 Ωm (对应ρ3低矿化度的含粉砂黏土、泥质粉砂互层). 上述表明高矿化度卤水地层与低矿化度地层呈不同电阻率曲线特征, 且差异明显.
+
+点击查看原图	
+图 7 高矿化度与低矿化度地层电性曲线对比图
+Fig.7 Comparison of electrical curves between high and low salinity formations
+1-141/M1点曲线(curve at spot 141/M1); 2-121/M1点曲线(curve at spot 121/M1)
+结合以往地质、钻孔资料、测井资料及本次MT、TEM等方法探测综合分析解释如下:
+
+M1剖面北边靠山, 南边邻湖, 穿过ZK4020、ZK4012、马ZK4010三个钻孔. 通过TEM、MT两种物探方法的电阻率反演成果图可知本区第四系地层全部为低阻区. 从马海地区M1剖面综合成果图(图 8)可见, 很明显MT法探测深度最大, 达到2300 m左右, TEM探测深度较浅, 约为700 m. 通过对比分析可知TEM分辨率明显大于MT, 但其探测深度有限, 用MT方法可弥补TEM探测深度有限的不足.
+
+点击查看原图	
+图 8 M1剖面综合成果图
+Fig.8 Comprehensive results of section M1
+1-钻孔编号及深度(borehole number and depth); 2-钻孔揭露卤水层(drilled brine layer); 3-淡-卤水过渡区(fresh-brine transition zone); 4-淡-卤水过渡界线(fresh-brine transition boundary); 5-推测断层(inferred fault)
+由两种物探方法综合成果图可知, 该剖面表层为低电阻率, 层状特征不明显, 反映了表层岩性为含石膏的黏土粉砂、石盐、粉砂黏土; 中部至深部电阻率逐渐增大, 电阻率呈层状分布, 推测为地下水矿化度逐渐降低所致. 剖面电阻率整体趋势是西南小东北大, 在靠近北部基岩山区地段电阻率值整体抬升(两种物探方法探测电阻率均有显示), 对应表层岩性的变化, 且低电阻区逐渐变薄, 呈上升趋势, 在端点处闭合, 推测地层岩性为新近系砂质泥岩. TEM探测剖面距在-50 ~ +19 800 m之间, 100 m深度以下电阻率基本小于1 Ωm, 其低阻区分布位置与MT探测的结果具有良好的对应性. 结合TEM、MT两种方法, 在剖面距19 800 m以南, 埋深100~1 200 m电阻率基本小于1 Ωm, 推测为第四系岩层中地下水高矿化度所致, 其含水层岩性为细砂、粉细砂、粗砂、中粗砂互层. 而电阻率介于0.7~0.4 Ωm之间的区域主要为高矿化度卤水区域, 1 100 m深度以下电阻率有逐渐增大趋势, 推测为第四系岩层中地下水矿化度逐渐降低所致. 在卤水层中当电阻率在底部升至0.8 Ωm时, 含水岩层逐渐减少, 推测该层位埋深即为卤水层的底板界面.
+
+TEM探测结果显示, 在剖面距14 750~16 000 m之间, 300 m深度以下电阻率基本小于或等于0.6 Ωm, 为整条剖面最低区. 对应MT探测结果, 剖面距15 100~16 500 m之间, 低阻异常区分布范围整体往向东北方向偏移, 但其中心位置对应性较好, 该低阻区也是本次工作寻找的高矿化度卤水异常靶区. 剖面距20 000 m(公路)以北, TEM、MT探测结果都表明表层电阻率相对较高, 由于靠近基岩山区, 无结晶石盐, 推断为含盐量极少的泥质砂砾石等粗颗粒岩性. 在剖面距21 900 m以北, 电阻率曲线类型均为G型, 且表现为高阻电性之反映. 根据基岩出露情况及区域水文地质资料, 推断该处为新近系的砂质泥岩.
+
+通过区内M1剖面的物探勘探成果可知, 高矿化度卤水多分布在埋深150~1 100 m的石盐层中, 其下部和盆地前缘周边的第四系松散岩类孔隙含水层中无深层卤水赋存. M1剖面富卤情况为北边封闭, 南边卤水还未封闭, 且卤水层往南稳定延伸. 在平面上高矿化度卤水(钾矿)异常靶区位于剖面距15 000~16 500 m.
+
+最终施工钻孔位于16 000 m附近, 即为马ZK4010号钻孔, 终孔深度为1 400.4 m, 揭露卤水赋存层位岩性为含黏土的石盐、含粉砂的石盐、粉砂石盐等晶间卤水及以粉细砂、砾砂、中粗砂为含卤介质的孔隙卤水. 250 m以下揭露以粉细砂、细砂为含卤介质的孔隙卤水层位68层. 卤水矿层纯厚度314.08 m, 矿化度达280.8 g/L, 最大涌水量为2 148.34 m3/d. 钻孔抽水试验(数据见表 2)验证了物探推断的异常靶区. 通过该钻孔评价, 可以证实马海地区赋存有大厚度孔隙卤水, 富水性中等, 卤水KCl含量达到工业品位, 研究区深层卤水钾矿找矿前景好.
+
+点击查看表格内容	
+表 2 马ZK4010钻孔抽水试验数据
+Table 2 Pumping test data of borehole M-ZK4010
+5 结语
+(1) TEM和MT方法在盐湖区找钾盐效果良好, 克服了盐湖区接地困难等不利因素, 基本查明了研究区高矿化度卤水富集区域及第四系地层岩性、厚度等, 为今后在盐湖勘查工作中合理应用地球物理方法提供了依据.
+
+(2) 通过TEM、MT两种物探方法的对比分析, 得出瞬变电磁法在盐湖区探测具有不接地、分辨率好、工作效率高等优势, 探测深度达700 m左右, 适合中浅-中深部探测; 大地电磁测深法在盐湖区探测具有纵、横向分辨率高特点, 适合大深度探测(可达2 300 m).
+
+(3) 目前物探本身存在一定的误差及多解性, 在推断解译时需参考钻孔、地质资料, 并采用综合分析的思路来解译成果图, 这样才能达到两种物探方法相互验证的效果, 并确保探测结果的准确性, 为后期的地质成果解释和钻孔验证提供可靠依据.
+
+(4) 本次综合物探工作成果显示的富卤区(富含钾矿)与非卤区显著的电性区别、分布规律和变化趋势与地质钻孔结果较吻合, 可以作为盐湖整装勘查区的先行勘查手段, 建议大范围投入使用, 利用TEM和MT两种物探方法先行探测再指导钻探施工, 以减少布孔设计的盲目性.
+
+参考文献
+[1]	
+李秋生, 高原, 王绪本, 等. 青藏高原地球物理与大陆动力学研究的新进展[J]. 地球物理学报, 2020, 63(3): 789-801.
+Li Q S, Gao Y, Wang X B, et al. New research progress in geophysics and continental dynamics of the Tibetan Plateau[J]. Chinese Journal of Geophysics, 2020, 63(3): 789-801.
+[2]	
+曾友强, 李貅, 智庆全. 大定源瞬变电磁水平分量解释研究[C]//2014年中国地球科学联合学术年会论文集. 2014: 1477.
+Zeng Y Q, Li X, Zhi Q Q. Study on horizontal component interpretation of large-loop TEM[C]//Proceedings of China Association of Geosciences Annual Conference. 2014: 1477. (in Chinese)
+[3]	
+欧阳涛, 底青云, 薛国强, 等. 利用多通道瞬变电磁法识别深部矿体——以内蒙兴安盟铅锌银矿为例[J]. 地球物理学报, 2019, 62(5): 1981-1990.
+Ouyang T, Di Q Y, Xue G Q, et al. Identifying deep ore bodies using the multi-channel transient electromagnetic method (MTEM): an example of a lead-zinc-silver mine in Inner Mongolia[J]. Chinese Journal of Geophysics, 2019, 62(5): 1981-1990.
+[4]	
+杨文采, 金胜, 张罗磊, 等. 青藏高原岩石圈三维电性结构[J]. 地球物理学报, 2020, 63(3): 817-827.
+Yang W C, Jin S, Zhang L L, et al. The three-dimensional resistivity structures of the lithosphere beneath the Qinghai-Tibet Plateau[J]. Chinese Journal of Geophysics, 2020, 63(3): 817-827.
+[5]	
+王刚, 方慧, 仇根根, 等. 安庆-贵池矿集区及邻区深部电性结构研究[J]. 中国地质, 2019, 46(4): 795-806.
+Wang G, Fang H, Qiu G G, et al. The deep electrical structure across Anqing-Guichi ore concentration area[J]. Geology in China, 2019, 46(4): 795-806.
+[6]	
+蒋丽丽, 李祎昕. 综合物探方法勘查在沈阳新城子盆地地热勘查中的应用效果[J]. 地质与资源, 2016, 25(6): 575-579.
+Jiang L L, Li Y X. Application of the integrated geophysical methods in the geothermal exploration in Xinchengzi basin, Liaoning Province[J]. Geology and Resources, 2016, 25(6): 575-579. DOI:10.3969/j.issn.1671-1947.2016.06.011
+[7]	
+底青云, 朱日祥, 薛国强, 等. 我国深地资源电磁探测新技术研究进展[J]. 地球物理学报, 2019, 62(6): 2128-2138.
+Di Q Y, Zhu R X, Xue G Q, et al. New development of the electromagnetic (EM) methods for deep exploration[J]. Chinese Journal of Geophysics, 2019, 62(6): 2128-2138.
+[8]	
+高敬语, 谭嘉言, 朱占升, 等. 音频大地电磁法在地下水质评价中的应用[J]. 物探与化探, 2013, 37(5): 895-898.
+Gao J Y, Tan J Y, Zhu Z S, et al. The application of the audio magnetotelluric method to the assessment of underground water quality[J]. Geophysical and Geochemical Exploration, 2013, 37(5): 895-898.
+[9]	
+戚志鹏, 李貅, 朱宏伟, 等. 大定源装置下瞬变电磁法视电阻率定义[J]. 地球物理学进展, 2011, 26(4): 1350-1358.
+Qi Z P, Li X, Zhu H W, et al. Definition of apparent resistivity for non-center vertical component of large-loop TEM configuration[J]. Progress in Geophysics, 2011, 26(4): 1350-1358. DOI:10.3969/j.issn.1004-2903.2011.04.028
+[10]	
+张成范, 翁爱华, 孙世栋, 等. 计算矩形大定源回线瞬变电磁测深全区视电阻率[J]. 吉林大学学报(地球科学版), 2009, 39(4): 755-758.
+Zhang C F, Weng A H, Sun S D, et al. Computation of whole-time apparent reisistivity of large rectangular loop[J]. Journal of Jilin University (Earth Science Edition), 2009, 39(4): 755-758.
+[11]	
+薛国强, 李貅, 郭文波, 等. 大回线源瞬变电磁场响应特性[J]. 石油地球物理勘探, 2007, 42(5): 586-590.
+Xue G Q, Li X, Guo W B, et al. Characters of response of large-loop transient electro-magnetic field[J]. Oil Geophysical Prospecting, 2007, 42(5): 586-590. DOI:10.3321/j.issn:1000-7210.2007.05.018
+[12]	
+薛国强, 闫述, 周楠楠. 偶极子假设引起的大回线源瞬变电磁响应偏差分析[J]. 地球物理学报, 2011, 54(9): 2389-2396.
+Xue G Q, Yan S, Zhou N N. Theoretical study on the errors caused by dipole hypothesis of large-loop TEM response[J]. Chinese Journal of Geophysics, 2011, 54(9): 2389-2396. DOI:10.3969/j.issn.0001-5733.2011.09.022
+[13]	
+陈宣华, 邵兆刚, 熊小松, 等. 祁连造山带断裂构造体系、深部结构与构造演化[J]. 中国地质, 2019, 46(5): 995-1020.
+Chen X H, Shao Z G, Xiong X S, et al. Fault system, deep structure and tectonic evolution of the Qilian Orogenic Belt, Northwest China[J]. Geology in China, 2019, 46(5): 995-1020.
+[14]	
+宋洪伟, 夏凡, 尚铭森. MT法在河北献县地区地热勘查中的应用[J]. 地质与资源, 2018, 27(3): 284-287.
+Song H W, Xia F, Shang M S. Application of MT method in geothermal prospecting in Xianxian area, Hebei Province[J]. Geology and Resources, 2018, 27(3): 284-287. DOI:10.3969/j.issn.1671-1947.2018.03.012
+[15]	
+罗卫锋, 胡志方, 李桂林, 等. 基于大地电磁技术测定的准噶尔盆地乌伦古坳陷至乌伦古北隆起带石炭系地层及其油气前景分析[J]. 中国地质. https://kns.cnki.net/kcms/detail/11.1167.p.20200325.1034.002.html, 2020-03-26.
+Luo W F, Hu Z F, Li G L, et al. Carboniferous strata and their oil and gas prospects from Wulungu depression to the north uplift in the Junggar Basin based on magnetotelluric technology[J]. Geology in China. https://kns.cnki.net/kcms/detail/11.1167.p.20200325.1034.002.html, 2020-03-26.
+[16]	
+张帆, 孙中任, 尤宏亮, 等. 辽西金羊盆地大地电磁测深参考道处理效果研究[J]. 地质与资源, 2017, 26(2): 176-183.
+Zhang F, Sun Z R, You H L, et al. Study on magnetotellurics with magnetic reference method in Jinyang Basin, Western Liaoning[J]. Geology and Resources, 2017, 26(2): 176-183. DOI:10.3969/j.issn.1671-1947.2017.02.013
+[17]	
+时彬, 郇恒飞, 高铁, 等. 大地电磁静态效应模拟研究[J]. 地质与资源, 2015, 24(4): 373-377.
+Shi B, Huan H F, Gao T, et al. Study on the simulation of magnetotelluric static effect[J]. Geology and Resources, 2015, 24(4): 373-377. DOI:10.3969/j.issn.1671-1947.2015.04.015
+[18]	
+李树军, 孙钢, 张国, 等. 辽东地区含石墨地层条件下的物探找矿效果——以钓鱼台金银矿为例[J]. 地质与资源, 2017, 26(3): 310-316.
+Li S J, Sun G, Zhang G, et al. Geophysical prospecting effect in the graphite-bearing strata in Eastern Liaoning: a case study of the Diaoyutai gold-silver deposit[J]. Geology and Resources, 2017, 26(3): 310-316.
+[19]	
+严加永, 吕庆田, 罗凡, 等. 钦杭何在?来自综合地球物理探测的认识[J]. 中国地质, 2019, 46(4): 690-703.
+Yan J Y, Lü Q T, Luo F, et al. Where is Qinzhou-Hangzhou juncture belt? Evidence from integrated geophysical exploration[J]. Geology in China, 2019, 46(4): 690-703.
+[20]	
+叶涛, 陈小斌, 严良俊. 大地电磁资料精细处理和二维反演解释技术研究(三)——构建二维反演初始模型的印模法[J]. 地球物理学报, 2013, 56(10): 3596-3606.
+Ye T, Chen X B, Yan L J. Refined techniques for data processing and two-dimensional inversion in magnetotelluric (Ⅲ): Using the impressing method to construct starting model of 2D magnetotelluric inversion[J]. Chinese Journal of Geophysics, 2013, 56(10): 3596-3606. DOI:10.6038/cjg20131034

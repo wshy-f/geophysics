@@ -1,0 +1,124 @@
+物探方法在青海哈得尔甘南地区寻找矽卡岩型铁多金属矿中的应用效果
+周立国13455002393@163.com     
+摘要：哈得尔甘南地区位于柴达木盆地西南缘，所处大地构造位置在区域上隶属东昆仑岩浆弧带祁漫塔格造山亚带，具有良好的找矿前景.已发现矿体与区域成矿格局和物化探异常不甚相符，经对该区物性资料的分析，结合区域成矿规律，提出了在该区寻找矽卡岩型铁多金属矿的找矿标志和物探工作方法.通过高精度扫面圈定磁异常，在磁异常处布设激电中梯剖面进一步确定异常源，结合磁电异常特征，能够快速圈定铁及多金属矿体在地表的投影位置.对利用物探方法预测的成矿靶区进行深部验证，发现多个矿体，为该区今后的找矿工作提供经验.
+关键词：矽卡岩    激电中梯    高精度磁测    
+Effect of application of geophysical prospecting method for skarn iron polymetallic deposit in the Hadeergannan area in Qinghai
+ZHOU Li-guo13455002393@163.com     
+Abstract: The Hadeer Gannan area is located in the southwestern margin of the Qaidam Basin, and the tectonic location is located in the area of the East Kunlun magma arc belt Qiyantaiya orogenic belt, with good prospecting potential. It has been found that the ore body is not consistent with the regional metallogenic pattern and the geophysical and geochemical anomalies. Based on the analysis of the physical properties of the area and the regional metallogenic regularity, it is proposed to find the prospecting mark of the skarn type iron polymetallic ore And geophysical methods of work. It is possible to quickly delineate the projection position of iron and polymetallic ore bodies on the surface by further determining the anomalous source and combining the magnetic anomaly characteristics with the high-precision sweep circle. Depth verification of the metallogenic targets predicted by geophysical methods and the discovery of multiple ore bodies to provide experience for future prospecting work in the area.
+Key words: skarn     IP intermediate gradient     high precision magnetic survey    
+0 引言
+祁漫塔格地区是东昆仑重要的成矿带之一，该地区找矿已取得了重大进展，已发现肯德可克、野马泉和尕林格中型铁多金属矿床多处(张洪瑞等, 2013).哈得尔甘南地区鄂拉山组火山岩及石炭系碳酸盐岩均有出露，中酸-酸性侵入岩也有分布，褶皱及断裂构造发育，成矿地质条件十分有利.
+
+该区自2002年开展矿产勘查工作以来，所发现的矿产是以铜铅锌银锡为主的多金属矿，矿化种类多，但矿体规模有限，与区域成矿格局和普查区内物化探异常情况不甚相符，而且在普查区周边地区见到滩间山群地层，结合区内印支期斑状二长花岗岩大面积分布特征和区域内具有矽卡岩型矿床的成矿条件，不排除在区内形成矽卡岩型多金属矿的可能.经对该区物性资料的分析，结合区域成矿规律，先后投入高精度磁测、激电中梯剖面和EH-4连续电导率测深等物探方法(袁桂琴等，2010；曹令敏，2011；焦彦杰等，2013)，圈定多处磁异常，经对磁异常的分析和解剖，缩小了找矿靶区，通过钻孔验证，效果良好.
+
+1 区域地质、地球物理概括
+1.1 区域地质概括
+哈得尔甘南地区位于柴达木盆地西南缘(尹成明等，2013)，所处大地构造位置在区域上隶属东昆仑岩浆弧带祁漫塔格造山亚带，出露地层主要为晚石炭世缔敖苏组(C2d)、晚三叠世鄂拉山组(T3e)、古近纪路乐河组(El)和第四纪中更新世(Qp2gl)、晚更新世(Qp3alp)及全新世(Qhalp)地层.缔敖苏组(C2d)为一套稳定的浅海相碳酸盐岩沉积，岩石组合为一套生物碎屑灰岩、亮晶生物碎屑灰岩组合，分布在区内东南部；鄂拉山组(T3e)是一套陆相火山岩系，岩石组合为一套流纹质晶屑玻屑凝灰岩、火山角砾岩、凝灰火山角砾岩, 夹少量的流纹岩、安山岩和含火山角砾熔岩的岩石组合，分布在区内中、西部(图 1).
+
+点击查看原图	
+图 1 哈得尔甘南地区地质及物探工作部署图
+Figure 1 Geological and geophysical deployment map of the Hadeergannan area
+区内的岩浆岩活动主要发生在印支期，属祁漫塔格复合构造岩浆带，主要出露有晚三叠世、早侏罗世侵入岩及晚三叠世鄂拉山组火山岩.
+
+区内构造活动以脆性断裂为主，北西向以及一系列伴随北西向断裂形成的层间断裂或破碎裂隙成为了热液活动和矿物质沉淀的场所.
+
+1.2 区域地球物理场特征
+区域内1:100万航磁异常呈北西西向带状分布，展布方向与区域构造线一致，异常分布严格受区内地质构造和岩浆岩的布局所制约，而且与矿产的分布紧密相关.正负异常的绝对值均在120 nT左右，该区处于正负异常的过渡部位.
+
+区域内1:100万布格重力异常呈北西西向分布，在东昆仑其总体特点是在区域负异常的背景下，大致以昆中断裂为界，以北地区地质体密度具有相对均匀性，柴达木盆地基本上为一均匀地质块体，元古界基底构造层的广泛存在是形成昆中断裂以北地区相对于南部地区区域重力异常高的一个重要原因.布格重力反映昆中断裂以北地区处在重力高异常带上，与地面岩浆岩带同步延伸，部分异常与铁多金属矿相吻合.肯德可克、野马泉及卡而却卡多金属矿就位于布格重力异常内.
+
+该区岩矿石物性参数统计结果(表 1)说明：多金属矿化体具高磁低阻高极化率的特征，与其他岩石的物性差别较大.但本区灰岩所含炭质成分较多，其极化率相对较高，为激电干扰异常，但其具弱磁性.
+
+点击查看表格内容	
+表 1 调查区岩矿石物性参数统计表
+Table 1 Rock and mineral parameters of the Chaaobao orefield
+调查区内不同岩(矿)石的电性差异为开展电法工作提供物理前提.利用高精度磁测扫面圈定高磁异常，辅以激电中梯法可以确定低阻高极化的激电异常在地表的投影位置(李帝铨等，2007；周立国等，2009；崔益安等，2013；赵百民等，2014；丁高明等，2015；张光之等，2015)，利用EH-4法确定异常源深部延伸状态(康明等，2004；沈远超等，2008；赵刚等，2010)，达到间接找矿的目的.
+
+2 物探方法的应用与验证成果
+2.1 工作方法选择
+根据调查区岩(矿)石的物性参数测定结果可见，矿体与围岩的磁性差异明显，通过高精度扫面圈定磁异常，在磁异常处布设激电中梯剖面进一步确定异常源，结合磁电异常特征，能够快速圈定铁及多金属矿体在地表的投影位置.矿区共投入1/1万高精度磁测扫面7.84 km2，网度100 m×40 m，测线方位15°；1:2000激电中梯剖面11条，点距5 m，测线方位垂直磁异常，剖面总长8.04 km(图 1).激电中梯装置选择AB=1200 m，MN=20 m，旁侧距最大=200 m；供电周期选择4 s×4 s，延时200 ms，接收样宽40 ms.
+
+高精度磁测选择加拿大GEM公司生产的GSM-19T质子磁力仪，工作前对仪器进行了稳定性、噪声水平测试，开工前、收工后对仪器一致性进行测试，各项测试工作精度满足规范要求，磁力普点观测操作员严格取磁，仪器探头高度2 m保持不变，数据采集时间大于5 s.
+
+激电中梯测量前和收工后均对供电线和接收线进行漏电检查，供电电极绝缘电阻大于3 MΩ，测量电极绝缘电阻大于5 MΩ；不极化电极进行极差测量，保证配对后不极化电极的极差不大于2 mV.工作中遇畸变点、异常点均进行重复观测，做到每个测点无疑问后再观测下一测点.
+
+2.2 验证成果
+2.2.1 磁异常与矿化关系特征
+根据测量结果绘制出本区的ΔT剖面平图(图 2)，本次勘查在测区内圈定3个高磁异常，分别命名为C1、C2和C3.
+
+点击查看原图	
+图 2 哈得尔甘南地区ΔT剖面平面图
+Figure 2 Apparent charging rate plane contour map of the Hadeergannan area
+由图 2可以看出，区内磁场特征具有明显的分带性，北部正磁异常呈锯齿状，其值比较平缓，表现为火山岩特征；中部磁异常呈平缓负磁异常，表现为沉积岩的磁性特征；铁多金属引起的磁异常，其幅值较大，正负异常相伴生，表现为矿致异常.
+
+其中C3磁异常位于70-74线中北部，ΔT异常最高值可达4000多nT，且伴生有负异常，相对差值接近7000多nT.该异常地表为第四系覆盖，后在此异常开展了1:2000激电中梯剖面测量工作，结果显示(图 3)，激电异常与磁异常对应良好，在此基础上进行了钻探验证，ZKC2-1钻孔施工在该异常中心部位，为正北向75°斜孔，孔内共见有铁多金属矿(化)体11条，厚度0.64~3.39m，累计见矿厚度16.7 m，TFe品位28.58%~43.84%，Cu品位0.22%~1.31%，Pb品位0.30%~3.04%，Zn品位0.72%~6.02%.
+
+点击查看原图	
+图 3 P1剖面综合电法图
+Figure 3 P1 profile chart of the Integrated electrical prospecting
+C2磁异常位于22~28线南部，长约300 m，宽约50~130 m，走向约120°，异常峰值2345 nT，且伴生有负异常，相对差值接近4500多nT.该异常地表被第四系覆盖，针对此异常开展了1:2000激电中梯剖面测量工作，结果显示(图 4)，激电异常与磁异常对应较好，在此基础上进行了钻探验证，施工了钻孔ZKⅡ-1和ZKⅡ-2，两个钻孔中均见有磁铁矿黄铜矿矿石.
+
+点击查看原图	
+图 4 P7剖面综合电法图
+Figure 4 P7 profile chart of the Integrated electrical prospecting
+C1磁异常位于28线南部，异常范围较小，峰值达3540 nT，且伴生有负异常，相对差值接近6000多nT.该异常地表见磁铁矿露头，针对此异常开展了1:2000激电中梯剖面测量工作，结果显示，激电异常与磁异常对应较好(图 5)，在此基础上进行了钻探验证，施工了钻孔ZKⅡ-3，钻孔揭露磁铁矿黄铜矿矿石两层，厚约3 m.
+
+点击查看原图	
+图 5 P23剖面综合电法图
+Figure 5 P23 profile chart of the Integrated electrical prospecting
+2.2.2 激电异常与矿化关系特征
+经对磁异常进行激电中梯剖面解剖分析，正磁异常与激电异常对应良好，低阻、高阻向低阻过渡带对应高极化率，磁异常对应为高磁异常，电异常与磁异常呈正相关.经钻孔揭露，磁异常越强，激电异常越明显地段，其钻孔揭露的铁、铜等多金属品位越高，说明磁、电异常与多金属矿(化)体有关.
+
+3 物探找矿标志和方法
+综合上述成矿地质和磁、电性特征，哈得尔甘南地区找矿标志如下：
+
+(1) 铁矿体主要在矽卡岩中富集，因此，矽卡岩是找铁矿和铜矿的直接标志.矽卡岩外侧则是找铜矿和铅锌矿的一个直接标志.尤其是晚三叠世侵入岩和石炭纪碳酸盐岩形成的矽卡岩，成矿作用明显.
+
+(2) 磁法测量圈定的磁异常是寻找矽卡岩型铁矿的重要标志，激电测量圈定的低阻高极化异常区也是寻找多金属矿的重要标志，磁异常正负异常接触部位和激电异常极化率高值区(一般4%~6%)往往是矿化带所在位置，但规模较大的正磁异常多为岩体或火山岩所引起，而极化率值过高(大于10%)的区域则通常为地层中的黄铁矿化灰岩所引起.
+
+(3) 北西西向主断裂是矿区控矿构造，北北东向张性断层为主要导矿构造，层间构造和节理为主要容矿构造，在这些断裂的交汇部位便利于成矿，因此，断裂复合部位是寻找规模较大矿体的有利部位.
+
+4 成矿预测
+鄂拉山组火山岩及石炭系碳酸盐岩均在调查区出露，中酸-酸性侵入岩也有分布，褶皱及断裂构造发育，成矿地质条件十分有利.该地区目前已发现众多的矽卡岩型铁、铜、多金属矿点，与磁铁矿体伴生的金、银、钴矿在肯德可克、邻近测区的尕林格和卡尔却卡等矿区均有见及，该地区进一步找矿具有很大的潜力.
+
+根据1:5万地面高磁测量成果和近几年的工作总结，已发现的矿床点多位于大规模正异常的边缘部位，表现为小规模的弱磁异常，而尚有较多类似的异常未得到检查验证，因此，从物探的角度来看，该区还有较好的找矿前景.
+
+5 结论
+在哈得尔甘南地区采用磁法扫面，圈定磁异常，利用激电中梯法剖析磁异常，相互佐证，在寻找矽卡岩型铁多金属矿有较好的效果，铜、铅、锌矿体与磁铁矿呈伴生关系，利用磁铁矿的强磁特征直接寻找目标矿体；矿体赋存与矽卡岩带，含矿岩石破碎，电阻率与围岩相比较，呈低阻特征，金属硫化物呈高极化特征，利用这种地球物理特征，在该区寻找多金属矿，效果良好.因此，在认知矿区的物性差异的基础上，结合区域成矿规律，合理利用物探方法能够取得事倍功半的效果.
+
+致谢 感谢审稿专家提出的修改意见和编辑部的大力支持！
+参考文献
+Cao L M. 2011. The application and expectation of the geophysical methods to deep metal mine exploration[J]. Progress in Geophysics (in Chinese), 26(2): 701–708. DOI:10.3969/j.issn.1004-2903.2011.02.040
+Chen W J, Liu H T. 2009. Integrated geophysical exploration for concealed ore beneath cover in the Zhaojiaweizi area, Inner Mongolia, northern China[J]. Progress in Geophysics (in Chinese), 24(1): 293–302.
+Cui Y A, Ji T X, Li X Y, et al. 2013. Inversion of multi-anomalies in resistivity profiling based on particle swarm optimization[J]. Progress in Geophysics (in Chinese), 28(4): 2164–2170. DOI:10.6038/pg20130462
+Ding G M, Zhu Z Q, Chang R F, et al. 2015. Application of integrative geophysical methods to predicting deep ore body in Yechangping molybdenum deposit, Henan province[J]. Progress in Geophysics (in Chinese), 30(1): 325–331. DOI:10.6038/pg20150147
+Jiao Y J, Wushou A L, Wu W X, et al. 2013. Upper part for hidden rock mass with exploration and metallogenic studies-The Xinzhai tin metal ore exploration, for example[J]. Progress in Geophysics (in Chinese), 28(1): 329–337. DOI:10.6038/pg20130136
+Kang M, Qin K, Luo X R, et al. 2004. Relationship between metallogenesis and magmatic activities in the Naoniushan-Julihe copper polymetallic ore belt, eastern inner Mongolia[J]. Geosciences (in Chinese), 18(2): 210–216.
+Kong F H, Wang T Y, Song X D, et al. 2010. A synthesis method and its application to prospecting in Jierobo polymetallic deposit exploration[J]. Geological Survey and Research, 33(2): 108–114.
+Li D Q, Wang G J, Di Q Y, et al. 2007. The application of high-power induced polarization in the middlesection of eerguna metallogenic belt[J]. Progress in Geophysics (in Chinese), 22(5): 1621–1626. DOI:10.3969/j.issn.1004-2903.2007.05.044
+Shen Y C, Shen P, Liu T B, et al. 2008. Prediction of hidden gold orebodies in depleted mines by the stratagem EH4 system[J]. Progress in Geophysics (in Chinese), 23(1): 559–567.
+Sun X G, Li Y B, Liu H T. 2011. Applying of the integrated mineral deposits prospecting model in Longtoushan Ag-Pb-Zn polymetallic ore deposit, inner Mongolia[J]. Progress in Geophysics (in Chinese), 26(4): 1326–1333. DOI:10.3969/j.issn.1004-2903.2011.04.025
+Wang Y J, Yang L K, Liu H. 2007. The application of the integrated geophysical and geochemical method to the search for concealed lead-zinc deposits in Qinling area[J]. Geophysical & Geochemical Exploration (in Chinese), 31(4): 320–322.
+Yin C M, Wang C F, Ma Y S, et al. 2013. Geophysical characteristics and explanations of carboniferous in Qaidam basin[J]. Progress in Geophysics (in Chinese), 28(4): 1869–1876. DOI:10.6038/pg20130428
+Yuan G Q, Li F, Zheng H S, et al. 2010. Geophysical technologies and their application effects for exploration of deep metallic mineral[J]. Computing Techniques for Geophysical and Geochemical Exploration (in Chinese), 32(5): 495–499.
+Zhang G Z, Zhou L G, Wang Y H. 2015. Application of integrated electrical mathods to silver lead-zinc mine zone of Chaaobao in Inner Mongolia[J]. Progress in Geophysics (in Chinese), 30(2): 867–871. DOI:10.6038/pg20150252
+Zhang H R, Xiong S Q, Fan Z G, et al. 2009. Exploration effect of high precision aeromagnetic survey in mid-high mountains areas[J]. Progress in Geophysics (in Chinese), 28(4): 2051–2059. DOI:10.6038/pg20130449
+Zhao B M, Liu Y B, Lin X X, et al. 2014. Geological and geophysical characteristics and prospecting direction of iron ore in Xingtai-Handan[J]. Progress in Geophysics (in Chinese), 29(6): 2838–2842. DOI:10.6038/pg20140653
+Zhao G, Cui D Y, Chen T G, et al. 2010. Geological characteristics of Yangchang copper deposit Inner Mongolia and its genetic analysis[J]. Non-Ferrous Mining and Metallurgy(in Chinese), 26(3): 2–5.
+Zhou L G, Wang Y H, Zhang D L, et al. 2009. A study on application of integrated geophysical prospecting methods to the Rilonggou Sn-polymetallic metallogenic area[J]. Progress in Geophysics (in Chinese), 24(6): 2255–2260. DOI:10.3969/j.issn.1004-2903.2009.06.046
+曹令敏. 2011. 地球物理方法在金属矿深部找矿中的应用及展望[J]. 地球物理学进展, 26(2): 701–708. DOI:10.3969/j.issn.1004-2903.2011.02.040
+陈伟军, 刘红涛. 2009. 综合地球物理方法在隐伏矿床勘查中的应用-以内蒙赵家围子银铅锌多金属矿床为例[J]. 地球物理学进展, 24(1): 293–302.
+崔益安, 纪铜鑫, 李溪阳, 等. 2013. 基于粒子群优化的多目标体中梯电阻率异常反演[J]. 地球物理学进展, 28(4): 2164–2170. DOI:10.6038/pg20130462
+丁高明, 朱自强, 常荣凤, 等. 2015. 综合物探法在河南夜长坪钼矿深部找矿预测中的应用[J]. 地球物理学进展, 30(1): 325–331. DOI:10.6038/pg20150147
+焦彦杰, 吾守艾力, 吴文贤, 等. 2013. 隐伏岩体顶上带勘查与成矿研究-以新寨锡多金属矿勘查为例[J]. 地球物理学进展, 28(1): 329–337. DOI:10.6038/pg20130136
+康明, 芩况, 罗先熔, 等. 2004. 内蒙古东部闹牛山-巨里河铜多金属矿带岩浆活动与成矿的关系[J]. 现代地质, 18(2): 210–216.
+李帝铨, 王光杰, 底青云, 等. 2007. 大功率激发极化法在额尔古纳成矿带中段找矿中的应用[J]. 地球物理学进展, 22(5): 1621–1626. DOI:10.3969/j.issn.1004-2903.2007.05.044
+沈远超, 申萍, 刘铁兵, 等. 2008. EH4在危机矿山隐伏金矿体定位预测中的应用研究[J]. 地球物理学进展, 23(1): 559–567.
+孙兴国, 李永兵, 刘红涛. 2011. 综合找矿模型在内蒙古龙头山Ag-Pb-Zn多金属矿找矿中的应用[J]. 地球物理学进展, 26(4): 1326–1333. DOI:10.3969/j.issn.1004-2903.2011.04.025
+尹成明, 王财富, 马寅生, 等. 2013. 柴达木盆地石炭系地球物理特征及解释[J]. 地球物理学进展, 28(4): 1869–1876. DOI:10.6038/pg20130428
+袁桂琴, 李飞, 郑红闪, 等. 2010. 深部金属矿勘查中常用物探方法与应用效果[J]. 物探化探计算技术, 32(5): 495–499.
+张光之, 周立国, 王延浩. 2015. 综合电法在内蒙古查敖包银铅锌矿区的应用[J]. 地球物理学进展, 30(2): 867–871. DOI:10.6038/pg20150252
+张洪瑞, 熊盛青, 范正国, 等. 2013. 中高山区高精度航磁调查找矿效果研究[J]. 地球物理学进展, 28(4): 2051–2059. DOI:10.6038/pg20130449
+赵百民, 刘永斌, 林晓星, 等. 2014. 邢台-邯郸地区铁矿地质、地球物理特征及找矿方向[J]. 地球物理学进展, 29(6): 2838–2842. DOI:10.6038/pg20140653
+赵刚, 崔大勇, 陈铁光, 等. 2010. 内蒙古羊场铜矿床地质特征及成因分析[J]. 有色矿冶, 26(3): 2–5.
+周立国, 王延浩, 张单乐, 等. 2009. 日龙沟锡-多金属成矿区综合物探找矿方法应用研究[J]. 地球物理学进展, 24(6): 2255–2260. DOI:10.3969/j.issn.1004-2903.2009.06.046
